@@ -31,13 +31,11 @@ CATEGORIES = {
     "Discoveries": ["open source", "github", "free tool", "productivity", "design", "resource", "tutorial", "database", "self hosted"],
 }
 
-SOURCE_WEIGHTS = {"Hacker News": 13, "Simon Willison": 14, "Google Search Central": 14, "GitHub Blog": 12, "GitHub Trending": 10, "Lobsters": 10, "The Pragmatic Engineer": 10, "Indie Hackers": 9, "MIT Technology Review": 9, "IEEE Spectrum": 9, "TechCrunch": 6}
+SOURCE_WEIGHTS = {"Hacker News": 13, "Simon Willison": 14, "GitHub Blog": 12, "GitHub Trending": 10, "Lobsters": 10, "The Pragmatic Engineer": 10, "MIT Technology Review": 9, "IEEE Spectrum": 9, "TechCrunch": 6}
 DEFAULT_SOURCES = [
     {"name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/"},
-    {"name": "Google Search Central", "url": "https://developers.google.com/search/blog/rss.xml"},
     {"name": "GitHub Blog", "url": "https://github.blog/feed/"},
     {"name": "GitHub Trending", "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml"},
-    {"name": "Indie Hackers", "url": "https://www.indiehackers.com/feed.xml"},
     {"name": "The Pragmatic Engineer", "url": "https://newsletter.pragmaticengineer.com/feed"},
     {"name": "Lobsters", "url": "https://lobste.rs/rss"},
     {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/"},
