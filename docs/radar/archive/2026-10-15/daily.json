@@ -1,14 +1,12 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T14:32:45.535067+00:00",
+  "generated_at": "2026-10-15T14:36:48.924175+00:00",
   "total_collected": 187,
   "after_filtering": 53,
   "source_status": {
     "Simon Willison": "ok (30)",
-    "Google Search Central": "failed: HTTPError",
     "GitHub Blog": "ok (10)",
     "GitHub Trending": "ok (12)",
-    "Indie Hackers": "failed: HTTPError",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
@@ -66,14 +64,14 @@
       "source": "Hacker News",
       "published_at": "2026-10-14T23:59:37+00:00",
       "excerpt": "",
-      "popularity": 257,
+      "popularity": 258,
       "category": "AI Tools",
       "score": 54,
       "reasons": [
         "Matches ai tools terms: agent",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 257"
+        "Hacker News score: 258"
       ]
     },
     {
@@ -205,14 +203,14 @@
       "source": "Hacker News",
       "published_at": "2026-10-15T13:23:44+00:00",
       "excerpt": "",
-      "popularity": 10,
+      "popularity": 13,
       "category": "Discoveries",
       "score": 42,
       "reasons": [
         "Matches discoveries terms: design",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 10"
+        "Hacker News score: 13"
       ]
     },
     {

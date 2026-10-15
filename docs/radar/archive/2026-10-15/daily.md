@@ -34,7 +34,7 @@ Reason: Matches ai tools terms: ai, agent, developer tool; Trusted specialist so
 
 ### [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) — 54/100
 Source: Hacker News · Published: 2026-10-14T23:59:37+00:00
-Reason: Matches ai tools terms: agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 257
+Reason: Matches ai tools terms: agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 258
 
 ### [GitHub availability report: September 2026](https://github.blog/news-insights/company-news/github-availability-report-september-2026) — 52/100
 Source: GitHub Blog · Published: 2026-10-14T20:01:35+00:00
@@ -88,4 +88,4 @@ Reason: Matches discoveries terms: github, database; Trusted specialist source; 
 
 ### [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) — 42/100
 Source: Hacker News · Published: 2026-10-15T13:23:44+00:00
-Reason: Matches discoveries terms: design; Trusted specialist source; Published in the last 30 hours; Hacker News score: 10
+Reason: Matches discoveries terms: design; Trusted specialist source; Published in the last 30 hours; Hacker News score: 13
