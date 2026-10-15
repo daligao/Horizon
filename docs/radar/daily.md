@@ -88,4 +88,4 @@ Reason: Matches discoveries terms: github, database; Trusted specialist source; 
 
 ### [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) — 42/100
 Source: Hacker News · Published: 2026-10-15T13:23:44+00:00
-Reason: Matches discoveries terms: design; Trusted specialist source; Published in the last 30 hours; Hacker News score: 5
+Reason: Matches discoveries terms: design; Trusted specialist source; Published in the last 30 hours; Hacker News score: 10

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T14:30:09.670574+00:00",
+  "generated_at": "2026-10-15T14:32:45.535067+00:00",
   "total_collected": 187,
   "after_filtering": 53,
   "source_status": {
@@ -205,14 +205,14 @@
       "source": "Hacker News",
       "published_at": "2026-10-15T13:23:44+00:00",
       "excerpt": "",
-      "popularity": 5,
+      "popularity": 10,
       "category": "Discoveries",
       "score": 42,
       "reasons": [
         "Matches discoveries terms: design",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 5"
+        "Hacker News score: 10"
       ]
     },
     {
