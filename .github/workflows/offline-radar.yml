@@ -41,3 +41,13 @@ jobs:
           git add data/offline docs/radar
           git diff --cached --quiet || git commit -m "radar: daily offline briefing"
           git push
+      # The token-created commit above does not trigger deploy-docs.yml, so this
+      # explicit publish step keeps the existing gh-pages convention reliable.
+      - name: Publish radar and documentation to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          keep_files: true
+          publish_branch: gh-pages
+          enable_jekyll: true
