@@ -1,0 +1,43 @@
+name: Horizon Offline Radar
+
+on:
+  schedule:
+    # 08:20 Asia/Shanghai (UTC+8). GitHub schedules may be delayed.
+    - cron: '20 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: horizon-offline-radar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build-radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - name: Install project
+        run: uv sync --frozen --extra dev
+      - name: Build rules-only briefing (no AI keys)
+        run: uv run horizon-offline --site-dir docs/radar --state data/offline/history.json --hours 36
+      - name: Keep 90 daily pages
+        run: |
+          find docs/radar/archive -mindepth 1 -maxdepth 1 -type d -printf '%f\n' | sort -r | tail -n +91 | xargs -r -I{} rm -rf "docs/radar/archive/{}"
+      - name: Commit durable history and generated Pages files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/offline docs/radar
+          git diff --cached --quiet || git commit -m "radar: daily offline briefing"
+          git push

@@ -112,6 +112,23 @@ Run the full pipeline through the CLI, or let an AI assistant call its stages th
 
 ## Quick Start
 
+### Free offline daily radar (no AI key)
+
+`horizon-offline` is a separate, rules-only path designed for GitHub Actions and
+GitHub Pages. It fetches public RSS/Atom feeds plus Hacker News, applies
+explainable keyword/source/freshness scoring, and never initializes an AI
+client. It writes English HTML, Markdown, and JSON reports to `docs/radar/`.
+
+```bash
+uv sync --extra dev
+uv run horizon-offline
+open docs/radar/index.html
+```
+
+The enabled workflow is [.github/workflows/offline-radar.yml](.github/workflows/offline-radar.yml): it runs at 08:20 Beijing time, supports manual dispatch, keeps 90 daily pages, and commits only public source links, short feed excerpts, and bounded URL history. The existing `deploy-docs.yml` then publishes `docs/` to `gh-pages`; configure GitHub Pages to deploy from the `gh-pages` branch `/ (root)` folder. The radar then appears at `/Horizon/radar/`.
+
+To stop automatic runs, disable **Actions → Horizon Offline Radar → ⋯ → Disable workflow**. Re-enable it from the same page. Edit `DEFAULT_SOURCES` in `src/offline.py` to change sources and `CATEGORIES` / `score_item` to tune rules. Each workflow run contains collection failures in its step log without failing other feeds.
+
 ### 1. Install
 
 **Option A: Local Installation**

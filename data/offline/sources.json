@@ -1,0 +1,4 @@
+{
+  "description": "The built-in defaults in src/offline.py are deliberately public RSS/Atom feeds. This file documents the zero-key source policy.",
+  "rules": "Do not add sources requiring login, a paid plan, a key, or circumvention of access controls."
+}
