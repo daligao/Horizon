@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T14:36:48.924175+00:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T04:32:22.793766+00:00",
   "total_collected": 187,
-  "after_filtering": 53,
+  "after_filtering": 65,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
@@ -30,15 +30,15 @@
       ]
     },
     {
-      "title": "Uber\u2019s AI infra, from the inside",
-      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-10-14T17:06:56+00:00",
-      "excerpt": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+      "title": "The next developer interface is ambient intelligence",
+      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+      "source": "GitHub Blog",
+      "published_at": "2026-10-15T19:39:27+00:00",
+      "excerpt": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent\u2014and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
       "category": "AI Tools",
-      "score": 61,
+      "score": 63,
       "reasons": [
-        "Matches ai tools terms: ai, agent, developer tool",
+        "Matches ai tools terms: ai, agent, github",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
@@ -59,47 +59,35 @@
       ]
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
       "source": "Hacker News",
-      "published_at": "2026-10-14T23:59:37+00:00",
+      "published_at": "2026-10-15T13:23:44+00:00",
       "excerpt": "",
-      "popularity": 258,
+      "popularity": 549,
+      "category": "Discoveries",
+      "score": 57,
+      "reasons": [
+        "Matches discoveries terms: design",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 549"
+      ]
+    },
+    {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "source": "Hacker News",
+      "published_at": "2026-10-15T07:20:39+00:00",
+      "excerpt": "",
+      "popularity": 22,
       "category": "AI Tools",
       "score": 54,
       "reasons": [
-        "Matches ai tools terms: agent",
+        "Matches ai tools terms: ai, agent",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 258"
-      ]
-    },
-    {
-      "title": "GitHub availability report: September 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026",
-      "source": "GitHub Blog",
-      "published_at": "2026-10-14T20:01:35+00:00",
-      "excerpt": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, github",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers",
-      "source": "GitHub Blog",
-      "published_at": "2026-10-14T19:11:33+00:00",
-      "excerpt": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog .",
-      "category": "Discoveries",
-      "score": 52,
-      "reasons": [
-        "Matches discoveries terms: github, database",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Hacker News score: 22"
       ]
     },
     {
@@ -116,17 +104,89 @@
       ]
     },
     {
-      "title": "Flock CEO: We haven\u2019t \u2018fired\u2019 any police departments as customers",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers",
+      "title": "Uber\u2019s AI infra, from the inside",
+      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-10-14T17:06:56+00:00",
+      "excerpt": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+      "category": "AI Tools",
+      "score": 51,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, developer tool",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-10-15T16:55:18+00:00",
+      "excerpt": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "When it came to Cal AI\u2019s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
       "source": "TechCrunch",
-      "published_at": "2026-10-14T20:26:25+00:00",
-      "excerpt": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+      "published_at": "2026-10-15T23:44:56+00:00",
+      "excerpt": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
       "category": "Indie Business",
       "score": 50,
       "reasons": [
-        "Matches indie business terms: customers",
+        "Matches indie business terms: revenue",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
+      "source": "TechCrunch",
+      "published_at": "2026-10-15T19:55:25+00:00",
+      "excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
+      "source": "TechCrunch",
+      "published_at": "2026-10-15T18:56:46+00:00",
+      "excerpt": "Bluesky is bringing \u201csocial vibe coding\u201d to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware",
+      "source": "Hacker News",
+      "published_at": "2026-10-15T14:35:15+00:00",
+      "excerpt": "",
+      "popularity": 143,
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 143"
       ]
     },
     {
@@ -144,80 +204,38 @@
       ]
     },
     {
-      "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
-      "source": "TechCrunch",
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "excerpt": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "category": "Indie Business",
-      "score": 46,
-      "reasons": [
-        "Matches indie business terms: launch, acquisition",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes",
-      "source": "TechCrunch",
-      "published_at": "2026-10-14T22:00:00+00:00",
-      "excerpt": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "title": "GitHub availability report: September 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026",
+      "source": "GitHub Blog",
+      "published_at": "2026-10-14T20:01:35+00:00",
+      "excerpt": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
       "category": "AI Tools",
-      "score": 46,
+      "score": 42,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Tree Appreciator",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
-      "source": "Simon Willison",
-      "published_at": "2026-10-14T21:23:01+00:00",
-      "excerpt": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5.5 ",
-      "category": "AI Tools",
-      "score": 43,
-      "reasons": [
-        "Matches ai tools terms: claude",
+        "Matches ai tools terms: ai, github",
         "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published this week"
       ]
     },
     {
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
-      "source": "Simon Willison",
-      "published_at": "2026-10-14T16:26:53+00:00",
-      "excerpt": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can de",
-      "category": "Indie Business",
-      "score": 43,
-      "reasons": [
-        "Matches indie business terms: indie",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T13:23:44+00:00",
-      "excerpt": "",
-      "popularity": 13,
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers",
+      "source": "GitHub Blog",
+      "published_at": "2026-10-14T19:11:33+00:00",
+      "excerpt": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog .",
       "category": "Discoveries",
       "score": 42,
       "reasons": [
-        "Matches discoveries terms: design",
+        "Matches discoveries terms: github, database",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 13"
+        "Published this week"
       ]
     },
     {
-      "title": "The geometric model of maintenance",
-      "url": "https://entropicthoughts.com/geometric-model-of-maintenance",
+      "title": "Forgejo v17.0 is available",
+      "url": "https://forgejo.org/2026-10-release-v17-0",
       "source": "Lobsters",
-      "published_at": "2026-10-15T10:48:58+00:00",
+      "published_at": "2026-10-15T19:43:19+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -228,24 +246,24 @@
       ]
     },
     {
-      "title": "We found a Tencent agent fleet",
-      "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+      "title": "Linus Torvalds on AI-assisted kernel contributions",
+      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com",
       "source": "Lobsters",
-      "published_at": "2026-10-14T20:08:19+00:00",
+      "published_at": "2026-10-16T02:50:33+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
-        "Matches ai tools terms: agent",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Factor 0.102 now available",
-      "url": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
+      "title": "Epic's EAC2 v2 seems fairly easily bypassable",
+      "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable",
       "source": "Lobsters",
-      "published_at": "2026-10-14T13:42:39+00:00",
+      "published_at": "2026-10-15T22:48:19+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -274,19 +292,6 @@
       "source": "MIT Technology Review",
       "published_at": "2026-10-15T09:00:00+00:00",
       "excerpt": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it\u2019s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life",
-      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life",
-      "source": "MIT Technology Review",
-      "published_at": "2026-10-15T08:43:24+00:00",
-      "excerpt": "Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys\u2014which are similar in size to human ones\u2014were left in a glass-like state, in one\u2026",
       "category": "AI Tools",
       "score": 38,
       "reasons": [
