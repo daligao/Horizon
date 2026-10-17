@@ -1,20 +1,37 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T04:32:22.793766+00:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T04:26:27.053613+00:00",
   "total_collected": 187,
-  "after_filtering": 65,
+  "after_filtering": 66,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (12)",
+    "GitHub Trending": "ok (13)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (30)"
+    "Hacker News": "ok (29)"
   },
   "items": [
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T17:08:38+00:00",
+      "excerpt": "",
+      "popularity": 441,
+      "category": "AI Tools",
+      "score": 72,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 441"
+      ]
+    },
     {
       "title": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
@@ -30,64 +47,105 @@
       ]
     },
     {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. https://docs.caveman.so/caveman why many token when few do trick Caveman make your AI agent say less and read less. Code stay exact. Brain still big. 33.2% fewer input tokens, whole sessions 54 Claude Code runs , 18 of 18 answers right 54% cheaper with Auto, same score 85 coding tasks vs Opus 5.5 at xhigh, interim 397 \u2192 76 tokens for one test run Blocks vs | tail",
+      "category": "AI Tools",
+      "score": 58,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:55:59+00:00",
+      "excerpt": "",
+      "popularity": 755,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 755"
+      ]
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T19:04:47+00:00",
+      "excerpt": "",
+      "popularity": 275,
+      "category": "AI Tools",
+      "score": 55,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 275"
+      ]
+    },
+    {
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review",
+      "source": "Simon Willison",
+      "published_at": "2026-10-16T22:06:37+00:00",
+      "excerpt": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check\u2014automated or human\u2014is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This c",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
       "title": "The next developer interface is ambient intelligence",
       "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
       "source": "GitHub Blog",
       "published_at": "2026-10-15T19:39:27+00:00",
       "excerpt": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent\u2014and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
       "category": "AI Tools",
-      "score": 63,
+      "score": 53,
       "reasons": [
         "Matches ai tools terms: ai, agent, github",
         "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published this week"
       ]
     },
     {
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
-      "source": "Simon Willison",
-      "published_at": "2026-10-15T13:04:03+00:00",
-      "excerpt": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted",
-      "category": "Indie Business",
-      "score": 58,
+      "title": "Love is infrastructure",
+      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "excerpt": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who were richer and had more to\u2026",
+      "category": "AI Tools",
+      "score": 53,
       "reasons": [
-        "Matches indie business terms: revenue",
-        "Trusted specialist source",
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T13:23:44+00:00",
-      "excerpt": "",
-      "popularity": 549,
-      "category": "Discoveries",
-      "score": 57,
-      "reasons": [
-        "Matches discoveries terms: design",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 549"
-      ]
-    },
-    {
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T07:20:39+00:00",
-      "excerpt": "",
-      "popularity": 22,
+      "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
+      "url": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-16T18:00:03+00:00",
+      "excerpt": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs. Dubai , Paris , and Coral Gables , Fla., are among the cities that have invested heavily in programs to become smarter. But along with the conveniences that come with a smart city transition, there ",
       "category": "AI Tools",
-      "score": 54,
+      "score": 53,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Trusted specialist source",
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours",
-        "Hacker News score: 22"
+        "Includes concrete operating or outcome data"
       ]
     },
     {
@@ -101,34 +159,6 @@
       "reasons": [
         "Matches ai tools terms: ai, codex, claude",
         "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "Uber\u2019s AI infra, from the inside",
-      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-10-14T17:06:56+00:00",
-      "excerpt": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
-      "category": "AI Tools",
-      "score": 51,
-      "reasons": [
-        "Matches ai tools terms: ai, agent, developer tool",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "The Pulse: OpenAI software engineer accused of spying",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-10-15T16:55:18+00:00",
-      "excerpt": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
-      "category": "AI Tools",
-      "score": 50,
-      "reasons": [
-        "Matches ai tools terms: ai, openai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
       ]
     },
     {
@@ -146,96 +176,77 @@
       ]
     },
     {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
-      "source": "TechCrunch",
-      "published_at": "2026-10-15T19:55:25+00:00",
-      "excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "category": "AI Tools",
-      "score": 50,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
-      "source": "TechCrunch",
-      "published_at": "2026-10-15T18:56:46+00:00",
-      "excerpt": "Bluesky is bringing \u201csocial vibe coding\u201d to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "category": "AI Tools",
-      "score": 50,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware",
-      "source": "Hacker News",
-      "published_at": "2026-10-15T14:35:15+00:00",
-      "excerpt": "",
-      "popularity": 143,
+      "title": "Simulation App Speeds Up Electric Truck Battery Design",
+      "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-16T16:49:18+00:00",
+      "excerpt": "This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cropped up to meet the demand, delivery trucks still need to make considerably long drives, often over highways. To reduce fuel and maintenance costs as well as carbon emissions, companies are investing in electric trucks for their delivery fleets. While turning to electric trucks i",
       "category": "AI Tools",
       "score": 49,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 143"
+        "Matches ai tools terms: ai, llm",
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ https://clianything.cc/ CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans\ud83d\udc68\u200d\ud83d\udcbb. Tomorrow's Users will be Agents\ud83e\udd16. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software \ud83c\udf10 CLI-Hub : pip install cli-anything-hub then cli-hub install \u2014 browse, install, and manage all community-built CLIs. Want to add your own? Open a PR \u2014 the hub updates instantly. \ud83c\udfac See Demos : Watch AI",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "source": "TechCrunch",
+      "published_at": "2026-10-16T21:22:28+00:00",
+      "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
       "category": "AI Tools",
-      "score": 47,
+      "score": 46,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+      "source": "TechCrunch",
+      "published_at": "2026-10-16T17:52:24+00:00",
+      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "category": "AI Tools",
+      "score": 46,
       "reasons": [
         "Matches ai tools terms: ai, agent",
-        "Trusted specialist source",
-        "Includes concrete operating or outcome data"
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "GitHub availability report: September 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026",
-      "source": "GitHub Blog",
-      "published_at": "2026-10-14T20:01:35+00:00",
-      "excerpt": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-10-15T16:55:18+00:00",
+      "excerpt": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
       "category": "AI Tools",
-      "score": 42,
+      "score": 40,
       "reasons": [
-        "Matches ai tools terms: ai, github",
+        "Matches ai tools terms: ai, openai",
         "Trusted specialist source",
         "Published this week"
       ]
     },
     {
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers",
-      "source": "GitHub Blog",
-      "published_at": "2026-10-14T19:11:33+00:00",
-      "excerpt": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog .",
-      "category": "Discoveries",
-      "score": 42,
-      "reasons": [
-        "Matches discoveries terms: github, database",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "Forgejo v17.0 is available",
-      "url": "https://forgejo.org/2026-10-release-v17-0",
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "url": "https://words.filippo.io/seeds-solved",
       "source": "Lobsters",
-      "published_at": "2026-10-15T19:43:19+00:00",
+      "published_at": "2026-10-16T20:18:36+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "source": "Lobsters",
+      "published_at": "2026-10-16T16:36:29+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -260,25 +271,11 @@
       ]
     },
     {
-      "title": "Epic's EAC2 v2 seems fairly easily bypassable",
-      "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable",
-      "source": "Lobsters",
-      "published_at": "2026-10-15T22:48:19+00:00",
-      "excerpt": "Comments",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
       "source": "MIT Technology Review",
-      "published_at": "2026-10-15T12:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been\u2026",
+      "published_at": "2026-10-16T18:00:00+00:00",
+      "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but that could be next. Watch\u2026",
       "category": "AI Tools",
       "score": 38,
       "reasons": [
@@ -287,11 +284,11 @@
       ]
     },
     {
-      "title": "Six wild ideas for perpetuating your mind",
-      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality",
+      "title": "The Download: failed social media bans, and extending pets\u2019 lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives",
       "source": "MIT Technology Review",
-      "published_at": "2026-10-15T09:00:00+00:00",
-      "excerpt": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it\u2019s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that\u2026",
+      "published_at": "2026-10-16T12:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined\u2026",
       "category": "AI Tools",
       "score": 38,
       "reasons": [
