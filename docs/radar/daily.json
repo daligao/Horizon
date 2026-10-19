@@ -1,20 +1,36 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T04:34:32.244947+00:00",
-  "total_collected": 162,
-  "after_filtering": 43,
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T04:41:13.351545+00:00",
+  "total_collected": 188,
+  "after_filtering": 45,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
     "GitHub Trending": "ok (13)",
     "The Pragmatic Engineer": "ok (20)",
-    "Lobsters": "failed: HTTPError",
+    "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (29)"
+    "Hacker News": "ok (30)"
   },
   "items": [
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T20:48:14+00:00",
+      "excerpt": "",
+      "popularity": 282,
+      "category": "AI Tools",
+      "score": 67,
+      "reasons": [
+        "Matches ai tools terms: llm, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 282"
+      ]
+    },
     {
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
@@ -22,100 +38,43 @@
       "published_at": "2026-10-17T18:48:08+00:00",
       "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
       "category": "AI Tools",
-      "score": 72,
+      "score": 62,
       "reasons": [
         "Matches ai tools terms: ai, claude, openai",
-        "Published in the last 30 hours",
+        "Published this week",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. https://context-mode.com Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log \u2014 45 KB. After 30 minutes, 40% of your context is gone. And when the agent",
-      "category": "AI Tools",
-      "score": 67,
-      "reasons": [
-        "Matches ai tools terms: ai, agent, mcp",
-        "Trusted specialist source",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains",
       "source": "Hacker News",
-      "published_at": "2026-10-17T08:21:25+00:00",
+      "published_at": "2026-10-18T16:56:56+00:00",
       "excerpt": "",
-      "popularity": 761,
-      "category": "AI Tools",
-      "score": 57,
-      "reasons": [
-        "Matches ai tools terms: deepseek",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 761"
-      ]
-    },
-    {
-      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "source": "Hacker News",
-      "published_at": "2026-10-17T15:55:09+00:00",
-      "excerpt": "",
-      "popularity": 320,
+      "popularity": 503,
       "category": "AI Tools",
       "score": 57,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 320"
+        "Hacker News score: 503"
       ]
     },
     {
-      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
       "source": "Hacker News",
-      "published_at": "2026-10-17T04:36:53+00:00",
+      "published_at": "2026-10-18T21:36:10+00:00",
       "excerpt": "",
-      "popularity": 267,
+      "popularity": 60,
       "category": "AI Tools",
-      "score": 55,
+      "score": 56,
       "reasons": [
-        "Matches ai tools terms: llm",
+        "Matches ai tools terms: mcp, cloudflare",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 267"
-      ]
-    },
-    {
-      "title": "web-edit 0.1a2",
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
-      "source": "Simon Willison",
-      "published_at": "2026-10-17T13:16:49+00:00",
-      "excerpt": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the resulting logs into a Gist. Tags: projects , pelican-riding-a-bicycle , deepseek",
-      "category": "AI Tools",
-      "score": 54,
-      "reasons": [
-        "Matches ai tools terms: ai, deepseek",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. https://arxiv.org/abs/2609.00065 Scientific Agent Skills \ud83d\udd14 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility \u2014 now wo",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, codex, claude",
-        "Trusted specialist source"
+        "Hacker News score: 60"
       ]
     },
     {
@@ -132,108 +91,125 @@
       ]
     },
     {
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "url": "https://simonwillison.net/2026/Oct/16/code-review",
-      "source": "Simon Willison",
-      "published_at": "2026-10-16T22:06:37+00:00",
-      "excerpt": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check\u2014automated or human\u2014is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This c",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. https://arxiv.org/abs/2609.00065 Scientific Agent Skills \ud83d\udd14 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility \u2014 now wo",
       "category": "AI Tools",
-      "score": 44,
+      "score": 52,
       "reasons": [
-        "Matches ai tools terms: ai, claude",
-        "Trusted specialist source",
-        "Published this week"
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
       ]
     },
     {
-      "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
-      "url": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-10-16T18:00:03+00:00",
-      "excerpt": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs. Dubai , Paris , and Coral Gables , Fla., are among the cities that have invested heavily in programs to become smarter. But along with the conveniences that come with a smart city transition, there ",
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai-memory Your coding agent probably has a memory feature already. Claude Code takes its own notes, Cursor remembers some things, and every platform is adding mor",
       "category": "AI Tools",
-      "score": 43,
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Updates to site guidelines and AI/LLM tags",
+      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+      "source": "Lobsters",
+      "published_at": "2026-10-19T01:28:53+00:00",
+      "excerpt": "Hey folks, I've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topi",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai, llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
+      "source": "TechCrunch",
+      "published_at": "2026-10-18T20:37:40+00:00",
+      "excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "category": "AI Tools",
+      "score": 50,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published this week",
+        "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Simulation App Speeds Up Electric Truck Battery Design",
-      "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-10-16T16:49:18+00:00",
-      "excerpt": "This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cropped up to meet the demand, delivery trucks still need to make considerably long drives, often over highways. To reduce fuel and maintenance costs as well as carbon emissions, companies are investing in electric trucks for their delivery fleets. While turning to electric trucks i",
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+      "source": "Simon Willison",
+      "published_at": "2026-10-18T23:43:09+00:00",
+      "excerpt": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
       "category": "AI Tools",
-      "score": 39,
+      "score": 43,
       "reasons": [
-        "Matches ai tools terms: ai, llm",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
-      "url": "https://spectrum.ieee.org/variable-frequency-drives",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-10-17T13:00:02+00:00",
-      "excerpt": "This article was originally published by Canary Media . America\u2019s energy supply crunch is driving a surge of federal and private investment in new electricity generation \u2014 from polluting gas turbines to cleaner developments like solar farms and geothermal plants . But gigawatts of power are already available for the taking across the U.S. economy in the form of wasted energy from an unexpected source: motors. Some 50 million electric motors drive the fans, pumps, and compressors found in virtual",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
-      "source": "TechCrunch",
-      "published_at": "2026-10-16T17:52:24+00:00",
-      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+      "source": "Simon Willison",
+      "published_at": "2026-10-18T23:16:16+00:00",
+      "excerpt": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage Outputs: First I consider the promp",
       "category": "AI Tools",
-      "score": 36,
+      "score": 43,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published this week"
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "title": "It's enough - vibecoding tag crossed from useless to harmful",
+      "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
+      "source": "Lobsters",
+      "published_at": "2026-10-18T10:35:11+00:00",
+      "excerpt": "The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns away very valuable members https://lobste.rs/c/vecuxj I sighed and moved on for a while now as almos",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "ARP! Tell your network to explain itself",
+      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself",
+      "source": "Lobsters",
+      "published_at": "2026-10-18T12:48:02+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
       "source": "TechCrunch",
-      "published_at": "2026-10-17T21:31:32+00:00",
-      "excerpt": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "published_at": "2026-10-18T16:30:00+00:00",
+      "excerpt": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "category": "AI Tools",
       "score": 35,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
-      "source": "MIT Technology Review",
-      "published_at": "2026-10-16T18:00:00+00:00",
-      "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but that could be next. Watch\u2026",
-      "category": "AI Tools",
-      "score": 28,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "Inline rendering with document\u200b.currentScript",
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
-      "source": "Simon Willison",
-      "published_at": "2026-10-17T21:11:12+00:00",
-      "excerpt": "Inline rendering with document\u200b.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline element that replaces itself when the page loads: The year is document.currentScript.replaceWith( new Date().getFullYear()) If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is $(new Date().getFullYear()) Tags: javascript",
-      "category": "Indie Business",
-      "score": 22,
-      "reasons": [
-        "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     }

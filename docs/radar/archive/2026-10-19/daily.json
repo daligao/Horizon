@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T04:41:13.351545+00:00",
+  "total_collected": 188,
+  "after_filtering": 45,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (13)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (30)"
+  },
+  "items": [
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T20:48:14+00:00",
+      "excerpt": "",
+      "popularity": 282,
+      "category": "AI Tools",
+      "score": 67,
+      "reasons": [
+        "Matches ai tools terms: llm, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 282"
+      ]
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "source": "TechCrunch",
+      "published_at": "2026-10-17T18:48:08+00:00",
+      "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "category": "AI Tools",
+      "score": 62,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, openai",
+        "Published this week",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T16:56:56+00:00",
+      "excerpt": "",
+      "popularity": 503,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 503"
+      ]
+    },
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T21:36:10+00:00",
+      "excerpt": "",
+      "popularity": 60,
+      "category": "AI Tools",
+      "score": 56,
+      "reasons": [
+        "Matches ai tools terms: mcp, cloudflare",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 60"
+      ]
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. https://ecc.tools Language: English | \u0627\u0644\u0639\u0631\u0628\u064a\u0629 | Portugu\u00eas (Brasil) | \u7b80\u4f53\u4e2d\u6587 | \u7e41\u9ad4\u4e2d\u6587 | \u65e5\u672c\u8a9e | \ud55c\uad6d\uc5b4 | T\u00fcrk\u00e7e | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 | Ti\u1ebfng Vi\u1ec7t | \u0e44\u0e17\u0e22 | Deutsch | Espa\u00f1ol | \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 | Polski | \u09ac\u09be\u0982\u09b2\u09be Warning Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC , the npm packages ecc-univer",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: codex, claude, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. https://arxiv.org/abs/2609.00065 Scientific Agent Skills \ud83d\udd14 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility \u2014 now wo",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai-memory Your coding agent probably has a memory feature already. Claude Code takes its own notes, Cursor remembers some things, and every platform is adding mor",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Updates to site guidelines and AI/LLM tags",
+      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+      "source": "Lobsters",
+      "published_at": "2026-10-19T01:28:53+00:00",
+      "excerpt": "Hey folks, I've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topi",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai, llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
+      "source": "TechCrunch",
+      "published_at": "2026-10-18T20:37:40+00:00",
+      "excerpt": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+      "source": "Simon Willison",
+      "published_at": "2026-10-18T23:43:09+00:00",
+      "excerpt": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+      "source": "Simon Willison",
+      "published_at": "2026-10-18T23:16:16+00:00",
+      "excerpt": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage Outputs: First I consider the promp",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "It's enough - vibecoding tag crossed from useless to harmful",
+      "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
+      "source": "Lobsters",
+      "published_at": "2026-10-18T10:35:11+00:00",
+      "excerpt": "The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns away very valuable members https://lobste.rs/c/vecuxj I sighed and moved on for a while now as almos",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "ARP! Tell your network to explain itself",
+      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself",
+      "source": "Lobsters",
+      "published_at": "2026-10-18T12:48:02+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+      "source": "TechCrunch",
+      "published_at": "2026-10-18T16:30:00+00:00",
+      "excerpt": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "category": "AI Tools",
+      "score": 35,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    }
+  ]
+}
