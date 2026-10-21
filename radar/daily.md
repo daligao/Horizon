@@ -1,91 +1,93 @@
-# Horizon Daily Radar — 2026-10-20
+# Horizon Daily Radar — 2026-10-21
 
-Collected: 185 · After filtering: 60 · Selected: 20
+Collected: 187 · After filtering: 66 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [Making all divisions slower to fix a bug in 0.000000000000000000542% of cases](https://futhark-lang.org/blog/2026-10-14-defining-division.html) — 33/100
-Source: Lobsters · Published: 2026-10-19T16:42:07+00:00
-Reason: Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
+### [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations) — 50/100
+Source: TechCrunch · Published: 2026-10-20T20:40:41+00:00
+Reason: Matches indie business terms: profit; Published in the last 30 hours; Includes concrete operating or outcome data
 
 ## AI Tools
 
-### [Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts) — 72/100
-Source: TechCrunch · Published: 2026-10-19T19:28:34+00:00
-Reason: Matches ai tools terms: ai, claude, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+### [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — 67/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, llm, agent; Trusted specialist source; Includes concrete operating or outcome data
 
-### [Making the internet better for AI agents might make it worse for everyone else](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else) — 64/100
-Source: MIT Technology Review · Published: 2026-10-19T18:22:47+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers) — 61/100
+Source: TechCrunch · Published: 2026-10-20T18:38:24+00:00
+Reason: Matches ai tools terms: ai, developer tool; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world) — 61/100
-Source: TechCrunch · Published: 2026-10-19T12:30:00+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+### [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) — 57/100
+Source: Hacker News · Published: 2026-10-20T09:08:54+00:00
+Reason: Matches ai tools terms: deepseek; Trusted specialist source; Published in the last 30 hours; Hacker News score: 2186
 
-### [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play) — 60/100
-Source: MIT Technology Review · Published: 2026-10-19T09:08:05+00:00
-Reason: Matches ai tools terms: ai, claude, agent; Published in the last 30 hours
-
-### [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted) — 57/100
-Source: TechCrunch · Published: 2026-10-19T22:04:28+00:00
-Reason: Matches ai tools terms: ai, openai, agent; Published in the last 30 hours
+### [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates) — 54/100
+Source: Simon Willison · Published: 2026-10-20T23:50:25+00:00
+Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published in the last 30 hours
 
 ### [My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming) — 54/100
 Source: Simon Willison · Published: 2026-10-19T23:58:25+00:00
 Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours
 
-### [How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code) — 52/100
-Source: GitHub Blog · Published: 2026-10-19T18:47:22+00:00
-Reason: Matches ai tools terms: agent, github; Trusted specialist source; Published in the last 30 hours
-
-### [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 52/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
+### [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026) — 54/100
+Source: Hacker News · Published: 2026-10-20T17:10:31+00:00
+Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 36
 
 ### [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) — 52/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [stablyai/orca](https://github.com/stablyai/orca) — 52/100
+### [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 52/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310) — 51/100
-Source: Hacker News · Published: 2026-10-19T15:31:34+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 180
+### [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones) — 43/100
+Source: Simon Willison · Published: 2026-10-20T19:34:19+00:00
+Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours
 
-### [Updates to site guidelines and AI/LLM tags](https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags) — 50/100
-Source: Lobsters · Published: 2026-10-19T01:28:53+00:00
-Reason: Matches ai tools terms: ai, llm; Trusted specialist source; Published in the last 30 hours
+### [How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code) — 42/100
+Source: GitHub Blog · Published: 2026-10-19T18:47:22+00:00
+Reason: Matches ai tools terms: agent, github; Trusted specialist source; Published this week
 
-### [The Download: preserving the Arctic permafrost, and playful AI agents](https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents) — 49/100
-Source: MIT Technology Review · Published: 2026-10-19T12:10:00+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
+### [What’s the ROI of software engineers’ spending on AI?](https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers) — 39/100
+Source: The Pragmatic Engineer · Published: 2026-10-20T17:34:18+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) — 48/100
-Source: Hacker News · Published: 2026-10-19T23:22:18+00:00
-Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours; Hacker News score: 137
+### [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid) — 39/100
+Source: Lobsters · Published: 2026-10-20T13:44:53+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette) — 43/100
-Source: Simon Willison · Published: 2026-10-18T23:43:09+00:00
-Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours
+### [It’s a bird, it’s a plane … it’s a robo-puffin?](https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin) — 38/100
+Source: MIT Technology Review · Published: 2026-10-20T21:00:00+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo) — 43/100
-Source: Simon Willison · Published: 2026-10-18T23:16:16+00:00
-Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours
-
-### [Edge AI for Smart Cities: From Insight to Cognitive Action](https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems) — 38/100
-Source: IEEE Spectrum · Published: 2026-10-19T10:00:04+00:00
+### [Melt it, spin it, use it again](https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again) — 38/100
+Source: MIT Technology Review · Published: 2026-10-20T21:00:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
 ## Technology
 
-### [The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign) — 49/100
-Source: IEEE Spectrum · Published: 2026-10-19T13:00:03+00:00
-Reason: Matches technology terms: robot, battery; Published in the last 30 hours
+### [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826) — 44/100
+Source: Hacker News · Published: 2026-10-21T02:04:15+00:00
+Reason: Matches technology terms: space; Trusted specialist source; Published in the last 30 hours; Hacker News score: 42
 
-### [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) — 48/100
-Source: Hacker News · Published: 2026-10-19T21:11:45+00:00
-Reason: Matches technology terms: gpu; Trusted specialist source; Published in the last 30 hours; Hacker News score: 124
+## Discoveries
+
+### [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) — 52/100
+Source: GitHub Blog · Published: 2026-10-20T16:05:03+00:00
+Reason: Matches discoveries terms: github, productivity; Trusted specialist source; Published in the last 30 hours
+
+### [ChatGPT now lets you lock your chats](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats) — 50/100
+Source: TechCrunch · Published: 2026-10-20T18:36:53+00:00
+Reason: Matches discoveries terms: design; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026) — 39/100
+Source: Lobsters · Published: 2026-10-21T00:44:49+00:00
+Reason: Matches discoveries terms: resource; Trusted specialist source; Published in the last 30 hours
+
+### [EDG is open source](https://edgcpp.org/) — 39/100
+Source: Lobsters · Published: 2026-10-20T20:33:19+00:00
+Reason: Matches discoveries terms: open source; Trusted specialist source; Published in the last 30 hours
