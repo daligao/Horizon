@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T04:47:23.261809+00:00",
-  "total_collected": 187,
-  "after_filtering": 66,
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T04:45:49.779586+00:00",
+  "total_collected": 190,
+  "after_filtering": 67,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (12)",
+    "GitHub Trending": "ok (15)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
@@ -15,6 +15,21 @@
     "Hacker News": "ok (30)"
   },
   "items": [
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
+      "source": "GitHub Blog",
+      "published_at": "2026-10-21T16:00:00+00:00",
+      "excerpt": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 67,
+      "reasons": [
+        "Matches ai tools terms: agent, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
     {
       "title": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
@@ -30,33 +45,77 @@
       ]
     },
     {
-      "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T18:38:24+00:00",
-      "excerpt": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T12:53:11+00:00",
+      "excerpt": "",
+      "popularity": 261,
       "category": "AI Tools",
+      "score": 66,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 261"
+      ]
+    },
+    {
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+      "source": "TechCrunch",
+      "published_at": "2026-10-21T20:33:09+00:00",
+      "excerpt": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+      "category": "Indie Business",
       "score": 61,
       "reasons": [
-        "Matches ai tools terms: ai, developer tool",
+        "Matches indie business terms: revenue, profit",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "source": "Hacker News",
-      "published_at": "2026-10-20T09:08:54+00:00",
-      "excerpt": "",
-      "popularity": 2186,
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "source": "TechCrunch",
+      "published_at": "2026-10-21T19:30:00+00:00",
+      "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
       "category": "AI Tools",
-      "score": 57,
+      "score": 61,
       "reasons": [
-        "Matches ai tools terms: deepseek",
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code \u00b7 -41% time \u00b7 -26% cost \u00b7 -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail: 68%. Benchmarked in Claude Code, the same agent with and without the skill: 39 tasks including a real FastAPI + React repo, Opus 5.5, 5 runs each. Details . Esp",
+      "category": "AI Tools",
+      "score": 58,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T16:44:53+00:00",
+      "excerpt": "",
+      "popularity": 46,
+      "category": "AI Tools",
+      "score": 55,
+      "reasons": [
+        "Matches ai tools terms: claude, agent",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 2186"
+        "Hacker News score: 46"
       ]
     },
     {
@@ -74,55 +133,41 @@
       ]
     },
     {
-      "title": "My obituary for programming",
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
-      "source": "Simon Willison",
-      "published_at": "2026-10-19T23:58:25+00:00",
-      "excerpt": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn't do it! No, they needed us. They would give us a problem and we would sol",
-      "category": "AI Tools",
-      "score": 54,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026",
+      "title": "LLM agents play Pokemon showdown",
+      "url": "https://olivergrabner.com/research/pokemon",
       "source": "Hacker News",
-      "published_at": "2026-10-20T17:10:31+00:00",
+      "published_at": "2026-10-22T02:13:48+00:00",
       "excerpt": "",
-      "popularity": 36,
+      "popularity": 20,
       "category": "AI Tools",
       "score": 54,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
+        "Matches ai tools terms: llm, agent",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 36"
+        "Hacker News score: 20"
       ]
     },
     {
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-      "source": "GitHub Blog",
-      "published_at": "2026-10-20T16:05:03+00:00",
-      "excerpt": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
-      "category": "Discoveries",
-      "score": 52,
+      "title": "Nuclear-powered spaceships",
+      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "excerpt": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era\u2026",
+      "category": "Technology",
+      "score": 53,
       "reasons": [
-        "Matches discoveries terms: github, productivity",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Matches technology terms: space",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
       "source": "GitHub Trending",
       "published_at": null,
-      "excerpt": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai-memory Your coding agent probably has a memory feature already. Claude Code takes its own notes, Cursor remembers some things, and every platform is adding mor",
+      "excerpt": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. https://orca.dev Orca \u4e2d\u6587 \u00b7 \u65e5\u672c\u8a9e \u00b7 \ud55c\uad6d\uc5b4 \u00b7 Espa\u00f1ol \u00b7 Fran\u00e7ais \u00b7 Portugu\u00eas The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side \u2014 each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from your phone \u2014 get notified when an ",
       "category": "AI Tools",
       "score": 52,
       "reasons": [
@@ -131,60 +176,112 @@
       ]
     },
     {
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated https://Cognitum.One An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Claude Code with core tools, the visual console and runtime mods. Requires Claude Code 2.1.287 or later",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, codex, claude",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "SpaceX\u2019s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
       "source": "TechCrunch",
-      "published_at": "2026-10-20T20:40:41+00:00",
-      "excerpt": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+      "published_at": "2026-10-22T00:17:54+00:00",
+      "excerpt": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company\u2019s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, [\u2026]",
       "category": "Indie Business",
       "score": 50,
       "reasons": [
-        "Matches indie business terms: profit",
+        "Matches indie business terms: customers",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T18:36:53+00:00",
-      "excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "category": "Discoveries",
-      "score": 50,
-      "reasons": [
-        "Matches discoveries terms: design",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826",
-      "source": "Hacker News",
-      "published_at": "2026-10-21T02:04:15+00:00",
-      "excerpt": "",
-      "popularity": 42,
+      "title": "Solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "excerpt": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has\u2026",
       "category": "Technology",
-      "score": 44,
+      "score": 49,
       "reasons": [
-        "Matches technology terms: space",
+        "Matches technology terms: energy, battery",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release",
+      "source": "Simon Willison",
+      "published_at": "2026-10-21T18:41:53+00:00",
+      "excerpt": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 42"
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The revised rules of engineering management with Will Larson",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-10-21T16:58:21+00:00",
+      "excerpt": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO.",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Railway Security Disclosure: Wednesday October 21st",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "Lobsters",
+      "published_at": "2026-10-21T22:31:11+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
+      "source": "Lobsters",
+      "published_at": "2026-10-21T21:32:29+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-21T12:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it\u2019s fun to dream about\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "How Wikipedia\u2019s Editors Keep the Online Encyclopedia Human-Written",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-21T13:00:02+00:00",
+      "excerpt": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website\u2019s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clich\u00e9s. Today, the project\u2019s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI\u2019s role in the world\u2019s most widely used encyclopedia. When did you realize Wikipedia had a problem with A",
+      "category": "Indie Business",
+      "score": 38,
+      "reasons": [
+        "Matches indie business terms: launch",
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -194,107 +291,11 @@
       "published_at": "2026-10-20T19:34:19+00:00",
       "excerpt": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built thi",
       "category": "AI Tools",
-      "score": 43,
+      "score": 33,
       "reasons": [
         "Matches ai tools terms: claude",
         "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
-      "source": "GitHub Blog",
-      "published_at": "2026-10-19T18:47:22+00:00",
-      "excerpt": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 42,
-      "reasons": [
-        "Matches ai tools terms: agent, github",
-        "Trusted specialist source",
         "Published this week"
-      ]
-    },
-    {
-      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?",
-      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-10-20T17:34:18+00:00",
-      "excerpt": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies \u2013 with some interesting findings",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "NixOS is making me less afraid",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "source": "Lobsters",
-      "published_at": "2026-10-20T13:44:53+00:00",
-      "excerpt": "Comments",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Unauthorized Access to PingCAP Cloud Resources",
-      "url": "https://www.pingcap.com/trust-hub/security/security-update-october-2026",
-      "source": "Lobsters",
-      "published_at": "2026-10-21T00:44:49+00:00",
-      "excerpt": "Comments",
-      "category": "Discoveries",
-      "score": 39,
-      "reasons": [
-        "Matches discoveries terms: resource",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "EDG is open source",
-      "url": "https://edgcpp.org/",
-      "source": "Lobsters",
-      "published_at": "2026-10-20T20:33:19+00:00",
-      "excerpt": "Comments",
-      "category": "Discoveries",
-      "score": 39,
-      "reasons": [
-        "Matches discoveries terms: open source",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "It\u2019s a bird, it\u2019s a plane \u2026 it\u2019s a robo-puffin?",
-      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin",
-      "source": "MIT Technology Review",
-      "published_at": "2026-10-20T21:00:00+00:00",
-      "excerpt": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Melt it, spin it, use it again",
-      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again",
-      "source": "MIT Technology Review",
-      "published_at": "2026-10-20T21:00:00+00:00",
-      "excerpt": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon. Those\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
       ]
     }
   ]

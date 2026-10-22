@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T04:45:49.779586+00:00",
+  "total_collected": 190,
+  "after_filtering": 67,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (15)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (30)"
+  },
+  "items": [
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
+      "source": "GitHub Blog",
+      "published_at": "2026-10-21T16:00:00+00:00",
+      "excerpt": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 67,
+      "reasons": [
+        "Matches ai tools terms: agent, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart \u00b7 Headroom for Teams \u00b7 Install \u00b7 Proof \u00b7 Agents \u00b7 Docs \u00b7 Discord \u00b7 llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index \u00b7 full docs blob . Headroom compresses everything your AI agent reads \u2014 tool outputs, logs, RAG chunks, files, and conversation hi",
+      "category": "AI Tools",
+      "score": 67,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, agent",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T12:53:11+00:00",
+      "excerpt": "",
+      "popularity": 261,
+      "category": "AI Tools",
+      "score": 66,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 261"
+      ]
+    },
+    {
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+      "source": "TechCrunch",
+      "published_at": "2026-10-21T20:33:09+00:00",
+      "excerpt": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+      "category": "Indie Business",
+      "score": 61,
+      "reasons": [
+        "Matches indie business terms: revenue, profit",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "source": "TechCrunch",
+      "published_at": "2026-10-21T19:30:00+00:00",
+      "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. Ponytail 5: rebuilt from the ground up. -53% code \u00b7 -41% time \u00b7 -26% cost \u00b7 -45% tokens And yet: 98% of risky logic ships with a test. Without Ponytail: 68%. Benchmarked in Claude Code, the same agent with and without the skill: 39 tasks including a real FastAPI + React repo, Opus 5.5, 5 runs each. Details . Esp",
+      "category": "AI Tools",
+      "score": 58,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T16:44:53+00:00",
+      "excerpt": "",
+      "popularity": 46,
+      "category": "AI Tools",
+      "score": 55,
+      "reasons": [
+        "Matches ai tools terms: claude, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 46"
+      ]
+    },
+    {
+      "title": "eMudhra Intermediate CA Compromise",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
+      "source": "Simon Willison",
+      "published_at": "2026-10-20T23:50:25+00:00",
+      "excerpt": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "LLM agents play Pokemon showdown",
+      "url": "https://olivergrabner.com/research/pokemon",
+      "source": "Hacker News",
+      "published_at": "2026-10-22T02:13:48+00:00",
+      "excerpt": "",
+      "popularity": 20,
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: llm, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 20"
+      ]
+    },
+    {
+      "title": "Nuclear-powered spaceships",
+      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "excerpt": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era\u2026",
+      "category": "Technology",
+      "score": 53,
+      "reasons": [
+        "Matches technology terms: space",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. https://orca.dev Orca \u4e2d\u6587 \u00b7 \u65e5\u672c\u8a9e \u00b7 \ud55c\uad6d\uc5b4 \u00b7 Espa\u00f1ol \u00b7 Fran\u00e7ais \u00b7 Portugu\u00eas The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side \u2014 each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from your phone \u2014 get notified when an ",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22T00:17:54+00:00",
+      "excerpt": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company\u2019s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, [\u2026]",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: customers",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "excerpt": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has\u2026",
+      "category": "Technology",
+      "score": 49,
+      "reasons": [
+        "Matches technology terms: energy, battery",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release",
+      "source": "Simon Willison",
+      "published_at": "2026-10-21T18:41:53+00:00",
+      "excerpt": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The revised rules of engineering management with Will Larson",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-10-21T16:58:21+00:00",
+      "excerpt": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO.",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Railway Security Disclosure: Wednesday October 21st",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "Lobsters",
+      "published_at": "2026-10-21T22:31:11+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
+      "source": "Lobsters",
+      "published_at": "2026-10-21T21:32:29+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-21T12:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it\u2019s fun to dream about\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "How Wikipedia\u2019s Editors Keep the Online Encyclopedia Human-Written",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-21T13:00:02+00:00",
+      "excerpt": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website\u2019s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clich\u00e9s. Today, the project\u2019s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI\u2019s role in the world\u2019s most widely used encyclopedia. When did you realize Wikipedia had a problem with A",
+      "category": "Indie Business",
+      "score": 38,
+      "reasons": [
+        "Matches indie business terms: launch",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones",
+      "source": "Simon Willison",
+      "published_at": "2026-10-20T19:34:19+00:00",
+      "excerpt": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built thi",
+      "category": "AI Tools",
+      "score": 33,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    }
+  ]
+}
