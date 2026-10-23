@@ -1,33 +1,48 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T04:45:49.779586+00:00",
-  "total_collected": 190,
-  "after_filtering": 67,
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T04:49:29.264606+00:00",
+  "total_collected": 184,
+  "after_filtering": 62,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (15)",
+    "GitHub Trending": "ok (11)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (30)"
+    "Hacker News": "ok (28)"
   },
   "items": [
     {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
-      "source": "GitHub Blog",
-      "published_at": "2026-10-21T16:00:00+00:00",
-      "excerpt": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+      "source": "Simon Willison",
+      "published_at": "2026-10-22T18:09:56+00:00",
+      "excerpt": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We\u2019re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't",
       "category": "AI Tools",
-      "score": 67,
+      "score": 74,
       "reasons": [
-        "Matches ai tools terms: agent, github",
+        "Matches ai tools terms: ai, openai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "Hacker News",
+      "published_at": "2026-10-22T17:44:06+00:00",
+      "excerpt": "",
+      "popularity": 341,
+      "category": "AI Tools",
+      "score": 68,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Hacker News score: 341"
       ]
     },
     {
@@ -45,41 +60,11 @@
       ]
     },
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "Hacker News",
-      "published_at": "2026-10-21T12:53:11+00:00",
-      "excerpt": "",
-      "popularity": 261,
-      "category": "AI Tools",
-      "score": 66,
-      "reasons": [
-        "Matches ai tools terms: ai, openai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 261"
-      ]
-    },
-    {
-      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
       "source": "TechCrunch",
-      "published_at": "2026-10-21T20:33:09+00:00",
-      "excerpt": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
-      "category": "Indie Business",
-      "score": 61,
-      "reasons": [
-        "Matches indie business terms: revenue, profit",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
-      "source": "TechCrunch",
-      "published_at": "2026-10-21T19:30:00+00:00",
-      "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "published_at": "2026-10-22T16:47:17+00:00",
+      "excerpt": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
       "category": "AI Tools",
       "score": 61,
       "reasons": [
@@ -103,63 +88,33 @@
       ]
     },
     {
-      "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "source": "Hacker News",
-      "published_at": "2026-10-21T16:44:53+00:00",
+      "published_at": "2026-10-22T16:08:00+00:00",
       "excerpt": "",
-      "popularity": 46,
+      "popularity": 299,
       "category": "AI Tools",
-      "score": 55,
+      "score": 56,
       "reasons": [
-        "Matches ai tools terms: claude, agent",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 46"
+        "Hacker News score: 299"
       ]
     },
     {
-      "title": "eMudhra Intermediate CA Compromise",
-      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
       "source": "Simon Willison",
-      "published_at": "2026-10-20T23:50:25+00:00",
-      "excerpt": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0",
+      "published_at": "2026-10-22T15:34:13+00:00",
+      "excerpt": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. \u2014 Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
       "category": "AI Tools",
       "score": 54,
       "reasons": [
-        "Matches ai tools terms: ai, github",
+        "Matches ai tools terms: ai, llm",
         "Trusted specialist source",
         "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "LLM agents play Pokemon showdown",
-      "url": "https://olivergrabner.com/research/pokemon",
-      "source": "Hacker News",
-      "published_at": "2026-10-22T02:13:48+00:00",
-      "excerpt": "",
-      "popularity": 20,
-      "category": "AI Tools",
-      "score": 54,
-      "reasons": [
-        "Matches ai tools terms: llm, agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 20"
-      ]
-    },
-    {
-      "title": "Nuclear-powered spaceships",
-      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue",
-      "source": "MIT Technology Review",
-      "published_at": "2026-10-21T09:00:00+00:00",
-      "excerpt": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era\u2026",
-      "category": "Technology",
-      "score": 53,
-      "reasons": [
-        "Matches technology terms: space",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
       ]
     },
     {
@@ -176,38 +131,80 @@
       ]
     },
     {
-      "title": "Tesla says it will start selling Cybercabs by end of year",
-      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News",
+      "published_at": "2026-10-22T22:54:43+00:00",
+      "excerpt": "",
+      "popularity": 212,
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 212"
+      ]
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
       "source": "TechCrunch",
-      "published_at": "2026-10-22T00:17:54+00:00",
-      "excerpt": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company\u2019s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, [\u2026]",
-      "category": "Indie Business",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "excerpt": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "category": "AI Tools",
       "score": 50,
       "reasons": [
-        "Matches indie business terms: customers",
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Solid-state batteries",
-      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai",
       "source": "MIT Technology Review",
-      "published_at": "2026-10-21T09:00:00+00:00",
-      "excerpt": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has\u2026",
-      "category": "Technology",
+      "published_at": "2026-10-22T18:48:04+00:00",
+      "excerpt": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review\u2019s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic\u2026",
+      "category": "AI Tools",
       "score": 49,
       "reasons": [
-        "Matches technology terms: energy, battery",
+        "Matches ai tools terms: ai, agent",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release",
+      "title": "AI\u2019s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-22T08:41:18+00:00",
+      "excerpt": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that\u2019s generated\u2014from billions of daily prompts, images, and videos\u2014needs\u2026",
+      "category": "Technology",
+      "score": 49,
+      "reasons": [
+        "Matches technology terms: gpu, inference",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
+      "source": "TechCrunch",
+      "published_at": "2026-10-23T00:45:37+00:00",
+      "excerpt": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "category": "AI Tools",
+      "score": 46,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
       "source": "Simon Willison",
-      "published_at": "2026-10-21T18:41:53+00:00",
-      "excerpt": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s",
+      "published_at": "2026-10-22T19:42:26+00:00",
+      "excerpt": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai , generative-ai , pelican-riding-a-bicycle",
       "category": "AI Tools",
       "score": 43,
       "reasons": [
@@ -217,11 +214,25 @@
       ]
     },
     {
-      "title": "The revised rules of engineering management with Will Larson",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "title": "How bug bounty sharpens one researcher\u2019s security skills",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills",
+      "source": "GitHub Blog",
+      "published_at": "2026-10-22T17:21:30+00:00",
+      "excerpt": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher\u2019s security skills appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 41,
+      "reasons": [
+        "Matches ai tools terms: github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Pulse: Time to rethink software security because of AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
       "source": "The Pragmatic Engineer",
-      "published_at": "2026-10-21T16:58:21+00:00",
-      "excerpt": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO.",
+      "published_at": "2026-10-22T14:08:21+00:00",
+      "excerpt": "A month\u2019s worth of security breaches in a single day \u2013 will things get worse before they improve? Also: Anthropic accused of version control \u201crip off\u201d, and more",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
@@ -231,10 +242,10 @@
       ]
     },
     {
-      "title": "Railway Security Disclosure: Wednesday October 21st",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "title": "jailbreaking the switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb",
       "source": "Lobsters",
-      "published_at": "2026-10-21T22:31:11+00:00",
+      "published_at": "2026-10-22T12:10:48+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -245,57 +256,44 @@
       ]
     },
     {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
+      "title": "We have Traits at Home",
+      "url": "https://www.axelmagn.com/blog/202610-zig-traits",
       "source": "Lobsters",
-      "published_at": "2026-10-21T21:32:29+00:00",
+      "published_at": "2026-10-22T21:52:10+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
-        "Matches ai tools terms: llm",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "The Download: introducing the Impossible issue",
-      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue",
+      "title": "Tell your network to explain itself and then some",
+      "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+      "source": "Lobsters",
+      "published_at": "2026-10-22T12:53:26+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
       "source": "MIT Technology Review",
-      "published_at": "2026-10-21T12:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it\u2019s fun to dream about\u2026",
+      "published_at": "2026-10-22T21:17:29+00:00",
+      "excerpt": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have\u2026",
       "category": "AI Tools",
       "score": 38,
       "reasons": [
         "Matches ai tools terms: ai",
         "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "How Wikipedia\u2019s Editors Keep the Online Encyclopedia Human-Written",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-10-21T13:00:02+00:00",
-      "excerpt": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website\u2019s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clich\u00e9s. Today, the project\u2019s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI\u2019s role in the world\u2019s most widely used encyclopedia. When did you realize Wikipedia had a problem with A",
-      "category": "Indie Business",
-      "score": 38,
-      "reasons": [
-        "Matches indie business terms: launch",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones",
-      "source": "Simon Willison",
-      "published_at": "2026-10-20T19:34:19+00:00",
-      "excerpt": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built thi",
-      "category": "AI Tools",
-      "score": 33,
-      "reasons": [
-        "Matches ai tools terms: claude",
-        "Trusted specialist source",
-        "Published this week"
       ]
     }
   ]
