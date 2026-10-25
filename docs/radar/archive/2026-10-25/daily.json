@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T04:41:35.126948+00:00",
+  "total_collected": 183,
+  "after_filtering": 43,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (8)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (30)"
+  },
+  "items": [
+    {
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "source": "TechCrunch",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T16:06:26+00:00",
+      "excerpt": "",
+      "popularity": 273,
+      "category": "AI Tools",
+      "score": 55,
+      "reasons": [
+        "Matches ai tools terms: github",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 273"
+      ]
+    },
+    {
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+      "source": "Simon Willison",
+      "published_at": "2026-10-24T03:59:57+00:00",
+      "excerpt": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code t",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T23:11:54+00:00",
+      "excerpt": "",
+      "popularity": 246,
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 246"
+      ]
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T09:58:27+00:00",
+      "excerpt": "",
+      "popularity": 207,
+      "category": "Technology",
+      "score": 52,
+      "reasons": [
+        "Matches technology terms: gpu",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 207"
+      ]
+    },
+    {
+      "title": "Startups don\u2019t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers",
+      "source": "TechCrunch",
+      "published_at": "2026-10-23T23:07:45+00:00",
+      "excerpt": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: customers",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "source": "TechCrunch",
+      "published_at": "2026-10-24T19:00:00+00:00",
+      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "category": "AI Tools",
+      "score": 46,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in Build your own vulnerability harness .",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, cloudflare",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
+      "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+      "source": "Lobsters",
+      "published_at": "2026-10-24T18:00:36+00:00",
+      "excerpt": "tl;dr: it looks like C++ 26 got turned down by the national bodies (afaik unprecedented) Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "What's wrong with AI?",
+      "url": "https://homepage.farm/ai.html",
+      "source": "Lobsters",
+      "published_at": "2026-10-24T12:09:40+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "2026 Ruby on Rails Community Survey Results",
+      "url": "https://railsdeveloper.com/survey/2026",
+      "source": "Lobsters",
+      "published_at": "2026-10-24T16:50:50+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+      "source": "Simon Willison",
+      "published_at": "2026-10-23T19:40:54+00:00",
+      "excerpt": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks show K",
+      "category": "AI Tools",
+      "score": 33,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can read files, install packages, call APIs, and use credentials. OpenShell gives them that capability without giving them ",
+      "category": "AI Tools",
+      "score": 32,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude \u2014 drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview \u2022 Quickstart \u2022 Categories \u2022 Skill Index \u2022 Roadmap \u2022 Contributing Overview claud",
+      "category": "AI Tools",
+      "score": 32,
+      "reasons": [
+        "Matches ai tools terms: ai, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "From Chip Lab to Center Stage",
+      "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-23T18:00:03+00:00",
+      "excerpt": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the \u201chearable\u201d and wearable devices she has had a hand in developing as an analog integrated circuit designer in the consumer electronics division at Analog Devices of Wilmington, Mass. The IEEE member is one of the few women who work in the specialized field , where about 11 percent are female, accordin",
+      "category": "Technology",
+      "score": 28,
+      "reasons": [
+        "Matches technology terms: chip",
+        "Published this week"
+      ]
+    }
+  ]
+}
