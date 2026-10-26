@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T04:41:35.126948+00:00",
-  "total_collected": 183,
-  "after_filtering": 43,
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T04:47:28.650603+00:00",
+  "total_collected": 185,
+  "after_filtering": 47,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (8)",
+    "GitHub Trending": "ok (10)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
@@ -16,93 +16,147 @@
   },
   "items": [
     {
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-      "source": "TechCrunch",
-      "published_at": "2026-10-24T15:00:00+00:00",
-      "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T21:11:31+00:00",
+      "excerpt": "",
+      "popularity": 215,
       "category": "AI Tools",
-      "score": 61,
+      "score": 89,
       "reasons": [
-        "Matches ai tools terms: ai, openai",
+        "Matches ai tools terms: ai, llm, openai",
+        "Trusted specialist source",
         "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 215"
+      ]
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T17:15:38+00:00",
+      "excerpt": "",
+      "popularity": 494,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 494"
+      ]
+    },
+    {
+      "title": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS Agent Toolkit for AWS Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents the tools, knowledge, and guardrails they need to work with AWS services. It works with the coding agents developers already use \u2014 including Claude Code, Codex, Cursor, Devin, Kiro, and fx. Quick start AWS CLI Use the Agent Toolkit directly from your terminal with the AWS",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. https://www.usehallmark.com/ Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated. usehallmark.com \u00b7 forty-eight themes \u00b7 custom on request \u00b7 redesign and audit by name Made by Together AI. Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of forty-eight materials, builds the page around what the visitor came to do, and lints the result in a ",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, codex",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "An open-source AI agent that brings the power of Gemini directly into your terminal. https://geminicli.com Note Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post . Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Antigravity. Gemini CLI Note Gemini CLI is not optimized for the latest Gemini models. For the best coding experience with Gemini models use Antigravity CLI Gemini CLI ",
+      "category": "AI Tools",
+      "score": 47,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
+      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
       "source": "Hacker News",
-      "published_at": "2026-10-24T16:06:26+00:00",
+      "published_at": "2026-10-26T03:29:05+00:00",
       "excerpt": "",
-      "popularity": 273,
+      "popularity": 26,
       "category": "AI Tools",
-      "score": 55,
+      "score": 43,
       "reasons": [
-        "Matches ai tools terms: github",
+        "Matches ai tools terms: mcp",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 273"
+        "Hacker News score: 26"
       ]
     },
     {
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
-      "source": "Simon Willison",
-      "published_at": "2026-10-24T03:59:57+00:00",
-      "excerpt": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code t",
+      "title": "\u201cAI Skills\u201d are worthless in 2026",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "source": "Lobsters",
+      "published_at": "2026-10-26T00:23:42+00:00",
+      "excerpt": "Comments",
       "category": "AI Tools",
-      "score": 54,
+      "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai, claude",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News",
-      "published_at": "2026-10-24T23:11:54+00:00",
-      "excerpt": "",
-      "popularity": 246,
+      "title": "A vision for a next-generation timeline",
+      "url": "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
+      "source": "Lobsters",
+      "published_at": "2026-10-25T15:03:10+00:00",
+      "excerpt": "Slides: https://cfp.2026.matrix.org/media/matrix-conference-2026/submissions/WRGTRX/resources/sli_ZZVyXQu.pdf Comments",
+      "category": "Discoveries",
+      "score": 39,
+      "reasons": [
+        "Matches discoveries terms: resource",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Two musings on the design of compiler warnings (2020)",
+      "url": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses",
+      "source": "Lobsters",
+      "published_at": "2026-10-25T22:23:32+00:00",
+      "excerpt": "Comments",
+      "category": "Discoveries",
+      "score": 39,
+      "reasons": [
+        "Matches discoveries terms: design",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-25T12:00:02+00:00",
+      "excerpt": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments of root, of interface.",
       "category": "AI Tools",
-      "score": 54,
+      "score": 38,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 246"
-      ]
-    },
-    {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "source": "Hacker News",
-      "published_at": "2026-10-24T09:58:27+00:00",
-      "excerpt": "",
-      "popularity": 207,
-      "category": "Technology",
-      "score": 52,
-      "reasons": [
-        "Matches technology terms: gpu",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 207"
-      ]
-    },
-    {
-      "title": "Startups don\u2019t need to go viral to win customers",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers",
-      "source": "TechCrunch",
-      "published_at": "2026-10-23T23:07:45+00:00",
-      "excerpt": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-      "category": "Indie Business",
-      "score": 50,
-      "reasons": [
-        "Matches indie business terms: customers",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -112,118 +166,36 @@
       "published_at": "2026-10-24T19:00:00+00:00",
       "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "category": "AI Tools",
-      "score": 46,
+      "score": 36,
       "reasons": [
         "Matches ai tools terms: ai, openai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in Build your own vulnerability harness .",
-      "category": "AI Tools",
-      "score": 43,
-      "reasons": [
-        "Matches ai tools terms: ai, agent, cloudflare",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
-      "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
-      "source": "Lobsters",
-      "published_at": "2026-10-24T18:00:36+00:00",
-      "excerpt": "tl;dr: it looks like C++ 26 got turned down by the national bodies (afaik unprecedented) Comments",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "What's wrong with AI?",
-      "url": "https://homepage.farm/ai.html",
-      "source": "Lobsters",
-      "published_at": "2026-10-24T12:09:40+00:00",
-      "excerpt": "Comments",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "2026 Ruby on Rails Community Survey Results",
-      "url": "https://railsdeveloper.com/survey/2026",
-      "source": "Lobsters",
-      "published_at": "2026-10-24T16:50:50+00:00",
-      "excerpt": "Comments",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Introducing Kimi K3.1 Pro",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
-      "source": "Simon Willison",
-      "published_at": "2026-10-23T19:40:54+00:00",
-      "excerpt": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks show K",
-      "category": "AI Tools",
-      "score": 33,
-      "reasons": [
-        "Matches ai tools terms: claude",
-        "Trusted specialist source",
         "Published this week"
       ]
     },
     {
-      "title": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can read files, install packages, call APIs, and use credentials. OpenShell gives them that capability without giving them ",
+      "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+      "source": "TechCrunch",
+      "published_at": "2026-10-25T21:31:16+00:00",
+      "excerpt": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "category": "AI Tools",
-      "score": 32,
+      "score": 35,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Trusted specialist source"
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude \u2014 drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overview \u2022 Quickstart \u2022 Categories \u2022 Skill Index \u2022 Roadmap \u2022 Contributing Overview claud",
+      "title": "\u2018Cyberselfish\u2019 author takes aim at techno-libertarianism as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead",
+      "source": "TechCrunch",
+      "published_at": "2026-10-25T20:20:08+00:00",
+      "excerpt": "\"That's a 12-year-old view of the world.\"",
       "category": "AI Tools",
-      "score": 32,
+      "score": 35,
       "reasons": [
-        "Matches ai tools terms: ai, claude",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "From Chip Lab to Center Stage",
-      "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-10-23T18:00:03+00:00",
-      "excerpt": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the \u201chearable\u201d and wearable devices she has had a hand in developing as an analog integrated circuit designer in the consumer electronics division at Analog Devices of Wilmington, Mass. The IEEE member is one of the few women who work in the specialized field , where about 11 percent are female, accordin",
-      "category": "Technology",
-      "score": 28,
-      "reasons": [
-        "Matches technology terms: chip",
-        "Published this week"
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
       ]
     }
   ]

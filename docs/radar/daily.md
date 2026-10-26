@@ -1,71 +1,61 @@
-# Horizon Daily Radar — 2026-10-25
+# Horizon Daily Radar — 2026-10-26
 
-Collected: 183 · After filtering: 43 · Selected: 15
+Collected: 185 · After filtering: 47 · Selected: 13
 
 Rules-only ranking; no AI summary or external AI service was used.
 
-## Indie Business
-
-### [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers) — 50/100
-Source: TechCrunch · Published: 2026-10-23T23:07:45+00:00
-Reason: Matches indie business terms: customers; Published in the last 30 hours; Includes concrete operating or outcome data
-
 ## AI Tools
 
-### [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats) — 61/100
-Source: TechCrunch · Published: 2026-10-24T15:00:00+00:00
-Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours; Includes concrete operating or outcome data
+### [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms) — 89/100
+Source: Hacker News · Published: 2026-10-25T21:11:31+00:00
+Reason: Matches ai tools terms: ai, llm, openai; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 215
 
-### [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) — 55/100
-Source: Hacker News · Published: 2026-10-24T16:06:26+00:00
-Reason: Matches ai tools terms: github; Trusted specialist source; Published in the last 30 hours; Hacker News score: 273
+### [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) — 57/100
+Source: Hacker News · Published: 2026-10-25T17:15:38+00:00
+Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours; Hacker News score: 494
 
-### [battledrones v14: Compass Rose, a four player map](https://simonwillison.net/2026/Oct/24/battledrones) — 54/100
-Source: Simon Willison · Published: 2026-10-24T03:59:57+00:00
-Reason: Matches ai tools terms: ai, claude; Trusted specialist source; Published in the last 30 hours
+### [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) — 52/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) — 54/100
-Source: Hacker News · Published: 2026-10-24T23:11:54+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 246
+### [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 52/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, llm, codex; Trusted specialist source
 
-### [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it) — 46/100
+### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) — 47/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Includes concrete operating or outcome data
+
+### [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) — 43/100
+Source: Hacker News · Published: 2026-10-26T03:29:05+00:00
+Reason: Matches ai tools terms: mcp; Trusted specialist source; Published in the last 30 hours; Hacker News score: 26
+
+### [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills) — 39/100
+Source: Lobsters · Published: 2026-10-26T00:23:42+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [Poetry for Engineers: Of Code and Shortleaf Pine](https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine) — 38/100
+Source: IEEE Spectrum · Published: 2026-10-25T12:00:02+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
+
+### [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it) — 36/100
 Source: TechCrunch · Published: 2026-10-24T19:00:00+00:00
-Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours
+Reason: Matches ai tools terms: ai, openai; Published this week
 
-### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 43/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, agent, cloudflare; Trusted specialist source
+### [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey) — 35/100
+Source: TechCrunch · Published: 2026-10-25T21:31:16+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [Balloting has completed for C++26. Unfortunately it was Disapproved](https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL) — 39/100
-Source: Lobsters · Published: 2026-10-24T18:00:36+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+### [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead) — 35/100
+Source: TechCrunch · Published: 2026-10-25T20:20:08+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [What's wrong with AI?](https://homepage.farm/ai.html) — 39/100
-Source: Lobsters · Published: 2026-10-24T12:09:40+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+## Discoveries
 
-### [2026 Ruby on Rails Community Survey Results](https://railsdeveloper.com/survey/2026) — 39/100
-Source: Lobsters · Published: 2026-10-24T16:50:50+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+### [A vision for a next-generation timeline](https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline) — 39/100
+Source: Lobsters · Published: 2026-10-25T15:03:10+00:00
+Reason: Matches discoveries terms: resource; Trusted specialist source; Published in the last 30 hours
 
-### [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro) — 33/100
-Source: Simon Willison · Published: 2026-10-23T19:40:54+00:00
-Reason: Matches ai tools terms: claude; Trusted specialist source; Published this week
-
-### [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — 32/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source
-
-### [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) — 32/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, claude; Trusted specialist source
-
-## Technology
-
-### [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock) — 52/100
-Source: Hacker News · Published: 2026-10-24T09:58:27+00:00
-Reason: Matches technology terms: gpu; Trusted specialist source; Published in the last 30 hours; Hacker News score: 207
-
-### [From Chip Lab to Center Stage](https://spectrum.ieee.org/preethi-ashwath-chip-designer) — 28/100
-Source: IEEE Spectrum · Published: 2026-10-23T18:00:03+00:00
-Reason: Matches technology terms: chip; Published this week
+### [Two musings on the design of compiler warnings (2020)](https://quuxplusone.github.io/blog/2020/09/02/wparentheses) — 39/100
+Source: Lobsters · Published: 2026-10-25T22:23:32+00:00
+Reason: Matches discoveries terms: design; Trusted specialist source; Published in the last 30 hours
