@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T05:05:00.589227+00:00",
+  "total_collected": 186,
+  "after_filtering": 49,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (11)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (30)"
+  },
+  "items": [
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
+      "source": "TechCrunch",
+      "published_at": "2026-10-27T02:00:00+00:00",
+      "excerpt": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai, openai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+      "source": "Simon Willison",
+      "published_at": "2026-10-26T23:53:07+00:00",
+      "excerpt": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We\u2019re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT\u20115.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting ",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. https://www.usehallmark.com/ Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated. usehallmark.com \u00b7 forty-eight themes \u00b7 custom on request \u00b7 redesign and audit by name Made by Together AI. Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of forty-eight materials, builds the page around what the visitor came to do, and lints the result in a ",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, codex",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Espa\u00f1ol | fran\u00e7ais | \u65e5\u672c\u8a9e | \ud55c\uad6d\uc5b4 | Portugu\u00eas | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 | \u4e2d\u6587 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored from the first close after each decision, a note at start-up when a newer release is out, and a wheel attached to each GitHub release. [2026-10] TradingAgents v0.6.0 rel",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. https://skool.com/ai-marketing-hub-pro Claude SEO Free, open-source SEO audits inside Claude Code . Rank higher in Google and get cited by AI search. Install \u00b7 Demo \u00b7 Results \u00b7 Team \u00b7 Co",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers",
+      "source": "TechCrunch",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "excerpt": "Turns out selling to big companies isn\u2019t about having the shiniest tech: It\u2019s about hitching a ride on a giant\u2019s sales team.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: customers",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it",
+      "source": "TechCrunch",
+      "published_at": "2026-10-26T19:22:40+00:00",
+      "excerpt": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T22:41:48+00:00",
+      "excerpt": "",
+      "popularity": 102,
+      "category": "AI Tools",
+      "score": 47,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 102"
+      ]
+    },
+    {
+      "title": "Why is it so expensive to send an email?",
+      "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+      "source": "Lobsters",
+      "published_at": "2026-10-26T13:25:41+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
+      "url": "https://stalw.art/blog/stalwart-1-0",
+      "source": "Lobsters",
+      "published_at": "2026-10-26T16:28:12+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "\u201cAI Skills\u201d are worthless in 2026",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "source": "Lobsters",
+      "published_at": "2026-10-26T00:23:42+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-26T17:45:43+00:00",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-26T12:40:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms \u2014Sam Hiner, cofounder of the Young People\u2019s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-26T09:01:00+00:00",
+      "excerpt": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "IEEE Xplore Digital Library Adds AI Assistant",
+      "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-26T18:00:03+00:00",
+      "excerpt": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more. Researchers who use the AI suite to search the digital library receive answers grounded in verified scientific results, ensuring a high level of accuracy and trust. The suite is available as an optional subscription upgrade to a",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Build a Hidden Lock With a Magnetic Imager",
+      "url": "https://spectrum.ieee.org/magnetic",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-26T13:00:02+00:00",
+      "excerpt": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You\u2019re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. I currently have a couple of locksport pick sets and training locks that I purchased at hacker conferences over the years (although I\u2019m still terrible at it), and I delight in the YouTube exploits of folks like ",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
+      "source": "Simon Willison",
+      "published_at": "2026-10-26T19:00:25+00:00",
+      "excerpt": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. \u2014 Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags:",
+      "category": "Indie Business",
+      "score": 37,
+      "reasons": [
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T21:35:28+00:00",
+      "excerpt": "",
+      "popularity": 661,
+      "category": "Indie Business",
+      "score": 36,
+      "reasons": [
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 661"
+      ]
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T15:11:59+00:00",
+      "excerpt": "",
+      "popularity": 622,
+      "category": "Indie Business",
+      "score": 36,
+      "reasons": [
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 622"
+      ]
+    },
+    {
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
+      "source": "Simon Willison",
+      "published_at": "2026-10-26T16:15:00+00:00",
+      "excerpt": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a system browser (\"WKWebView on macOS, WebKitGTK on Linux, WebView2 on Windows\") so it doesn't need to bund",
+      "category": "Indie Business",
+      "score": 22,
+      "reasons": [
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    }
+  ]
+}
