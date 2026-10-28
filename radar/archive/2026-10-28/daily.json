@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T05:42:42.809477+00:00",
+  "total_collected": 189,
+  "after_filtering": 60,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (14)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (30)"
+  },
+  "items": [
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T19:55:06+00:00",
+      "excerpt": "",
+      "popularity": 268,
+      "category": "AI Tools",
+      "score": 66,
+      "reasons": [
+        "Matches ai tools terms: ai, llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 268"
+      ]
+    },
+    {
+      "title": "Bank of America kindly asks that you don\u2019t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+      "source": "TechCrunch",
+      "published_at": "2026-10-27T21:44:34+00:00",
+      "excerpt": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+      "source": "Simon Willison",
+      "published_at": "2026-10-27T19:34:18+00:00",
+      "excerpt": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on y",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+      "source": "Simon Willison",
+      "published_at": "2026-10-26T23:53:07+00:00",
+      "excerpt": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We\u2019re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT\u20115.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting ",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T19:55:21+00:00",
+      "excerpt": "",
+      "popularity": 248,
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 248"
+      ]
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. https://www.usehallmark.com/ Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated. usehallmark.com \u00b7 forty-eight themes \u00b7 custom on request \u00b7 redesign and audit by name Made by Together AI. Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of forty-eight materials, builds the page around what the visitor came to do, and lints the result in a ",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, codex",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Espa\u00f1ol | fran\u00e7ais | \u65e5\u672c\u8a9e | \ud55c\uad6d\uc5b4 | Portugu\u00eas | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 | \u4e2d\u6587 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-10] TradingAgents v0.7.0 released with runs on your own ChatGPT Plus or Pro plan, backtests scored from the first close after each decision, a note at start-up when a newer release is out, and a wheel attached to each GitHub release. [2026-10] TradingAgents v0.6.0 rel",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. https://ecc.tools Language: English | \u0627\u0644\u0639\u0631\u0628\u064a\u0629 | Portugu\u00eas (Brasil) | \u7b80\u4f53\u4e2d\u6587 | \u7e41\u9ad4\u4e2d\u6587 | \u65e5\u672c\u8a9e | \ud55c\uad6d\uc5b4 | T\u00fcrk\u00e7e | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 | Ti\u1ebfng Vi\u1ec7t | \u0e44\u0e17\u0e22 | Deutsch | Espa\u00f1ol | \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 | Polski | \u09ac\u09be\u0982\u09b2\u09be Warning Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC , the npm packages ecc-univer",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: codex, claude, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T20:50:42+00:00",
+      "excerpt": "",
+      "popularity": 189,
+      "category": "AI Tools",
+      "score": 51,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 189"
+      ]
+    },
+    {
+      "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+      "source": "TechCrunch",
+      "published_at": "2026-10-28T01:15:28+00:00",
+      "excerpt": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: conversion",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-27T11:19:18+00:00",
+      "excerpt": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor\u2026",
+      "category": "Technology",
+      "score": 49,
+      "reasons": [
+        "Matches technology terms: manufacturing, industrial",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "I Used AI to Fake a Scientific Paper. Here\u2019s What Happened",
+      "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-27T13:00:03+00:00",
+      "excerpt": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What\u2019s more, over 12 percent of Nature Communications reviews were found to be completely AI-genera",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, llm",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "source": "TechCrunch",
+      "published_at": "2026-10-27T23:34:27+00:00",
+      "excerpt": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "category": "AI Tools",
+      "score": 46,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-10-27T16:19:22+00:00",
+      "excerpt": "\u201cAI SRE\u201d is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "This is not sustainable",
+      "url": "https://www.netmeister.org/blog/defense-ddos.html",
+      "source": "Lobsters",
+      "published_at": "2026-10-28T03:56:49+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "A stackless floodfill automation (2023)",
+      "url": "https://t3x.org/files/floodfill.pdf",
+      "source": "Lobsters",
+      "published_at": "2026-10-27T14:56:00+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: automation",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "source": "Lobsters",
+      "published_at": "2026-10-27T19:08:23+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-27T12:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-27T09:00:00+00:00",
+      "excerpt": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they\u2019re complicated and in short supply. And given that their basic design hasn\u2019t changed much for about a century, they could use an upgrade. As the world races to meet rising electricity demand from\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Your Robot\u2019s Safety Functions Already Work. What If the Input Lies?",
+      "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-27T16:14:39+00:00",
+      "excerpt": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position estimate, or a stop signal. But what happens when one of those inputs is wrong, and the robot still responds exactly as designed? The mobile robot reads the hallway as clear while someone is still there",
+      "category": "Technology",
+      "score": 38,
+      "reasons": [
+        "Matches technology terms: robot",
+        "Published in the last 30 hours"
+      ]
+    }
+  ]
+}

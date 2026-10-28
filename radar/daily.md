@@ -1,40 +1,36 @@
-# Horizon Daily Radar — 2026-10-27
+# Horizon Daily Radar — 2026-10-28
 
-Collected: 186 · After filtering: 49 · Selected: 20
+Collected: 189 · After filtering: 60 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [Databricks co-founder shares his secrets for winning big enterprise customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers) — 50/100
-Source: TechCrunch · Published: 2026-10-26T22:00:00+00:00
-Reason: Matches indie business terms: customers; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler) — 37/100
-Source: Simon Willison · Published: 2026-10-26T19:00:25+00:00
-Reason: Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities) — 36/100
-Source: Hacker News · Published: 2026-10-26T21:35:28+00:00
-Reason: Trusted specialist source; Published in the last 30 hours; Hacker News score: 661
-
-### [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) — 36/100
-Source: Hacker News · Published: 2026-10-26T15:11:59+00:00
-Reason: Trusted specialist source; Published in the last 30 hours; Hacker News score: 622
-
-### [webframe: evaluated as a scraper and a sandbox](https://simonwillison.net/2026/Oct/26/webframe-evaluation) — 22/100
-Source: Simon Willison · Published: 2026-10-26T16:15:00+00:00
-Reason: Trusted specialist source; Published in the last 30 hours
+### [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more) — 50/100
+Source: TechCrunch · Published: 2026-10-28T01:15:28+00:00
+Reason: Matches indie business terms: conversion; Published in the last 30 hours; Includes concrete operating or outcome data
 
 ## AI Tools
 
-### [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant) — 57/100
-Source: TechCrunch · Published: 2026-10-27T02:00:00+00:00
-Reason: Matches ai tools terms: ai, openai, agent; Published in the last 30 hours
+### [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) — 66/100
+Source: Hacker News · Published: 2026-10-27T19:55:06+00:00
+Reason: Matches ai tools terms: ai, llm; Trusted specialist source; Published in the last 30 hours; Hacker News score: 268
+
+### [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant) — 61/100
+Source: TechCrunch · Published: 2026-10-27T21:44:34+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge) — 54/100
+Source: Simon Willison · Published: 2026-10-27T19:34:18+00:00
+Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published in the last 30 hours
 
 ### [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra) — 54/100
 Source: Simon Willison · Published: 2026-10-26T23:53:07+00:00
 Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published in the last 30 hours
+
+### [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) — 54/100
+Source: Hacker News · Published: 2026-10-27T19:55:21+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 248
 
 ### [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 52/100
 Source: GitHub Trending · Published: Unknown
@@ -44,46 +40,52 @@ Reason: Matches ai tools terms: ai, llm, codex; Trusted specialist source
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, llm, agent; Trusted specialist source
 
-### [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — 52/100
+### [affaan-m/ECC](https://github.com/affaan-m/ECC) — 52/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source
+Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source
 
-### [Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it) — 50/100
-Source: TechCrunch · Published: 2026-10-26T19:22:40+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) — 51/100
+Source: Hacker News · Published: 2026-10-27T20:50:42+00:00
+Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours; Hacker News score: 189
 
-### [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation) — 47/100
-Source: Hacker News · Published: 2026-10-26T22:41:48+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 102
+### [I Used AI to Fake a Scientific Paper. Here’s What Happened](https://spectrum.ieee.org/ai-generated-scientific-papers) — 49/100
+Source: IEEE Spectrum · Published: 2026-10-27T13:00:03+00:00
+Reason: Matches ai tools terms: ai, llm; Published in the last 30 hours
 
-### [Why is it so expensive to send an email?](https://evancz.dev/why-is-it-so-expensive-to-send-an-email) — 39/100
-Source: Lobsters · Published: 2026-10-26T13:25:41+00:00
+### [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication) — 46/100
+Source: TechCrunch · Published: 2026-10-27T23:34:27+00:00
+Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours
+
+### [AI SRE: what is it, how could it change on-call – and does it work?](https://newsletter.pragmaticengineer.com/p/ai-sre) — 39/100
+Source: The Pragmatic Engineer · Published: 2026-10-27T16:19:22+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0) — 39/100
-Source: Lobsters · Published: 2026-10-26T16:28:12+00:00
+### [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html) — 39/100
+Source: Lobsters · Published: 2026-10-28T03:56:49+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [“AI Skills” are worthless in 2026](https://fishbowl.pastiche.org/2026/10/26/ai-skills) — 39/100
-Source: Lobsters · Published: 2026-10-26T00:23:42+00:00
+### [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf) — 39/100
+Source: Lobsters · Published: 2026-10-27T14:56:00+00:00
+Reason: Matches ai tools terms: automation; Trusted specialist source; Published in the last 30 hours
+
+### [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html) — 39/100
+Source: Lobsters · Published: 2026-10-27T19:08:23+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up) — 38/100
-Source: MIT Technology Review · Published: 2026-10-26T17:45:43+00:00
+### [The Download: Anthropic’s IPO, smarter power grids, and exercise pills](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills) — 38/100
+Source: MIT Technology Review · Published: 2026-10-27T12:10:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [The Download: everyday AI harms and the race to nuclear spaceflight](https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight) — 38/100
-Source: MIT Technology Review · Published: 2026-10-26T12:40:00+00:00
+### [How solid-state transformers could help power the AI boom](https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers) — 38/100
+Source: MIT Technology Review · Published: 2026-10-27T09:00:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [The focus on AI safety disasters ignores everyday harms](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms) — 38/100
-Source: MIT Technology Review · Published: 2026-10-26T09:01:00+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
+## Technology
 
-### [IEEE Xplore Digital Library Adds AI Assistant](https://spectrum.ieee.org/ieee-xplore-digital-library-ai) — 38/100
-Source: IEEE Spectrum · Published: 2026-10-26T18:00:03+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
+### [Industrial Intelligence: The next growth opportunity for manufacturing](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing) — 49/100
+Source: MIT Technology Review · Published: 2026-10-27T11:19:18+00:00
+Reason: Matches technology terms: manufacturing, industrial; Published in the last 30 hours
 
-### [Build a Hidden Lock With a Magnetic Imager](https://spectrum.ieee.org/magnetic) — 38/100
-Source: IEEE Spectrum · Published: 2026-10-26T13:00:02+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
+### [Your Robot’s Safety Functions Already Work. What If the Input Lies?](https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone) — 38/100
+Source: IEEE Spectrum · Published: 2026-10-27T16:14:39+00:00
+Reason: Matches technology terms: robot; Published in the last 30 hours
