@@ -1,91 +1,89 @@
-# Horizon Daily Radar — 2026-10-28
+# Horizon Daily Radar — 2026-10-29
 
-Collected: 189 · After filtering: 60 · Selected: 20
+Collected: 185 · After filtering: 58 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more) — 50/100
-Source: TechCrunch · Published: 2026-10-28T01:15:28+00:00
-Reason: Matches indie business terms: conversion; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion) — 50/100
+Source: TechCrunch · Published: 2026-10-28T21:58:32+00:00
+Reason: Matches indie business terms: revenue; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows) — 50/100
+Source: TechCrunch · Published: 2026-10-28T21:48:37+00:00
+Reason: Matches indie business terms: revenue; Published in the last 30 hours; Includes concrete operating or outcome data
 
 ## AI Tools
 
-### [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) — 66/100
-Source: Hacker News · Published: 2026-10-27T19:55:06+00:00
-Reason: Matches ai tools terms: ai, llm; Trusted specialist source; Published in the last 30 hours; Hacker News score: 268
+### [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) — 66/100
+Source: Hacker News · Published: 2026-10-29T03:33:42+00:00
+Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 182
 
-### [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant) — 61/100
-Source: TechCrunch · Published: 2026-10-27T21:44:34+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Quoting Terk Terkowitz](https://simonwillison.net/2026/Oct/28/terk-terkowitz) — 65/100
+Source: Simon Willison · Published: 2026-10-28T10:09:07+00:00
+Reason: Matches ai tools terms: ai, llm, agent; Trusted specialist source; Published in the last 30 hours
 
-### [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge) — 54/100
-Source: Simon Willison · Published: 2026-10-27T19:34:18+00:00
+### [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax) — 64/100
+Source: Hacker News · Published: 2026-10-28T15:46:30+00:00
+Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 220
+
+### [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai) — 61/100
+Source: TechCrunch · Published: 2026-10-28T21:34:30+00:00
+Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) — 58/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source; Includes concrete operating or outcome data
+
+### [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders) — 54/100
+Source: Simon Willison · Published: 2026-10-28T23:23:21+00:00
+Reason: Matches ai tools terms: ai, llm; Trusted specialist source; Published in the last 30 hours
+
+### [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026) — 54/100
+Source: Simon Willison · Published: 2026-10-28T16:45:23+00:00
+Reason: Matches ai tools terms: agent, github; Trusted specialist source; Published in the last 30 hours
+
+### [GitHub Universe 2026: Evolving every layer of the stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack) — 52/100
+Source: GitHub Blog · Published: 2026-10-28T16:09:28+00:00
 Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published in the last 30 hours
 
-### [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra) — 54/100
-Source: Simon Willison · Published: 2026-10-26T23:53:07+00:00
-Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published in the last 30 hours
-
-### [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) — 54/100
-Source: Hacker News · Published: 2026-10-27T19:55:21+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 248
+### [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents) — 52/100
+Source: GitHub Blog · Published: 2026-10-28T16:07:40+00:00
+Reason: Matches ai tools terms: agent, github; Trusted specialist source; Published in the last 30 hours
 
 ### [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 52/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, llm, codex; Trusted specialist source
 
-### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — 52/100
+### [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — 52/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, llm, agent; Trusted specialist source
+Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [affaan-m/ECC](https://github.com/affaan-m/ECC) — 52/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source
+### [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context) — 49/100
+Source: MIT Technology Review · Published: 2026-10-28T20:32:02+00:00
+Reason: Matches ai tools terms: ai, automation; Published in the last 30 hours
 
-### [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) — 51/100
-Source: Hacker News · Published: 2026-10-27T20:50:42+00:00
-Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours; Hacker News score: 189
-
-### [I Used AI to Fake a Scientific Paper. Here’s What Happened](https://spectrum.ieee.org/ai-generated-scientific-papers) — 49/100
-Source: IEEE Spectrum · Published: 2026-10-27T13:00:03+00:00
-Reason: Matches ai tools terms: ai, llm; Published in the last 30 hours
-
-### [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication) — 46/100
-Source: TechCrunch · Published: 2026-10-27T23:34:27+00:00
-Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours
-
-### [AI SRE: what is it, how could it change on-call – and does it work?](https://newsletter.pragmaticengineer.com/p/ai-sre) — 39/100
-Source: The Pragmatic Engineer · Published: 2026-10-27T16:19:22+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+### [The Agent SDK](https://cursor.com/blog/agent-sdk) — 47/100
+Source: Hacker News · Published: 2026-10-28T14:02:20+00:00
+Reason: Matches ai tools terms: agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 113
 
 ### [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html) — 39/100
 Source: Lobsters · Published: 2026-10-28T03:56:49+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [A stackless floodfill automation (2023)](https://t3x.org/files/floodfill.pdf) — 39/100
-Source: Lobsters · Published: 2026-10-27T14:56:00+00:00
-Reason: Matches ai tools terms: automation; Trusted specialist source; Published in the last 30 hours
-
-### [Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html) — 39/100
-Source: Lobsters · Published: 2026-10-27T19:08:23+00:00
+### [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain) — 39/100
+Source: Lobsters · Published: 2026-10-28T13:34:06+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [The Download: Anthropic’s IPO, smarter power grids, and exercise pills](https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills) — 38/100
-Source: MIT Technology Review · Published: 2026-10-27T12:10:00+00:00
+### [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat) — 39/100
+Source: Lobsters · Published: 2026-10-28T15:53:34+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [The Download: dead startups fueling AI and interspecies communication](https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication) — 38/100
+Source: MIT Technology Review · Published: 2026-10-28T12:10:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [How solid-state transformers could help power the AI boom](https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers) — 38/100
-Source: MIT Technology Review · Published: 2026-10-27T09:00:00+00:00
+### [Pairing industrial AI autonomy and human control](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control) — 38/100
+Source: MIT Technology Review · Published: 2026-10-28T12:00:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
-
-## Technology
-
-### [Industrial Intelligence: The next growth opportunity for manufacturing](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing) — 49/100
-Source: MIT Technology Review · Published: 2026-10-27T11:19:18+00:00
-Reason: Matches technology terms: manufacturing, industrial; Published in the last 30 hours
-
-### [Your Robot’s Safety Functions Already Work. What If the Input Lies?](https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone) — 38/100
-Source: IEEE Spectrum · Published: 2026-10-27T16:14:39+00:00
-Reason: Matches technology terms: robot; Published in the last 30 hours
