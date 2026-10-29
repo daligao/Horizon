@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T05:48:25.754067+00:00",
+  "total_collected": 185,
+  "after_filtering": 58,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (11)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (29)"
+  },
+  "items": [
+    {
+      "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T03:33:42+00:00",
+      "excerpt": "",
+      "popularity": 182,
+      "category": "AI Tools",
+      "score": 66,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 182"
+      ]
+    },
+    {
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz",
+      "source": "Simon Willison",
+      "published_at": "2026-10-28T10:09:07+00:00",
+      "excerpt": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. \u2014 Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
+      "category": "AI Tools",
+      "score": 65,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T15:46:30+00:00",
+      "excerpt": "",
+      "popularity": 220,
+      "category": "AI Tools",
+      "score": 64,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 220"
+      ]
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+      "source": "TechCrunch",
+      "published_at": "2026-10-28T21:34:30+00:00",
+      "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "AI Design Skills A growing collection of design skills for AI coding tools \u2014 Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file. Each skill is a self-contained folder. Install the ones you need. Skills Skill What it does landing-page-design Builds a landing page from scratch \u2014 intake questions, page structure, conversion copy, plus a full visual system (type, spacing, radius, motion) More on the way. Upgrading an existing site instead of building new? That o",
+      "category": "AI Tools",
+      "score": 58,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Quoting Ted Sanders",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+      "source": "Simon Willison",
+      "published_at": "2026-10-28T23:23:21+00:00",
+      "excerpt": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna [ ... ] These days, ",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
+      "source": "Simon Willison",
+      "published_at": "2026-10-28T16:45:23+00:00",
+      "excerpt": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of thi",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: agent, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+      "source": "GitHub Blog",
+      "published_at": "2026-10-28T16:09:28+00:00",
+      "excerpt": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
+      "source": "GitHub Blog",
+      "published_at": "2026-10-28T16:07:40+00:00",
+      "excerpt": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: agent, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. https://www.usehallmark.com/ Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated. usehallmark.com \u00b7 fifty themes \u00b7 custom on request \u00b7 redesign and audit by name Made by Together AI. Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of fifty materials, builds the page around what the visitor came to do, and lints the result in a real browser",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, codex",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. https://openbot.run/ OpenBot OpenBot is a local-first desktop workspace for persistent AI teammates. It supports the local Codex App Server and Claude Code , plus Grok CLI , OpenCode, Gemini, Cursor CLI , and Cline CLI through ACP. It gives every agent its own workspace and conversation, and provides loca",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+      "source": "TechCrunch",
+      "published_at": "2026-10-28T21:58:32+00:00",
+      "excerpt": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: revenue",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "source": "TechCrunch",
+      "published_at": "2026-10-28T21:48:37+00:00",
+      "excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: revenue",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-28T20:32:02+00:00",
+      "excerpt": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a\u2026",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, automation",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "source": "Hacker News",
+      "published_at": "2026-10-28T14:02:20+00:00",
+      "excerpt": "",
+      "popularity": 113,
+      "category": "AI Tools",
+      "score": 47,
+      "reasons": [
+        "Matches ai tools terms: agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 113"
+      ]
+    },
+    {
+      "title": "This is not sustainable",
+      "url": "https://www.netmeister.org/blog/defense-ddos.html",
+      "source": "Lobsters",
+      "published_at": "2026-10-28T03:56:49+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain",
+      "source": "Lobsters",
+      "published_at": "2026-10-28T13:34:06+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Pair-coding Lobste.rs feat",
+      "url": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
+      "source": "Lobsters",
+      "published_at": "2026-10-28T15:53:34+00:00",
+      "excerpt": "There is a long standing issue I'm working at that turned out to have some interesting refactoring suggested by the admins . Does anybody want to pair-code this feat with me? (I also mentioned it in irc). I believe discussing the codebase would be incredibly helpful for me and others wiling to contribute to Lobsters. I'm not a super experienced programmer and I'm not sure yet how to organize this kind of pair-work but thought mentioning it here would be worth a shot and super fun thing to do :D ",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-28T12:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn\u2019t think its data was worth much. But he\u2019s\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-28T12:00:00+00:00",
+      "excerpt": "",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    }
+  ]
+}
