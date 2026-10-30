@@ -1,0 +1,300 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T05:49:22.118634+00:00",
+  "total_collected": 188,
+  "after_filtering": 61,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (14)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (29)"
+  },
+  "items": [
+    {
+      "title": "Quoting Ben Hylak",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+      "source": "Simon Willison",
+      "published_at": "2026-10-29T14:06:27+00:00",
+      "excerpt": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. \u2014 Ben Hylak Tags: model-context-protocol , ai",
+      "category": "AI Tools",
+      "score": 80,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, mcp",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T21:40:28+00:00",
+      "excerpt": "",
+      "popularity": 239,
+      "category": "AI Tools",
+      "score": 64,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 239"
+      ]
+    },
+    {
+      "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-29T10:11:12+00:00",
+      "excerpt": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It\u2019s a problem\u2026",
+      "category": "AI Tools",
+      "score": 60,
+      "reasons": [
+        "Matches ai tools terms: ai, openai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "AI Design Skills A growing collection of design skills for AI coding tools \u2014 Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file. Each skill is a self-contained folder. Install the ones you need. Skills Skill What it does landing-page-design Builds a landing page from scratch \u2014 intake questions, page structure, conversion copy, plus a full visual system (type, spacing, radius, motion) More on the way. Upgrading an existing site instead of building new? That o",
+      "category": "AI Tools",
+      "score": 58,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits",
+      "source": "Simon Willison",
+      "published_at": "2026-10-29T22:48:29+00:00",
+      "excerpt": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations. I mainta",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+      "source": "Simon Willison",
+      "published_at": "2026-10-29T17:00:26+00:00",
+      "excerpt": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle into",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor Devin CLI Factory Droid Gemini CLI GitHub Copilot CLI Grok Build CLI Kimi Code OpenCode Pi Qwen Code H",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: codex, claude, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex. https://www.usehallmark.com/ Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated. usehallmark.com \u00b7 fifty themes \u00b7 custom on request \u00b7 redesign and audit by name Made by Together AI. Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of fifty materials, builds the page around what the visitor came to do, and lints the result in a real browser",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, codex",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "source": "TechCrunch",
+      "published_at": "2026-10-29T23:42:22+00:00",
+      "excerpt": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: revenue",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations",
+      "source": "TechCrunch",
+      "published_at": "2026-10-29T21:20:47+00:00",
+      "excerpt": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: revenue",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "source": "TechCrunch",
+      "published_at": "2026-10-29T20:08:31+00:00",
+      "excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T08:55:08+00:00",
+      "excerpt": "",
+      "popularity": 174,
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 174"
+      ]
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-29T12:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI\u2026",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T22:26:38+00:00",
+      "excerpt": "",
+      "popularity": 85,
+      "category": "AI Tools",
+      "score": 46,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 85"
+      ]
+    },
+    {
+      "title": "Software engineering at Google & CS education with Titus Winters",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-10-29T13:37:13+00:00",
+      "excerpt": "Titus Winters shares lessons from engineering at Google\u2019s scale and explores how AI is reshaping developer productivity and computer science education.",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Design the interface for functionality not familiarity",
+      "url": "https://lapcatsoftware.com/articles/2026/10/10.html",
+      "source": "Lobsters",
+      "published_at": "2026-10-30T01:04:38+00:00",
+      "excerpt": "Comments",
+      "category": "Discoveries",
+      "score": 39,
+      "reasons": [
+        "Matches discoveries terms: design",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "An open format for writing agent-native software requirements",
+      "url": "https://slcr.dev/announcements",
+      "source": "Lobsters",
+      "published_at": "2026-10-29T16:17:42+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Future Trait Has A Missing State",
+      "url": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
+      "source": "Lobsters",
+      "published_at": "2026-10-29T04:24:28+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-28T20:32:02+00:00",
+      "excerpt": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a\u2026",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai, automation",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "Consumer Appetite for Personal AI Goes Mainstream",
+      "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-10-29T19:18:20+00:00",
+      "excerpt": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the advent of new classes of wearable devices that, in addition to being able to leverage powerful frontier models, feature built-in intelligence that understand the context of a user. Where are they? What are they seeing and h",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    }
+  ]
+}
