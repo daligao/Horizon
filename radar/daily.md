@@ -1,83 +1,71 @@
-# Horizon Daily Radar — 2026-10-31
+# Horizon Daily Radar — 2026-11-01
 
-Collected: 185 · After filtering: 61 · Selected: 18
+Collected: 190 · After filtering: 54 · Selected: 15
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [Applebee’s exposed customers’ personal data after leaving database password in app](https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app) — 50/100
+### [Applebee’s exposed customers’ personal data after leaving database password in app](https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app) — 40/100
 Source: TechCrunch · Published: 2026-10-30T21:48:53+00:00
-Reason: Matches indie business terms: customers; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people) — 50/100
-Source: TechCrunch · Published: 2026-10-30T16:03:45+00:00
-Reason: Matches indie business terms: profit; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [Eating disorders are on the rise. GLP-1s could make things worse.](https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs) — 32/100
-Source: MIT Technology Review · Published: 2026-10-30T09:00:00+00:00
-Reason: Published in the last 30 hours; Includes concrete operating or outcome data
+Reason: Matches indie business terms: customers; Published this week; Includes concrete operating or outcome data
 
 ## AI Tools
 
-### [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) — 58/100
+### [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088) — 71/100
+Source: Hacker News · Published: 2026-10-31T19:39:19+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 290
+
+### [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts) — 54/100
+Source: Simon Willison · Published: 2026-10-31T23:15:22+00:00
+Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published in the last 30 hours
+
+### [datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm) — 54/100
+Source: Simon Willison · Published: 2026-10-31T22:10:01+00:00
+Reason: Matches ai tools terms: llm, agent; Trusted specialist source; Published in the last 30 hours
+
+### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 52/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source; Includes concrete operating or outcome data
-
-### [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5) — 57/100
-Source: Hacker News · Published: 2026-10-31T03:22:44+00:00
-Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 94
-
-### [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise) — 57/100
-Source: Hacker News · Published: 2026-10-30T07:09:12+00:00
-Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours; Hacker News score: 856
-
-### [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) — 57/100
-Source: Hacker News · Published: 2026-10-30T15:52:18+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 548
-
-### [obra/superpowers](https://github.com/obra/superpowers) — 52/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source
+Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
 ### [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — 52/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [Rationale for filtering LLM usage links as off-topic](https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links) — 50/100
-Source: Lobsters · Published: 2026-10-30T16:49:53+00:00
-Reason: Matches ai tools terms: ai, llm; Trusted specialist source; Published in the last 30 hours
+### [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — 52/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [Ollie, a privacy-focused AI assistant, is shutting down](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down) — 50/100
+### [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round) — 46/100
+Source: TechCrunch · Published: 2026-10-31T16:12:55+00:00
+Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours
+
+### [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM](https://arxiv.org/abs/2409.02292) — 44/100
+Source: Hacker News · Published: 2026-11-01T01:46:29+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 42
+
+### [Ollie, a privacy-focused AI assistant, is shutting down](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down) — 40/100
 Source: TechCrunch · Published: 2026-10-30T22:56:13+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
+Reason: Matches ai tools terms: ai; Published this week; Includes concrete operating or outcome data
 
-### [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits) — 44/100
-Source: Simon Willison · Published: 2026-10-29T22:48:29+00:00
-Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published this week
+### [The support case of a customer who said that all they could see was a black screen](https://devblogs.microsoft.com/oldnewthing/20261029-00?p=112808%2F) — 39/100
+Source: Lobsters · Published: 2026-10-31T01:01:21+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer) — 43/100
+### [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer) — 33/100
 Source: Simon Willison · Published: 2026-10-30T21:59:22+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
-
-### [The Pulse: Anthropic kills the coding interview](https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding) — 39/100
-Source: The Pragmatic Engineer · Published: 2026-10-30T16:37:51+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
-
-### [Backdoors in Claude Code for VS, Cursor official extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) — 39/100
-Source: Lobsters · Published: 2026-10-30T11:04:55+00:00
-Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours
-
-### [The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals](https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals) — 38/100
-Source: MIT Technology Review · Published: 2026-10-30T11:30:00+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
-
-### [Consumer Appetite for Personal AI Goes Mainstream](https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables) — 28/100
-Source: IEEE Spectrum · Published: 2026-10-29T19:18:20+00:00
-Reason: Matches ai tools terms: ai; Published this week
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published this week
 
 ## Technology
 
-### [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace) — 39/100
-Source: Lobsters · Published: 2026-10-30T22:25:49+00:00
-Reason: Matches technology terms: space; Trusted specialist source; Published in the last 30 hours
+### [Speeding up GPU copies by permuting iteration spaces, or, optimising the identity function](https://futhark-lang.org/blog/2026-10-31-faster-copying.html) — 50/100
+Source: Lobsters · Published: 2026-10-31T17:03:04+00:00
+Reason: Matches technology terms: gpu, space; Trusted specialist source; Published in the last 30 hours
+
+### [Electrification Could Cut Global Energy Use in Half](https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half) — 45/100
+Source: Hacker News · Published: 2026-10-31T19:13:34+00:00
+Reason: Matches technology terms: energy; Trusted specialist source; Published in the last 30 hours; Hacker News score: 70
+
+### [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved) — 39/100
+Source: Lobsters · Published: 2026-10-31T19:50:11+00:00
+Reason: Matches technology terms: power grid; Trusted specialist source; Published in the last 30 hours

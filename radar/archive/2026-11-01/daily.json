@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T06:04:40.324846+00:00",
+  "total_collected": 190,
+  "after_filtering": 54,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (15)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (30)"
+  },
+  "items": [
+    {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T19:39:19+00:00",
+      "excerpt": "",
+      "popularity": 290,
+      "category": "AI Tools",
+      "score": 71,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 290"
+      ]
+    },
+    {
+      "title": "How We Took Over ChatGPT Accounts",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+      "source": "Simon Willison",
+      "published_at": "2026-10-31T23:15:22+00:00",
+      "excerpt": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+      "source": "Simon Willison",
+      "published_at": "2026-10-31T22:10:01+00:00",
+      "excerpt": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.de",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: llm, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More https://claude-mem.ai \ud83c\udde8\ud83c\uddf3 \u4e2d\u6587 \u2022 \ud83c\uddf9\ud83c\uddfc \u7e41\u9ad4\u4e2d\u6587 \u2022 \ud83c\uddef\ud83c\uddf5 \u65e5\u672c\u8a9e \u2022 \ud83c\uddf5\ud83c\uddf9 Portugu\u00eas \u2022 \ud83c\udde7\ud83c\uddf7 Portugu\u00eas \u2022 \ud83c\uddf0\ud83c\uddf7 \ud55c\uad6d\uc5b4 \u2022 \ud83c\uddea\ud83c\uddf8 Espa\u00f1ol \u2022 \ud83c\udde9\ud83c\uddea Deutsch \u2022 \ud83c\uddeb\ud83c\uddf7 Fran\u00e7ais \u2022 \ud83c\uddee\ud83c\uddf1 \u05e2\u05d1\u05e8\u05d9\u05ea \u2022 \ud83c\uddf8\ud83c\udde6 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u2022 \ud83c\uddf7\ud83c\uddfa \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u2022 \ud83c\uddf5\ud83c\uddf1 Polski \u2022 \ud83c\udde8\ud83c\uddff \u010ce\u0161tina \u2022 \ud83c\uddf3\ud83c\uddf1 Nederlands \u2022 \ud83c\uddf9\ud83c\uddf7 T\u00fcrk\u00e7e \u2022 \ud83c\uddfa\ud83c\udde6 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u2022",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. https://impeccable.style Impeccable The design vocabulary for your coding agent. Steer with polish and bolder , review with critique and audit , and catch AI slop before it ships. From your project root: npx impeccable install Reload your coding tool, then run /impeccable init in your agent ( $impeccable init on Codex). Works with Claude Code, Cursor, Codex CL",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "https://t3.codes T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ( iOS , Android ), web app and Electron-based desktop app . Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, OpenCode, and Google Antigravity. If they're set up on your computer, T3 Code can control them. \"Wait, what are you selling me?\" Nothing. We built T3 Code because we wanted the best possible development experience ",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Speeding up GPU copies by permuting iteration spaces, or, optimising the identity function",
+      "url": "https://futhark-lang.org/blog/2026-10-31-faster-copying.html",
+      "source": "Lobsters",
+      "published_at": "2026-10-31T17:03:04+00:00",
+      "excerpt": "Comments",
+      "category": "Technology",
+      "score": 50,
+      "reasons": [
+        "Matches technology terms: gpu, space",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+      "source": "TechCrunch",
+      "published_at": "2026-10-31T16:12:55+00:00",
+      "excerpt": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
+      "category": "AI Tools",
+      "score": 46,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T19:13:34+00:00",
+      "excerpt": "",
+      "popularity": 70,
+      "category": "Technology",
+      "score": 45,
+      "reasons": [
+        "Matches technology terms: energy",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 70"
+      ]
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "source": "Hacker News",
+      "published_at": "2026-11-01T01:46:29+00:00",
+      "excerpt": "",
+      "popularity": 42,
+      "category": "AI Tools",
+      "score": 44,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 42"
+      ]
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+      "source": "TechCrunch",
+      "published_at": "2026-10-30T22:56:13+00:00",
+      "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "category": "AI Tools",
+      "score": 40,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published this week",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Applebee\u2019s exposed customers\u2019 personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app",
+      "source": "TechCrunch",
+      "published_at": "2026-10-30T21:48:53+00:00",
+      "excerpt": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+      "category": "Indie Business",
+      "score": 40,
+      "reasons": [
+        "Matches indie business terms: customers",
+        "Published this week",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "source": "Lobsters",
+      "published_at": "2026-10-31T19:50:11+00:00",
+      "excerpt": "Comments",
+      "category": "Technology",
+      "score": 39,
+      "reasons": [
+        "Matches technology terms: power grid",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The support case of a customer who said that all they could see was a black screen",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00?p=112808%2F",
+      "source": "Lobsters",
+      "published_at": "2026-10-31T01:01:21+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer",
+      "source": "Simon Willison",
+      "published_at": "2026-10-30T21:59:22+00:00",
+      "excerpt": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a Ninten",
+      "category": "AI Tools",
+      "score": 33,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    }
+  ]
+}
