@@ -1,75 +1,74 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T06:02:33.890476+00:00",
-  "total_collected": 188,
-  "after_filtering": 43,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T06:48:00.764334+00:00",
+  "total_collected": 189,
+  "after_filtering": 69,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (14)",
+    "GitHub Trending": "ok (17)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (29)"
+    "Hacker News": "ok (27)"
   },
   "items": [
     {
-      "title": "Quoting Kyle Kingsbury",
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
-      "source": "Simon Willison",
-      "published_at": "2026-11-01T16:49:04+00:00",
-      "excerpt": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion\u2014the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? \u2014 Kyle Kingsbury , Jepsen results fo",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-02T17:00:00+00:00",
+      "excerpt": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate\u2026",
       "category": "AI Tools",
-      "score": 69,
+      "score": 64,
       "reasons": [
-        "Matches ai tools terms: ai, llm",
-        "Trusted specialist source",
+        "Matches ai tools terms: ai, agent",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-02T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our\u2026",
+      "category": "AI Tools",
+      "score": 64,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
       "source": "Hacker News",
-      "published_at": "2026-11-01T06:06:19+00:00",
+      "published_at": "2026-11-02T23:47:56+00:00",
       "excerpt": "",
-      "popularity": 336,
+      "popularity": 163,
       "category": "AI Tools",
-      "score": 57,
+      "score": 61,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: ai, openai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 336"
+        "Hacker News score: 163"
       ]
     },
     {
-      "title": "Guarding the Gates of Knowledge",
-      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-01T14:00:01+00:00",
-      "excerpt": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion. Remember the good old days of GPT-3 when we could ask the chatbot anything and it would almost instantly and very confidently spit ba",
+      "title": "The U.S. Census Bureau and \u201cSuper Intelligence\u201d",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
+      "source": "Simon Willison",
+      "published_at": "2026-11-02T13:31:26+00:00",
+      "excerpt": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned t",
       "category": "AI Tools",
-      "score": 53,
+      "score": 54,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Game Off 2026: The theme is SHIFT",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-01T21:36:00+00:00",
-      "excerpt": "GitHub\u2019s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, github",
+        "Matches ai tools terms: ai, claude",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
@@ -101,24 +100,54 @@
       ]
     },
     {
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
+      "title": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
       "source": "GitHub Trending",
       "published_at": null,
-      "excerpt": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. https://impeccable.style Impeccable The design vocabulary for your coding agent. Steer with polish and bolder , review with critique and audit , and catch AI slop before it ships. From your project root: npx impeccable install Reload your coding tool, then run /impeccable init in your agent ( $impeccable init on Codex). Works with Claude Code, Cursor, Codex CL",
+      "excerpt": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. https://beenuar.github.io/AiSOC/ AiSOC An open-source, self-hostable AI Security Operations Center. It ingests your security telemetry, detects and correlates threats, investigates them with AI agents whose reasoning is fully auditable, ",
       "category": "AI Tools",
       "score": 52,
       "reasons": [
-        "Matches ai tools terms: ai, codex, claude",
+        "Matches ai tools terms: ai, llm, claude",
         "Trusted specialist source"
       ]
     },
     {
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-03T00:08:53+00:00",
+      "excerpt": "",
+      "popularity": 182,
+      "category": "Technology",
+      "score": 51,
+      "reasons": [
+        "Matches technology terms: chip",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 182"
+      ]
+    },
+    {
+      "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
       "source": "TechCrunch",
-      "published_at": "2026-11-01T16:20:10+00:00",
-      "excerpt": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: revenue",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Apple\u2019s inventory surges 154% as memory chip costs climb",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb",
+      "source": "TechCrunch",
+      "published_at": "2026-11-02T23:04:57+00:00",
+      "excerpt": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
       "category": "AI Tools",
       "score": 50,
       "reasons": [
@@ -128,86 +157,56 @@
       ]
     },
     {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
+      "source": "TechCrunch",
+      "published_at": "2026-11-02T19:25:59+00:00",
+      "excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
       "source": "Hacker News",
-      "published_at": "2026-11-01T16:23:26+00:00",
+      "published_at": "2026-11-02T17:47:40+00:00",
       "excerpt": "",
-      "popularity": 154,
-      "category": "SEO",
+      "popularity": 176,
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: solopreneur",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 176"
+      ]
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-02T13:10:32+00:00",
+      "excerpt": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls\u2026",
+      "category": "AI Tools",
       "score": 49,
       "reasons": [
-        "Matches seo terms: seo",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 154"
-      ]
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
-      "source": "TechCrunch",
-      "published_at": "2026-11-01T21:55:23+00:00",
-      "excerpt": "Data centers are deeply unpopular. But what if we called them something else?",
-      "category": "AI Tools",
-      "score": 46,
-      "reasons": [
-        "Matches ai tools terms: ai, openai",
+        "Matches ai tools terms: ai, agent",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters",
-      "source": "Hacker News",
-      "published_at": "2026-11-01T10:44:20+00:00",
-      "excerpt": "",
-      "popularity": 69,
-      "category": "AI Tools",
-      "score": 45,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 69"
-      ]
-    },
-    {
-      "title": "How We Took Over ChatGPT Accounts",
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location",
       "source": "Simon Willison",
-      "published_at": "2026-10-31T23:15:22+00:00",
-      "excerpt": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA",
+      "published_at": "2026-11-03T05:32:25+00:00",
+      "excerpt": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy , youtube",
       "category": "AI Tools",
-      "score": 44,
-      "reasons": [
-        "Matches ai tools terms: ai, openai",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "datasette-llm 0.1a9",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
-      "source": "Simon Willison",
-      "published_at": "2026-10-31T22:10:01+00:00",
-      "excerpt": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.de",
-      "category": "AI Tools",
-      "score": 44,
-      "reasons": [
-        "Matches ai tools terms: llm, agent",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "London Meetup - Nov 2026",
-      "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
-      "source": "Lobsters",
-      "published_at": "2026-11-01T18:47:10+00:00",
-      "excerpt": "Pub Address: The Fellow, 24 York Way, London, N1 9AA. Date: Sunday, 15/11/2026 1pm The idea is to just meet and have a chat really. I have submitted a request to book a table. Hopefully they approve but if not we can just find an un-booked table. I am posting the meetup prior to receiving their approval, so that those of you who live outside London can (hopefully) bag a cheaper train ticket by booking 2 weeks in advance. I've created a London Lobsters Whatsapp group too, where we can communicate",
-      "category": "AI Tools",
-      "score": 39,
+      "score": 43,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
@@ -215,10 +214,38 @@
       ]
     },
     {
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "title": "October sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
+      "source": "Simon Willison",
+      "published_at": "2026-11-03T05:28:59+00:00",
+      "excerpt": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newslet",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Game Off 2026: The theme is SHIFT",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-01T21:36:00+00:00",
+      "excerpt": "GitHub\u2019s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 42,
+      "reasons": [
+        "Matches ai tools terms: ai, github",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack",
       "source": "Lobsters",
-      "published_at": "2026-11-02T02:19:02+00:00",
+      "published_at": "2026-11-02T16:30:58+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -229,11 +256,11 @@
       ]
     },
     {
-      "title": "An easy way to try local AI with braindead-local-intelligence",
-      "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+      "title": "Why did you choose the nix you nix?",
+      "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
       "source": "Lobsters",
-      "published_at": "2026-11-01T20:26:47+00:00",
-      "excerpt": "Comments",
+      "published_at": "2026-11-03T03:58:06+00:00",
+      "excerpt": "I don't which nix is good and at this point I'm afraid I need to ask. (Cpp) Nix Determinate Nix Lix Or, you know, Guix ? (I suspect that Snix , Tvix , and others aren't intended for general use\u2026 but I might be wrong?)",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
@@ -243,15 +270,16 @@
       ]
     },
     {
-      "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
-      "source": "TechCrunch",
-      "published_at": "2026-11-01T20:57:58+00:00",
-      "excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming",
+      "source": "Lobsters",
+      "published_at": "2026-11-02T19:24:33+00:00",
+      "excerpt": "Comments",
       "category": "AI Tools",
-      "score": 35,
+      "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     }
