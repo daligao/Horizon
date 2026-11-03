@@ -1,32 +1,36 @@
-# Horizon Daily Radar — 2026-11-02
+# Horizon Daily Radar — 2026-11-03
 
-Collected: 188 · After filtering: 43 · Selected: 17
+Collected: 189 · After filtering: 69 · Selected: 19
 
 Rules-only ranking; no AI summary or external AI service was used.
 
-## SEO
+## Indie Business
 
-### [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml) — 49/100
-Source: Hacker News · Published: 2026-11-01T16:23:26+00:00
-Reason: Matches seo terms: seo; Trusted specialist source; Published in the last 30 hours; Hacker News score: 154
+### [Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps) — 50/100
+Source: TechCrunch · Published: 2026-11-03T01:49:52+00:00
+Reason: Matches indie business terms: revenue; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You](https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you) — 50/100
+Source: Hacker News · Published: 2026-11-02T17:47:40+00:00
+Reason: Matches indie business terms: solopreneur; Trusted specialist source; Published in the last 30 hours; Hacker News score: 176
 
 ## AI Tools
 
-### [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury) — 69/100
-Source: Simon Willison · Published: 2026-11-01T16:49:04+00:00
-Reason: Matches ai tools terms: ai, llm; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Raising the quality of insights in agentic analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics) — 64/100
+Source: MIT Technology Review · Published: 2026-11-02T17:00:00+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks) — 57/100
-Source: Hacker News · Published: 2026-11-01T06:06:19+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 336
+### [The Download: the agentic web arrives and the drive for safer roads](https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths) — 64/100
+Source: MIT Technology Review · Published: 2026-11-02T13:10:00+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [Guarding the Gates of Knowledge](https://spectrum.ieee.org/ai-slop-trust-science) — 53/100
-Source: IEEE Spectrum · Published: 2026-11-01T14:00:01+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai) — 61/100
+Source: Hacker News · Published: 2026-11-02T23:47:56+00:00
+Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 163
 
-### [Game Off 2026: The theme is SHIFT](https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift) — 52/100
-Source: GitHub Blog · Published: 2026-11-01T21:36:00+00:00
-Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published in the last 30 hours
+### [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence) — 54/100
+Source: Simon Willison · Published: 2026-11-02T13:31:26+00:00
+Reason: Matches ai tools terms: ai, claude; Trusted specialist source; Published in the last 30 hours
 
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 52/100
 Source: GitHub Trending · Published: Unknown
@@ -36,42 +40,48 @@ Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — 52/100
+### [beenuar/AiSOC](https://github.com/beenuar/AiSOC) — 52/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
+Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source
 
-### [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach) — 50/100
-Source: TechCrunch · Published: 2026-11-01T16:20:10+00:00
+### [Apple’s inventory surges 154% as memory chip costs climb](https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb) — 50/100
+Source: TechCrunch · Published: 2026-11-02T23:04:57+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses) — 46/100
-Source: TechCrunch · Published: 2026-11-01T21:55:23+00:00
-Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours
+### [Web host Squarespace lays off 19% of its employees](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees) — 50/100
+Source: TechCrunch · Published: 2026-11-02T19:25:59+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [Domain hacks with unusual Unicode characters (2018)](https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters) — 45/100
-Source: Hacker News · Published: 2026-11-01T10:44:20+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 69
+### [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships) — 49/100
+Source: MIT Technology Review · Published: 2026-11-02T13:10:32+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
 
-### [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts) — 44/100
-Source: Simon Willison · Published: 2026-10-31T23:15:22+00:00
-Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published this week
-
-### [datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm) — 44/100
-Source: Simon Willison · Published: 2026-10-31T22:10:01+00:00
-Reason: Matches ai tools terms: llm, agent; Trusted specialist source; Published this week
-
-### [London Meetup - Nov 2026](https://lobste.rs/s/cqzwwg/london_meetup_nov_2026) — 39/100
-Source: Lobsters · Published: 2026-11-01T18:47:10+00:00
+### [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location) — 43/100
+Source: Simon Willison · Published: 2026-11-03T05:32:25+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [Postgres 19 is late, and it's AI's fault](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html) — 39/100
-Source: Lobsters · Published: 2026-11-02T02:19:02+00:00
+### [October sponsors-only newsletter](https://simonwillison.net/2026/Nov/3/october-newsletter) — 43/100
+Source: Simon Willison · Published: 2026-11-03T05:28:59+00:00
+Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours
+
+### [Game Off 2026: The theme is SHIFT](https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift) — 42/100
+Source: GitHub Blog · Published: 2026-11-01T21:36:00+00:00
+Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published this week
+
+### [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack) — 39/100
+Source: Lobsters · Published: 2026-11-02T16:30:58+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [An easy way to try local AI with braindead-local-intelligence](https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html) — 39/100
-Source: Lobsters · Published: 2026-11-01T20:26:47+00:00
+### [Why did you choose the nix you nix?](https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix) — 39/100
+Source: Lobsters · Published: 2026-11-03T03:58:06+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else) — 35/100
-Source: TechCrunch · Published: 2026-11-01T20:57:58+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
+### [Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming) — 39/100
+Source: Lobsters · Published: 2026-11-02T19:24:33+00:00
+Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours
+
+## Technology
+
+### [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html) — 51/100
+Source: Hacker News · Published: 2026-11-03T00:08:53+00:00
+Reason: Matches technology terms: chip; Trusted specialist source; Published in the last 30 hours; Hacker News score: 182
