@@ -1,36 +1,36 @@
-# Horizon Daily Radar — 2026-11-03
+# Horizon Daily Radar — 2026-11-04
 
-Collected: 189 · After filtering: 69 · Selected: 19
+Collected: 190 · After filtering: 58 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps) — 50/100
-Source: TechCrunch · Published: 2026-11-03T01:49:52+00:00
+### [Microsoft fixes a Windows 11 annoyance as PC revenue declines](https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides) — 59/100
+Source: Hacker News · Published: 2026-11-03T12:58:43+00:00
+Reason: Matches indie business terms: revenue; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 46
+
+### [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal) — 50/100
+Source: TechCrunch · Published: 2026-11-03T21:05:55+00:00
 Reason: Matches indie business terms: revenue; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You](https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you) — 50/100
-Source: Hacker News · Published: 2026-11-02T17:47:40+00:00
-Reason: Matches indie business terms: solopreneur; Trusted specialist source; Published in the last 30 hours; Hacker News score: 176
+### [Reddit tests ads in search results as traffic declines and growth concerns mount](https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount) — 50/100
+Source: TechCrunch · Published: 2026-11-03T19:24:37+00:00
+Reason: Matches indie business terms: revenue; Published in the last 30 hours; Includes concrete operating or outcome data
 
 ## AI Tools
 
-### [Raising the quality of insights in agentic analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics) — 64/100
-Source: MIT Technology Review · Published: 2026-11-02T17:00:00+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights) — 65/100
+Source: Simon Willison · Published: 2026-11-03T16:29:48+00:00
+Reason: Matches ai tools terms: ai, llm, machine learning; Trusted specialist source; Published in the last 30 hours
 
-### [The Download: the agentic web arrives and the drive for safer roads](https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths) — 64/100
-Source: MIT Technology Review · Published: 2026-11-02T13:10:00+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) — 57/100
+Source: Hacker News · Published: 2026-11-03T17:22:37+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 1166
 
-### [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai) — 61/100
-Source: Hacker News · Published: 2026-11-02T23:47:56+00:00
-Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 163
-
-### [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence) — 54/100
-Source: Simon Willison · Published: 2026-11-02T13:31:26+00:00
-Reason: Matches ai tools terms: ai, claude; Trusted specialist source; Published in the last 30 hours
+### [Arnis turns any place on Earth into a Minecraft world](https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world) — 52/100
+Source: GitHub Blog · Published: 2026-11-03T16:00:00+00:00
+Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published in the last 30 hours
 
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 52/100
 Source: GitHub Trending · Published: Unknown
@@ -40,20 +40,20 @@ Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [beenuar/AiSOC](https://github.com/beenuar/AiSOC) — 52/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source
-
-### [Apple’s inventory surges 154% as memory chip costs climb](https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb) — 50/100
-Source: TechCrunch · Published: 2026-11-02T23:04:57+00:00
+### [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood) — 50/100
+Source: TechCrunch · Published: 2026-11-03T18:42:16+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [Web host Squarespace lays off 19% of its employees](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees) — 50/100
-Source: TechCrunch · Published: 2026-11-02T19:25:59+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
+### [The Download: controlling AI agents and “Super Intelligence” loyalty tests](https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence) — 49/100
+Source: MIT Technology Review · Published: 2026-11-03T13:10:00+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
 
-### [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships) — 49/100
-Source: MIT Technology Review · Published: 2026-11-02T13:10:32+00:00
+### [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment) — 49/100
+Source: MIT Technology Review · Published: 2026-11-03T10:43:41+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
+
+### [IEEE Computer Society Chapter Offers Webinars With Industry Experts](https://spectrum.ieee.org/ieee-industry-experts-webinar) — 49/100
+Source: IEEE Spectrum · Published: 2026-11-03T19:00:02+00:00
 Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
 
 ### [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location) — 43/100
@@ -64,24 +64,30 @@ Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the 
 Source: Simon Willison · Published: 2026-11-03T05:28:59+00:00
 Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours
 
-### [Game Off 2026: The theme is SHIFT](https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift) — 42/100
-Source: GitHub Blog · Published: 2026-11-01T21:36:00+00:00
-Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published this week
+### [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — 43/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, claude, agent; Trusted specialist source
 
-### [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack) — 39/100
-Source: Lobsters · Published: 2026-11-02T16:30:58+00:00
+### [Your terminal manipulation/navigation setups](https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation) — 39/100
+Source: Lobsters · Published: 2026-11-03T18:54:55+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
 ### [Why did you choose the nix you nix?](https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix) — 39/100
 Source: Lobsters · Published: 2026-11-03T03:58:06+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming) — 39/100
-Source: Lobsters · Published: 2026-11-02T19:24:33+00:00
-Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours
+### [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test) — 38/100
+Source: MIT Technology Review · Published: 2026-11-03T04:18:47+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
 ## Technology
 
-### [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html) — 51/100
-Source: Hacker News · Published: 2026-11-03T00:08:53+00:00
-Reason: Matches technology terms: chip; Trusted specialist source; Published in the last 30 hours; Hacker News score: 182
+### [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) — 57/100
+Source: Hacker News · Published: 2026-11-03T16:47:29+00:00
+Reason: Matches technology terms: robot; Trusted specialist source; Published in the last 30 hours; Hacker News score: 496
+
+## Discoveries
+
+### [Gist of Go: Concurrency](https://antonz.org/go-concurrency) — 39/100
+Source: Lobsters · Published: 2026-11-03T23:05:03+00:00
+Reason: Matches discoveries terms: resource; Trusted specialist source; Published in the last 30 hours
