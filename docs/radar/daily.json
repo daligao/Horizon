@@ -1,74 +1,93 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T06:48:00.764334+00:00",
-  "total_collected": 189,
-  "after_filtering": 69,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T06:22:14.777738+00:00",
+  "total_collected": 190,
+  "after_filtering": 58,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (17)",
+    "GitHub Trending": "ok (15)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (27)"
+    "Hacker News": "ok (30)"
   },
   "items": [
     {
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-02T17:00:00+00:00",
-      "excerpt": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate\u2026",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+      "source": "Simon Willison",
+      "published_at": "2026-11-03T16:29:48+00:00",
+      "excerpt": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with o",
       "category": "AI Tools",
-      "score": 64,
+      "score": 65,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Matches ai tools terms: ai, llm, machine learning",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-02T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our\u2026",
-      "category": "AI Tools",
-      "score": 64,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
       "source": "Hacker News",
-      "published_at": "2026-11-02T23:47:56+00:00",
+      "published_at": "2026-11-03T12:58:43+00:00",
       "excerpt": "",
-      "popularity": 163,
-      "category": "AI Tools",
-      "score": 61,
+      "popularity": 46,
+      "category": "Indie Business",
+      "score": 59,
       "reasons": [
-        "Matches ai tools terms: ai, openai",
+        "Matches indie business terms: revenue",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 163"
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 46"
       ]
     },
     {
-      "title": "The U.S. Census Bureau and \u201cSuper Intelligence\u201d",
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
-      "source": "Simon Willison",
-      "published_at": "2026-11-02T13:31:26+00:00",
-      "excerpt": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned t",
-      "category": "AI Tools",
-      "score": 54,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-03T16:47:29+00:00",
+      "excerpt": "",
+      "popularity": 496,
+      "category": "Technology",
+      "score": 57,
       "reasons": [
-        "Matches ai tools terms: ai, claude",
+        "Matches technology terms: robot",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 496"
+      ]
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "Hacker News",
+      "published_at": "2026-11-03T17:22:37+00:00",
+      "excerpt": "",
+      "popularity": 1166,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 1166"
+      ]
+    },
+    {
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-03T16:00:00+00:00",
+      "excerpt": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, github",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
@@ -100,40 +119,11 @@
       ]
     },
     {
-      "title": "beenuar/AiSOC",
-      "url": "https://github.com/beenuar/AiSOC",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. https://beenuar.github.io/AiSOC/ AiSOC An open-source, self-hostable AI Security Operations Center. It ingests your security telemetry, detects and correlates threats, investigates them with AI agents whose reasoning is fully auditable, ",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, llm, claude",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-      "source": "Hacker News",
-      "published_at": "2026-11-03T00:08:53+00:00",
-      "excerpt": "",
-      "popularity": 182,
-      "category": "Technology",
-      "score": 51,
-      "reasons": [
-        "Matches technology terms: chip",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 182"
-      ]
-    },
-    {
-      "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+      "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
       "source": "TechCrunch",
-      "published_at": "2026-11-03T01:49:52+00:00",
-      "excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "published_at": "2026-11-03T21:05:55+00:00",
+      "excerpt": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
       "category": "Indie Business",
       "score": 50,
       "reasons": [
@@ -143,55 +133,65 @@
       ]
     },
     {
-      "title": "Apple\u2019s inventory surges 154% as memory chip costs climb",
-      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb",
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount",
       "source": "TechCrunch",
-      "published_at": "2026-11-02T23:04:57+00:00",
-      "excerpt": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
-      "category": "AI Tools",
-      "score": 50,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
-      "source": "TechCrunch",
-      "published_at": "2026-11-02T19:25:59+00:00",
-      "excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "category": "AI Tools",
-      "score": 50,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "source": "Hacker News",
-      "published_at": "2026-11-02T17:47:40+00:00",
-      "excerpt": "",
-      "popularity": 176,
+      "published_at": "2026-11-03T19:24:37+00:00",
+      "excerpt": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
       "category": "Indie Business",
       "score": 50,
       "reasons": [
-        "Matches indie business terms: solopreneur",
-        "Trusted specialist source",
+        "Matches indie business terms: revenue",
         "Published in the last 30 hours",
-        "Hacker News score: 176"
+        "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+      "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+      "source": "TechCrunch",
+      "published_at": "2026-11-03T18:42:16+00:00",
+      "excerpt": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "The Download: controlling AI agents and \u201cSuper Intelligence\u201d loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence",
       "source": "MIT Technology Review",
-      "published_at": "2026-11-02T13:10:32+00:00",
-      "excerpt": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls\u2026",
+      "published_at": "2026-11-03T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How \u201creverse game theory\u201d could keep AI agents in check A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to\u2026",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "How \u201creverse game theory\u201d could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-03T10:43:41+00:00",
+      "excerpt": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires\u2014to make sure, in other words, that rogue agents don\u2019t break the law,\u2026",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-03T19:00:02+00:00",
+      "excerpt": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society \u2019s Central Indiana Chapter recently launched its Tech Talk Series. The live webinar series connects IEEE members, undergrad and graduate students, and engineering professionals from IEEE Region 4 with industry practitioners. The monthly sessions have covered AI governance and security, agentic systems, and relat",
       "category": "AI Tools",
       "score": 49,
       "reasons": [
@@ -228,25 +228,24 @@
       ]
     },
     {
-      "title": "Game Off 2026: The theme is SHIFT",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-01T21:36:00+00:00",
-      "excerpt": "GitHub\u2019s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Turn Claude Code into a full game dev studio \u2014 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. Why This Exists Building a game solo with AI is powerful \u2014 but a single chat session has no structure. No one stops you from hardcoding magic numbers, skipping design docs, or writing spaghetti code. There's ",
       "category": "AI Tools",
-      "score": 42,
+      "score": 43,
       "reasons": [
-        "Matches ai tools terms: ai, github",
-        "Trusted specialist source",
-        "Published this week"
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source"
       ]
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack",
+      "title": "Your terminal manipulation/navigation setups",
+      "url": "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation",
       "source": "Lobsters",
-      "published_at": "2026-11-02T16:30:58+00:00",
-      "excerpt": "Comments",
+      "published_at": "2026-11-03T18:54:55+00:00",
+      "excerpt": "Dear Lobste.rs, over a year after my previous post on mouse free setups , your advice was instrumental to building the tech stack I use today as a disabled person, composed of the Svalboard, Talon Voice, and a fair few extensions for Talon (including ones I've written myself.) One aspect of my work and personal life that has remained stubbornly able-bodied has been, surprisingly, my terminal use. Reading, manipulating, and editing the terminal has required keyboard and mouse use at every step: W",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
@@ -270,16 +269,29 @@
       ]
     },
     {
-      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming",
+      "title": "Gist of Go: Concurrency",
+      "url": "https://antonz.org/go-concurrency",
       "source": "Lobsters",
-      "published_at": "2026-11-02T19:24:33+00:00",
-      "excerpt": "Comments",
-      "category": "AI Tools",
+      "published_at": "2026-11-03T23:05:03+00:00",
+      "excerpt": "This seems like a well executed mini-course on concurrency in Go. I'd love to hear where it might be out of date or otherwise steering me wrong, as well as pointers to other good resources. Comments",
+      "category": "Discoveries",
       "score": 39,
       "reasons": [
-        "Matches ai tools terms: llm",
+        "Matches discoveries terms: resource",
         "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-03T04:18:47+00:00",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as \u201cSuper Intelligence.\u201d That\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours"
       ]
     }
