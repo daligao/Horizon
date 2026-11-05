@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T06:46:08.563402+00:00",
+  "total_collected": 186,
+  "after_filtering": 57,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (13)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (28)"
+  },
+  "items": [
+    {
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
+      "source": "Simon Willison",
+      "published_at": "2026-11-04T15:26:02+00:00",
+      "excerpt": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "category": "AI Tools",
+      "score": 65,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T15:21:21+00:00",
+      "excerpt": "",
+      "popularity": 227,
+      "category": "AI Tools",
+      "score": 64,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 227"
+      ]
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T11:52:17+00:00",
+      "excerpt": "",
+      "popularity": 1146,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 1146"
+      ]
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T18:53:29+00:00",
+      "excerpt": "",
+      "popularity": 274,
+      "category": "AI Tools",
+      "score": 55,
+      "reasons": [
+        "Matches ai tools terms: agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 274"
+      ]
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More https://claude-mem.ai \ud83c\udde8\ud83c\uddf3 \u4e2d\u6587 \u2022 \ud83c\uddf9\ud83c\uddfc \u7e41\u9ad4\u4e2d\u6587 \u2022 \ud83c\uddef\ud83c\uddf5 \u65e5\u672c\u8a9e \u2022 \ud83c\uddf5\ud83c\uddf9 Portugu\u00eas \u2022 \ud83c\udde7\ud83c\uddf7 Portugu\u00eas \u2022 \ud83c\uddf0\ud83c\uddf7 \ud55c\uad6d\uc5b4 \u2022 \ud83c\uddea\ud83c\uddf8 Espa\u00f1ol \u2022 \ud83c\udde9\ud83c\uddea Deutsch \u2022 \ud83c\uddeb\ud83c\uddf7 Fran\u00e7ais \u2022 \ud83c\uddee\ud83c\uddf1 \u05e2\u05d1\u05e8\u05d9\u05ea \u2022 \ud83c\uddf8\ud83c\udde6 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u2022 \ud83c\uddf7\ud83c\uddfa \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u2022 \ud83c\uddf5\ud83c\uddf1 Polski \u2022 \ud83c\udde8\ud83c\uddff \u010ce\u0161tina \u2022 \ud83c\uddf3\ud83c\uddf1 Nederlands \u2022 \ud83c\uddf9\ud83c\uddf7 T\u00fcrk\u00e7e \u2022 \ud83c\uddfa\ud83c\udde6 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u2022",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, Cursor, and pi. This plugin provides focused workflows for the Portal CLI : set up authentication, search your software catalog, build service briefings, run diagnostics, and invoke Portal actions. Highlights Set up the Portal CLI for your current coding-agent environment. Run read-only diagnostics to verify plugin, CLI, authentication, and action readiness. Search the software catalog and technical documentation using natur",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers",
+      "source": "TechCrunch",
+      "published_at": "2026-11-04T21:49:29+00:00",
+      "excerpt": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "source": "TechCrunch",
+      "published_at": "2026-11-04T19:30:04+00:00",
+      "excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of [\u2026]",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: profit",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Revolut\u2019s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
+      "source": "TechCrunch",
+      "published_at": "2026-11-04T14:10:10+00:00",
+      "excerpt": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: launch",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-04T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:\u2026",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-04T13:00:00+00:00",
+      "excerpt": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s\u2026",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "datasette-apps 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps",
+      "source": "Simon Willison",
+      "published_at": "2026-11-04T00:29:36+00:00",
+      "excerpt": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view. New app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which stored ",
+      "category": "AI Tools",
+      "score": 44,
+      "reasons": [
+        "Matches ai tools terms: llm, agent",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "datasette-agent 0.5a0",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent",
+      "source": "Simon Willison",
+      "published_at": "2026-11-03T23:13:45+00:00",
+      "excerpt": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You can try it by signing in with your GitHub account to agent.datasette.io . Tags: projects , datasett",
+      "category": "AI Tools",
+      "score": 44,
+      "reasons": [
+        "Matches ai tools terms: agent, github",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Turn Claude Code into a full game dev studio \u2014 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. Why This Exists Building a game solo with AI is powerful \u2014 but a single chat session has no structure. No one stops you from hardcoding magic numbers, skipping design docs, or writing spaghetti code. There's ",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Shlemiel the Painter Is Back: How Zig\u2019s libc Rewrite Made SQLite Slower",
+      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown",
+      "source": "Lobsters",
+      "published_at": "2026-11-04T15:23:09+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-03T19:00:02+00:00",
+      "excerpt": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society \u2019s Central Indiana Chapter recently launched its Tech Talk Series. The live webinar series connects IEEE members, undergrad and graduate students, and engineering professionals from IEEE Region 4 with industry practitioners. The monthly sessions have covered AI governance and security, agentic systems, and relat",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-04T18:50:55+00:00",
+      "excerpt": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Arrows to Arrows, Categories to Queries",
+      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows",
+      "source": "Lobsters",
+      "published_at": "2026-11-04T15:49:15+00:00",
+      "excerpt": "Comments",
+      "category": "Indie Business",
+      "score": 33,
+      "reasons": [
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    }
+  ]
+}
