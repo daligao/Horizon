@@ -1,95 +1,80 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T06:22:14.777738+00:00",
-  "total_collected": 190,
-  "after_filtering": 58,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T06:46:08.563402+00:00",
+  "total_collected": 186,
+  "after_filtering": 57,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (15)",
+    "GitHub Trending": "ok (13)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (30)"
+    "Hacker News": "ok (28)"
   },
   "items": [
     {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
       "source": "Simon Willison",
-      "published_at": "2026-11-03T16:29:48+00:00",
-      "excerpt": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with o",
+      "published_at": "2026-11-04T15:26:02+00:00",
+      "excerpt": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
       "category": "AI Tools",
       "score": 65,
       "reasons": [
-        "Matches ai tools terms: ai, llm, machine learning",
+        "Matches ai tools terms: ai, llm, agent",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "Hacker News",
-      "published_at": "2026-11-03T12:58:43+00:00",
+      "published_at": "2026-11-04T15:21:21+00:00",
       "excerpt": "",
-      "popularity": 46,
-      "category": "Indie Business",
-      "score": 59,
+      "popularity": 227,
+      "category": "AI Tools",
+      "score": 64,
       "reasons": [
-        "Matches indie business terms: revenue",
+        "Matches ai tools terms: ai, openai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 46"
+        "Hacker News score: 227"
       ]
     },
     {
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "source": "Hacker News",
-      "published_at": "2026-11-03T16:47:29+00:00",
+      "published_at": "2026-11-04T11:52:17+00:00",
       "excerpt": "",
-      "popularity": 496,
-      "category": "Technology",
-      "score": 57,
-      "reasons": [
-        "Matches technology terms: robot",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 496"
-      ]
-    },
-    {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "source": "Hacker News",
-      "published_at": "2026-11-03T17:22:37+00:00",
-      "excerpt": "",
-      "popularity": 1166,
+      "popularity": 1146,
       "category": "AI Tools",
       "score": 57,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 1166"
+        "Hacker News score: 1146"
       ]
     },
     {
-      "title": "Arnis turns any place on Earth into a Minecraft world",
-      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-03T16:00:00+00:00",
-      "excerpt": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T18:53:29+00:00",
+      "excerpt": "",
+      "popularity": 274,
       "category": "AI Tools",
-      "score": 52,
+      "score": 55,
       "reasons": [
-        "Matches ai tools terms: ai, github",
+        "Matches ai tools terms: agent",
         "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published in the last 30 hours",
+        "Hacker News score: 274"
       ]
     },
     {
@@ -106,11 +91,11 @@
       ]
     },
     {
-      "title": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
+      "title": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
       "source": "GitHub Trending",
       "published_at": null,
-      "excerpt": "https://t3.codes T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ( iOS , Android ), web app and Electron-based desktop app . Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, OpenCode, Google Antigravity, and fx. If they're set up on your computer, T3 Code can control them. \"Wait, what are you selling me?\" Nothing. We built T3 Code because we wanted the best possible development experie",
+      "excerpt": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, Cursor, and pi. This plugin provides focused workflows for the Portal CLI : set up authentication, search your software catalog, build service briefings, run diagnostics, and invoke Portal actions. Highlights Set up the Portal CLI for your current coding-agent environment. Run read-only diagnostics to verify plugin, CLI, authentication, and action readiness. Search the software catalog and technical documentation using natur",
       "category": "AI Tools",
       "score": 52,
       "reasons": [
@@ -119,39 +104,11 @@
       ]
     },
     {
-      "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers",
       "source": "TechCrunch",
-      "published_at": "2026-11-03T21:05:55+00:00",
-      "excerpt": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "category": "Indie Business",
-      "score": 50,
-      "reasons": [
-        "Matches indie business terms: revenue",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount",
-      "source": "TechCrunch",
-      "published_at": "2026-11-03T19:24:37+00:00",
-      "excerpt": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-      "category": "Indie Business",
-      "score": 50,
-      "reasons": [
-        "Matches indie business terms: revenue",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
-      "source": "TechCrunch",
-      "published_at": "2026-11-03T18:42:16+00:00",
-      "excerpt": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "published_at": "2026-11-04T21:49:29+00:00",
+      "excerpt": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
       "category": "AI Tools",
       "score": 50,
       "reasons": [
@@ -161,11 +118,39 @@
       ]
     },
     {
-      "title": "The Download: controlling AI agents and \u201cSuper Intelligence\u201d loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "source": "TechCrunch",
+      "published_at": "2026-11-04T19:30:04+00:00",
+      "excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of [\u2026]",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: profit",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Revolut\u2019s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
+      "source": "TechCrunch",
+      "published_at": "2026-11-04T14:10:10+00:00",
+      "excerpt": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: launch",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web",
       "source": "MIT Technology Review",
-      "published_at": "2026-11-03T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How \u201creverse game theory\u201d could keep AI agents in check A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to\u2026",
+      "published_at": "2026-11-04T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:\u2026",
       "category": "AI Tools",
       "score": 49,
       "reasons": [
@@ -174,11 +159,11 @@
       ]
     },
     {
-      "title": "How \u201creverse game theory\u201d could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
       "source": "MIT Technology Review",
-      "published_at": "2026-11-03T10:43:41+00:00",
-      "excerpt": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires\u2014to make sure, in other words, that rogue agents don\u2019t break the law,\u2026",
+      "published_at": "2026-11-04T13:00:00+00:00",
+      "excerpt": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s\u2026",
       "category": "AI Tools",
       "score": 49,
       "reasons": [
@@ -187,44 +172,31 @@
       ]
     },
     {
-      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
-      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-03T19:00:02+00:00",
-      "excerpt": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society \u2019s Central Indiana Chapter recently launched its Tech Talk Series. The live webinar series connects IEEE members, undergrad and graduate students, and engineering professionals from IEEE Region 4 with industry practitioners. The monthly sessions have covered AI governance and security, agentic systems, and relat",
+      "title": "datasette-apps 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps",
+      "source": "Simon Willison",
+      "published_at": "2026-11-04T00:29:36+00:00",
+      "excerpt": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view. New app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which stored ",
       "category": "AI Tools",
-      "score": 49,
+      "score": 44,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours"
+        "Matches ai tools terms: llm, agent",
+        "Trusted specialist source",
+        "Published this week"
       ]
     },
     {
-      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location",
+      "title": "datasette-agent 0.5a0",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent",
       "source": "Simon Willison",
-      "published_at": "2026-11-03T05:32:25+00:00",
-      "excerpt": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy , youtube",
+      "published_at": "2026-11-03T23:13:45+00:00",
+      "excerpt": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You can try it by signing in with your GitHub account to agent.datasette.io . Tags: projects , datasett",
       "category": "AI Tools",
-      "score": 43,
+      "score": 44,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: agent, github",
         "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "October sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
-      "source": "Simon Willison",
-      "published_at": "2026-11-03T05:28:59+00:00",
-      "excerpt": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newslet",
-      "category": "AI Tools",
-      "score": 43,
-      "reasons": [
-        "Matches ai tools terms: llm",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published this week"
       ]
     },
     {
@@ -241,11 +213,11 @@
       ]
     },
     {
-      "title": "Your terminal manipulation/navigation setups",
-      "url": "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation",
+      "title": "Shlemiel the Painter Is Back: How Zig\u2019s libc Rewrite Made SQLite Slower",
+      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown",
       "source": "Lobsters",
-      "published_at": "2026-11-03T18:54:55+00:00",
-      "excerpt": "Dear Lobste.rs, over a year after my previous post on mouse free setups , your advice was instrumental to building the tech stack I use today as a disabled person, composed of the Svalboard, Talon Voice, and a fair few extensions for Talon (including ones I've written myself.) One aspect of my work and personal life that has remained stubbornly able-bodied has been, surprisingly, my terminal use. Reading, manipulating, and editing the terminal has required keyboard and mouse use at every step: W",
+      "published_at": "2026-11-04T15:23:09+00:00",
+      "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
@@ -255,44 +227,43 @@
       ]
     },
     {
-      "title": "Why did you choose the nix you nix?",
-      "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
-      "source": "Lobsters",
-      "published_at": "2026-11-03T03:58:06+00:00",
-      "excerpt": "I don't which nix is good and at this point I'm afraid I need to ask. (Cpp) Nix Determinate Nix Lix Or, you know, Guix ? (I suspect that Snix , Tvix , and others aren't intended for general use\u2026 but I might be wrong?)",
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-03T19:00:02+00:00",
+      "excerpt": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society \u2019s Central Indiana Chapter recently launched its Tech Talk Series. The live webinar series connects IEEE members, undergrad and graduate students, and engineering professionals from IEEE Region 4 with industry practitioners. The monthly sessions have covered AI governance and security, agentic systems, and relat",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Matches ai tools terms: ai, agent",
+        "Published this week"
       ]
     },
     {
-      "title": "Gist of Go: Concurrency",
-      "url": "https://antonz.org/go-concurrency",
-      "source": "Lobsters",
-      "published_at": "2026-11-03T23:05:03+00:00",
-      "excerpt": "This seems like a well executed mini-course on concurrency in Go. I'd love to hear where it might be out of date or otherwise steering me wrong, as well as pointers to other good resources. Comments",
-      "category": "Discoveries",
-      "score": 39,
-      "reasons": [
-        "Matches discoveries terms: resource",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
       "source": "MIT Technology Review",
-      "published_at": "2026-11-03T04:18:47+00:00",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as \u201cSuper Intelligence.\u201d That\u2026",
+      "published_at": "2026-11-04T18:50:55+00:00",
+      "excerpt": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,\u2026",
       "category": "AI Tools",
       "score": 38,
       "reasons": [
         "Matches ai tools terms: ai",
         "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Arrows to Arrows, Categories to Queries",
+      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows",
+      "source": "Lobsters",
+      "published_at": "2026-11-04T15:49:15+00:00",
+      "excerpt": "Comments",
+      "category": "Indie Business",
+      "score": 33,
+      "reasons": [
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
       ]
     }
   ]
