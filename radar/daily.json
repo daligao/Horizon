@@ -1,80 +1,151 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T06:46:08.563402+00:00",
-  "total_collected": 186,
-  "after_filtering": 57,
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T06:45:43.145972+00:00",
+  "total_collected": 190,
+  "after_filtering": 66,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (13)",
+    "GitHub Trending": "ok (16)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (28)"
+    "Hacker News": "ok (29)"
   },
   "items": [
     {
-      "title": "datasette-llm 0.1a10",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
-      "source": "Simon Willison",
-      "published_at": "2026-11-04T15:26:02+00:00",
-      "excerpt": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-05T23:09:57+00:00",
+      "excerpt": "",
+      "popularity": 255,
+      "category": "Indie Business",
+      "score": 69,
+      "reasons": [
+        "Matches indie business terms: revenue",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 255"
+      ]
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "source": "Hacker News",
+      "published_at": "2026-11-05T22:17:15+00:00",
+      "excerpt": "",
+      "popularity": 872,
       "category": "AI Tools",
-      "score": 65,
+      "score": 68,
+      "reasons": [
+        "Matches ai tools terms: ai, claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 872"
+      ]
+    },
+    {
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-05T14:08:35+00:00",
+      "excerpt": "",
+      "popularity": 283,
+      "category": "AI Tools",
+      "score": 67,
+      "reasons": [
+        "Matches ai tools terms: ai, mcp",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 283"
+      ]
+    },
+    {
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots",
+      "source": "TechCrunch",
+      "published_at": "2026-11-05T21:15:00+00:00",
+      "excerpt": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "category": "Indie Business",
+      "score": 61,
+      "reasons": [
+        "Matches indie business terms: customers, launch",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "source": "TechCrunch",
+      "published_at": "2026-11-05T19:48:28+00:00",
+      "excerpt": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+      "source": "TechCrunch",
+      "published_at": "2026-11-05T18:00:00+00:00",
+      "excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, claude",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use it, how",
+      "category": "AI Tools",
+      "score": 58,
       "reasons": [
         "Matches ai tools terms: ai, llm, agent",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Inside GitHub\u2019s new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-05T20:23:21+00:00",
+      "excerpt": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub\u2019s new Git storage architecture appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: agent, github",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "Hacker News",
-      "published_at": "2026-11-04T15:21:21+00:00",
-      "excerpt": "",
-      "popularity": 227,
+      "title": "Accessibility statements now have a home on GitHub",
+      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-05T16:00:00+00:00",
+      "excerpt": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog .",
       "category": "AI Tools",
-      "score": 64,
+      "score": 52,
       "reasons": [
-        "Matches ai tools terms: ai, openai",
+        "Matches ai tools terms: ai, github",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 227"
-      ]
-    },
-    {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "Hacker News",
-      "published_at": "2026-11-04T11:52:17+00:00",
-      "excerpt": "",
-      "popularity": 1146,
-      "category": "AI Tools",
-      "score": 57,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 1146"
-      ]
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "source": "Hacker News",
-      "published_at": "2026-11-04T18:53:29+00:00",
-      "excerpt": "",
-      "popularity": 274,
-      "category": "AI Tools",
-      "score": 55,
-      "reasons": [
-        "Matches ai tools terms: agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 274"
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -91,11 +162,11 @@
       ]
     },
     {
-      "title": "spotify/portal-ai-plugins",
-      "url": "https://github.com/spotify/portal-ai-plugins",
+      "title": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
       "source": "GitHub Trending",
       "published_at": null,
-      "excerpt": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, Cursor, and pi. This plugin provides focused workflows for the Portal CLI : set up authentication, search your software catalog, build service briefings, run diagnostics, and invoke Portal actions. Highlights Set up the Portal CLI for your current coding-agent environment. Run read-only diagnostics to verify plugin, CLI, authentication, and action readiness. Search the software catalog and technical documentation using natur",
+      "excerpt": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. https://www.skills.sh/scenario-labs/skills Scenario Agent Skills Agent Skills that teach AI coding agents (Claude Code, Cursor, Codex, Copilot, and 70+ others) how to create production-ready content with Scenario through the Scenario M",
       "category": "AI Tools",
       "score": 52,
       "reasons": [
@@ -104,139 +175,84 @@
       ]
     },
     {
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers",
-      "source": "TechCrunch",
-      "published_at": "2026-11-04T21:49:29+00:00",
-      "excerpt": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "title": "Scaling Slack and GitHub with Maude Lemaire",
+      "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-11-05T15:58:00+00:00",
+      "excerpt": "Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands.",
       "category": "AI Tools",
       "score": 50,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
-      "source": "TechCrunch",
-      "published_at": "2026-11-04T19:30:04+00:00",
-      "excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of [\u2026]",
-      "category": "Indie Business",
-      "score": 50,
-      "reasons": [
-        "Matches indie business terms: profit",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Revolut\u2019s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
-      "source": "TechCrunch",
-      "published_at": "2026-11-04T14:10:10+00:00",
-      "excerpt": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
-      "category": "Indie Business",
-      "score": 50,
-      "reasons": [
-        "Matches indie business terms: launch",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-04T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:\u2026",
-      "category": "AI Tools",
-      "score": 49,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
+        "Matches ai tools terms: ai, github",
+        "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-04T13:00:00+00:00",
-      "excerpt": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s\u2026",
-      "category": "AI Tools",
-      "score": 49,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "datasette-apps 0.3a0",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps",
-      "source": "Simon Willison",
-      "published_at": "2026-11-04T00:29:36+00:00",
-      "excerpt": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view. New app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which stored ",
-      "category": "AI Tools",
-      "score": 44,
-      "reasons": [
-        "Matches ai tools terms: llm, agent",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "datasette-agent 0.5a0",
-      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent",
-      "source": "Simon Willison",
-      "published_at": "2026-11-03T23:13:45+00:00",
-      "excerpt": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You can try it by signing in with your GitHub account to agent.datasette.io . Tags: projects , datasett",
-      "category": "AI Tools",
-      "score": 44,
-      "reasons": [
-        "Matches ai tools terms: agent, github",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Turn Claude Code into a full game dev studio \u2014 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. Why This Exists Building a game solo with AI is powerful \u2014 but a single chat session has no structure. No one stops you from hardcoding magic numbers, skipping design docs, or writing spaghetti code. There's ",
-      "category": "AI Tools",
-      "score": 43,
-      "reasons": [
-        "Matches ai tools terms: ai, claude, agent",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "Shlemiel the Painter Is Back: How Zig\u2019s libc Rewrite Made SQLite Slower",
-      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown",
+      "title": "Reflections on Rust in the LLM Age \u2014 Bryan Cantrill | Rust NYC",
+      "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
       "source": "Lobsters",
-      "published_at": "2026-11-04T15:23:09+00:00",
+      "published_at": "2026-11-05T17:32:18+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: llm",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
-      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-03T19:00:02+00:00",
-      "excerpt": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society \u2019s Central Indiana Chapter recently launched its Tech Talk Series. The live webinar series connects IEEE members, undergrad and graduate students, and engineering professionals from IEEE Region 4 with industry practitioners. The monthly sessions have covered AI governance and security, agentic systems, and relat",
+      "title": "The Download: Texas\u2019s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-05T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s\u2026",
       "category": "AI Tools",
-      "score": 39,
+      "score": 38,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published this week"
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-05T10:00:00+00:00",
+      "excerpt": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It\u2019s a plan that could finally\u2026",
+      "category": "Technology",
+      "score": 38,
+      "reasons": [
+        "Matches technology terms: energy",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
+      "url": "https://spectrum.ieee.org/2026-solar-eclipse",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-05T14:00:02+00:00",
+      "excerpt": "The sun hangs low over the plains of Castile and Le\u00f3n, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That\u2019s vexing. A group of researchers, some wearing cardboard eclipse glasses, is clustered around sets of portable telescopes and cameras connected to laptops. All this gear is scattered on tabletops perched on the mountainside. On the computer screens, the sun\u2019s disk looks like a deep",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Why is there an Anubis gate in front of Search for logged-in users?",
+      "url": "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for",
+      "source": "Lobsters",
+      "published_at": "2026-11-05T09:29:01+00:00",
+      "excerpt": "When one goes to Search on lobste.rs there is an Anubis gate first. I understand why it is there for a public rate limiting case, but why is it there for logged-in users? This is an invite only site and if anyone would hammer the server too much they are logged in so they can already be rate limited based on their identity. Am I missing something or is it a configuration problem?",
+      "category": "Indie Business",
+      "score": 33,
+      "reasons": [
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
       ]
     },
     {
@@ -246,24 +262,23 @@
       "published_at": "2026-11-04T18:50:55+00:00",
       "excerpt": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,\u2026",
       "category": "AI Tools",
-      "score": 38,
+      "score": 28,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
+        "Published this week"
       ]
     },
     {
-      "title": "Arrows to Arrows, Categories to Queries",
-      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows",
-      "source": "Lobsters",
-      "published_at": "2026-11-04T15:49:15+00:00",
-      "excerpt": "Comments",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford",
+      "source": "Simon Willison",
+      "published_at": "2026-11-05T17:34:03+00:00",
+      "excerpt": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . \u2014 Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
       "category": "Indie Business",
-      "score": 33,
+      "score": 22,
       "reasons": [
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Published in the last 30 hours"
       ]
     }
   ]
