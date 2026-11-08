@@ -1,35 +1,49 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T05:58:16.699767+00:00",
-  "total_collected": 189,
-  "after_filtering": 54,
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T06:00:17.735552+00:00",
+  "total_collected": 193,
+  "after_filtering": 51,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (15)",
+    "GitHub Trending": "ok (18)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (29)"
+    "Hacker News": "ok (30)"
   },
   "items": [
     {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "Hacker News",
-      "published_at": "2026-11-06T04:00:28+00:00",
+      "published_at": "2026-11-07T20:45:32+00:00",
       "excerpt": "",
-      "popularity": 309,
+      "popularity": 298,
       "category": "AI Tools",
-      "score": 72,
+      "score": 78,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: ai, claude, github",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 309"
+        "Hacker News score: 298"
+      ]
+    },
+    {
+      "title": "How are you dealing with all the negative side effects of AI on the web?",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "source": "Lobsters",
+      "published_at": "2026-11-07T09:47:24+00:00",
+      "excerpt": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it. Search engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now ei",
+      "category": "AI Tools",
+      "score": 65,
+      "reasons": [
+        "Matches ai tools terms: ai, llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
       ]
     },
     {
@@ -47,33 +61,48 @@
       ]
     },
     {
-      "title": "Quoting Nilay Patel",
-      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel",
-      "source": "Simon Willison",
-      "published_at": "2026-11-06T17:13:12+00:00",
-      "excerpt": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they're making on these products. Refrigerators holding blood storage in Europ",
-      "category": "AI Tools",
-      "score": 54,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
       "source": "Hacker News",
-      "published_at": "2026-11-06T20:27:23+00:00",
+      "published_at": "2026-11-07T18:02:17+00:00",
       "excerpt": "",
-      "popularity": 253,
+      "popularity": 430,
       "category": "AI Tools",
-      "score": 54,
+      "score": 57,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 253"
+        "Hacker News score: 430"
+      ]
+    },
+    {
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T23:09:40+00:00",
+      "excerpt": "",
+      "popularity": 107,
+      "category": "AI Tools",
+      "score": 47,
+      "reasons": [
+        "Matches ai tools terms: github",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 107"
+      ]
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in Build your own vulnerability harness .",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, cloudflare",
+        "Trusted specialist source"
       ]
     },
     {
@@ -83,37 +112,11 @@
       "published_at": "2026-11-06T22:15:59+00:00",
       "excerpt": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer\u2019s guide to agentic engineering appeared first on The GitHub Blog .",
       "category": "AI Tools",
-      "score": 52,
+      "score": 42,
       "reasons": [
         "Matches ai tools terms: agent, github",
         "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "scenario-labs/skills",
-      "url": "https://github.com/scenario-labs/skills",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. https://www.skills.sh/scenario-labs/skills Scenario Agent Skills Agent Skills that teach AI coding agents (Claude Code, Cursor, Codex, Copilot, and 70+ others) how to create production-ready content with Scenario through the Scenario M",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, codex, claude",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. https://github.com/ConardLi/garden-skills Garden Skills A curated collection of production-ready Agent Skills for Claude Code, Cursor, Codex, and other AI coding agents. motion-showreel Code-rendered short video web-video-presentation Web video / presentation web-design-engineer Design / frontend gpt-image-2 Image generation / prompting beautiful-article Any source \u2192 beautiful article",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, codex, claude",
-        "Trusted specialist source"
+        "Published this week"
       ]
     },
     {
@@ -123,41 +126,39 @@
       "published_at": "2026-11-06T21:38:05+00:00",
       "excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
       "category": "AI Tools",
-      "score": 50,
+      "score": 40,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
+        "Published this week",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
-      "source": "TechCrunch",
-      "published_at": "2026-11-06T14:10:00+00:00",
-      "excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "category": "AI Tools",
-      "score": 50,
+      "title": "Meridian \u2014 an experimental web browser built on Servo and GPUI",
+      "url": "https://op.tngl.io/meridian",
+      "source": "Lobsters",
+      "published_at": "2026-11-07T09:21:55+00:00",
+      "excerpt": "Comments",
+      "category": "Technology",
+      "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "source": "Hacker News",
-      "published_at": "2026-11-06T19:19:27+00:00",
-      "excerpt": "",
-      "popularity": 109,
-      "category": "AI Tools",
-      "score": 47,
-      "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches technology terms: gpu",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 109"
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Dear Open Source Developers: It's OK not to embargo",
+      "url": "https://opensourcesecurity.io/2026/10-embargo",
+      "source": "Lobsters",
+      "published_at": "2026-11-07T23:31:05+00:00",
+      "excerpt": "Comments",
+      "category": "Discoveries",
+      "score": 39,
+      "reasons": [
+        "Matches discoveries terms: open source",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -167,77 +168,49 @@
       "published_at": "2026-11-06T22:53:46+00:00",
       "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "category": "AI Tools",
-      "score": 46,
+      "score": 36,
       "reasons": [
         "Matches ai tools terms: ai, openai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Inside GitHub\u2019s new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-05T20:23:21+00:00",
-      "excerpt": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub\u2019s new Git storage architecture appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 42,
-      "reasons": [
-        "Matches ai tools terms: agent, github",
-        "Trusted specialist source",
         "Published this week"
       ]
     },
     {
-      "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
-      "url": "https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026",
-      "source": "Lobsters",
-      "published_at": "2026-11-07T03:43:48+00:00",
-      "excerpt": "Comments",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "source": "TechCrunch",
+      "published_at": "2026-11-06T18:44:20+00:00",
+      "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
       "category": "AI Tools",
-      "score": 39,
+      "score": 36,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: ai, agent",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Agent Skills for Google products and technologies Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud . Installation npx skills add google/skills When prompted, select specific skills or all skills, the target agents to configure, and the installation scope (project or global). If npx is not available in your environment, install Node.js , which includes npm and npx . Updating Skills To update previously installed skills to the latest v",
+      "category": "AI Tools",
+      "score": 32,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
+      "source": "Simon Willison",
+      "published_at": "2026-11-07T23:57:46+00:00",
+      "excerpt": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: ; rel=\"next\" This is bad. A tiny fraction of the visitors to one of those pages will click the \"next\" link, which means their browser is fetching unnecess",
+      "category": "Indie Business",
+      "score": 22,
+      "reasons": [
         "Trusted specialist source",
         "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-06T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. \u2014Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-06T10:00:00+00:00",
-      "excerpt": "I\u2019m not the sort of person who typically pays for a house cleaner. I\u2019m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed\u2026",
-      "category": "Technology",
-      "score": 38,
-      "reasons": [
-        "Matches technology terms: robot",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
-      "url": "https://spectrum.ieee.org/ieee-preuniversity",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-05T19:00:02+00:00",
-      "excerpt": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons. This year\u2019s sessions, held across the United States, have focused on educating teachers about artificial intelligence and semiconductor technology. One session was held in Egypt. In all, 54 educators learned about the engineering design process this year. They received an overview of Tr",
-      "category": "Technology",
-      "score": 28,
-      "reasons": [
-        "Matches technology terms: semiconductor",
-        "Published this week"
       ]
     }
   ]
