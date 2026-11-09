@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T06:00:17.735552+00:00",
-  "total_collected": 193,
-  "after_filtering": 51,
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T06:28:34.746134+00:00",
+  "total_collected": 188,
+  "after_filtering": 45,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (18)",
+    "GitHub Trending": "ok (15)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (30)"
+    "Hacker News": "ok (28)"
   },
   "items": [
     {
@@ -21,22 +21,52 @@
       "source": "Hacker News",
       "published_at": "2026-11-07T20:45:32+00:00",
       "excerpt": "",
-      "popularity": 298,
+      "popularity": 599,
       "category": "AI Tools",
-      "score": 78,
+      "score": 69,
       "reasons": [
         "Matches ai tools terms: ai, claude, github",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 298"
+        "Published this week",
+        "Hacker News score: 599"
       ]
     },
     {
-      "title": "How are you dealing with all the negative side effects of AI on the web?",
-      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T10:22:04+00:00",
+      "excerpt": "",
+      "popularity": 403,
+      "category": "Technology",
+      "score": 68,
+      "reasons": [
+        "Matches technology terms: chip, gpu",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 403"
+      ]
+    },
+    {
+      "title": "Hide your slop PR descriptions behind",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary",
+      "source": "Simon Willison",
+      "published_at": "2026-11-09T04:25:05+00:00",
+      "excerpt": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes ",
+      "category": "AI Tools",
+      "score": 65,
+      "reasons": [
+        "Matches ai tools terms: codex, claude, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+      "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
       "source": "Lobsters",
-      "published_at": "2026-11-07T09:47:24+00:00",
-      "excerpt": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it. Search engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now ei",
+      "published_at": "2026-11-08T16:36:17+00:00",
+      "excerpt": "Like many of us who value the human side of the web, I am looking for ways to keep slop at bay. It seems like LLM detection technology works reasonably well nowadays, with Pangram as the main provider. It is expensive, though! Assuming pangram scans are trustworthy, and it seems they are, we could create a centralized index of pangram scans of articles. I have already set up a prototype where I publish results of my own pangram scans. I could create more users, each tied to its own API key, so o",
       "category": "AI Tools",
       "score": 65,
       "reasons": [
@@ -47,49 +77,89 @@
       ]
     },
     {
-      "title": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use it, how",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+      "source": "Simon Willison",
+      "published_at": "2026-11-08T22:26:00+00:00",
+      "excerpt": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted : I'm thinking about a SQLite custom function 'parse_number(value)' that strips ',', '$', '\u00a3' and '%', handles a leading '-', and returns '",
       "category": "AI Tools",
       "score": 58,
       "reasons": [
-        "Matches ai tools terms: ai, llm, agent",
+        "Matches ai tools terms: claude",
         "Trusted specialist source",
+        "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app",
       "source": "Hacker News",
-      "published_at": "2026-11-07T18:02:17+00:00",
+      "published_at": "2026-11-08T22:35:35+00:00",
       "excerpt": "",
-      "popularity": 430,
-      "category": "AI Tools",
+      "popularity": 363,
+      "category": "Technology",
       "score": 57,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches technology terms: gpu",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 430"
+        "Hacker News score: 363"
       ]
     },
     {
-      "title": "GitHub New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T23:09:40+00:00",
-      "excerpt": "",
-      "popularity": 107,
+      "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "source": "Lobsters",
+      "published_at": "2026-11-08T17:07:51+00:00",
+      "excerpt": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype. What I'd like to do: Coding: autocomplete and agentic workflows with local models Image generation Anything else genuinely useful: transcription, RAG over my notes, etc. Questions: Which models and quantizations fit comfortably in 48GB and are actually usable, not just \"it runs\"? Which run",
       "category": "AI Tools",
-      "score": 47,
+      "score": 50,
       "reasons": [
-        "Matches ai tools terms: github",
+        "Matches ai tools terms: ai, agent",
         "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund",
+      "source": "TechCrunch",
+      "published_at": "2026-11-08T17:30:00+00:00",
+      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: agent",
         "Published in the last 30 hours",
-        "Hacker News score: 107"
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091",
+      "source": "Simon Willison",
+      "published_at": "2026-11-09T04:32:33+00:00",
+      "excerpt": "My comment on The Web Is More Than Enough, by Paul Ford \u2014 Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it had built it, and got this: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (98KB) T",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between command",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, automation",
+        "Trusted specialist source"
       ]
     },
     {
@@ -106,110 +176,55 @@
       ]
     },
     {
-      "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-06T22:15:59+00:00",
-      "excerpt": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer\u2019s guide to agentic engineering appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 42,
-      "reasons": [
-        "Matches ai tools terms: agent, github",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "The Duo apps are coming, says Apple",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple",
-      "source": "TechCrunch",
-      "published_at": "2026-11-06T21:38:05+00:00",
-      "excerpt": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-      "category": "AI Tools",
-      "score": 40,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published this week",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Meridian \u2014 an experimental web browser built on Servo and GPUI",
-      "url": "https://op.tngl.io/meridian",
-      "source": "Lobsters",
-      "published_at": "2026-11-07T09:21:55+00:00",
-      "excerpt": "Comments",
-      "category": "Technology",
-      "score": 39,
-      "reasons": [
-        "Matches technology terms: gpu",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Dear Open Source Developers: It's OK not to embargo",
-      "url": "https://opensourcesecurity.io/2026/10-embargo",
-      "source": "Lobsters",
-      "published_at": "2026-11-07T23:31:05+00:00",
-      "excerpt": "Comments",
-      "category": "Discoveries",
-      "score": 39,
-      "reasons": [
-        "Matches discoveries terms: open source",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
-      "source": "TechCrunch",
-      "published_at": "2026-11-06T22:53:46+00:00",
-      "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "category": "AI Tools",
-      "score": 36,
-      "reasons": [
-        "Matches ai tools terms: ai, openai",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
-      "source": "TechCrunch",
-      "published_at": "2026-11-06T18:44:20+00:00",
-      "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "category": "AI Tools",
-      "score": 36,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
       "source": "GitHub Trending",
       "published_at": null,
-      "excerpt": "Agent Skills for Google products and technologies Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud . Installation npx skills add google/skills When prompted, select specific skills or all skills, the target agents to configure, and the installation scope (project or global). If npx is not available in your environment, install Node.js , which includes npm and npx . Updating Skills To update previously installed skills to the latest v",
+      "excerpt": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your orga",
       "category": "AI Tools",
-      "score": 32,
+      "score": 43,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
+        "Matches ai tools terms: ai, claude, agent",
         "Trusted specialist source"
       ]
     },
     {
-      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
-      "source": "Simon Willison",
-      "published_at": "2026-11-07T23:57:46+00:00",
-      "excerpt": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: ; rel=\"next\" This is bad. A tiny fraction of the visitors to one of those pages will click the \"next\" link, which means their browser is fetching unnecess",
-      "category": "Indie Business",
-      "score": 22,
+      "title": "A bit about email",
+      "url": "https://maurycyz.com/misc/email",
+      "source": "Lobsters",
+      "published_at": "2026-11-08T12:53:34+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
       "reasons": [
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+      "source": "TechCrunch",
+      "published_at": "2026-11-08T21:00:11+00:00",
+      "excerpt": "In a memo to the company, Huang admitted that he had an affair.",
+      "category": "AI Tools",
+      "score": 35,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Coordinated disturbances haunt grids worldwide. Here\u2019s how researchers solved the mystery.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery",
+      "source": "TechCrunch",
+      "published_at": "2026-11-08T20:30:00+00:00",
+      "excerpt": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "category": "Technology",
+      "score": 35,
+      "reasons": [
+        "Matches technology terms: power grid",
         "Published in the last 30 hours"
       ]
     }
