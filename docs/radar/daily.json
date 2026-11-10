@@ -1,52 +1,20 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T06:28:34.746134+00:00",
-  "total_collected": 188,
-  "after_filtering": 45,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T07:18:03.925849+00:00",
+  "total_collected": 186,
+  "after_filtering": 65,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (15)",
+    "GitHub Trending": "ok (11)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (28)"
+    "Hacker News": "ok (30)"
   },
   "items": [
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Hacker News",
-      "published_at": "2026-11-07T20:45:32+00:00",
-      "excerpt": "",
-      "popularity": 599,
-      "category": "AI Tools",
-      "score": 69,
-      "reasons": [
-        "Matches ai tools terms: ai, claude, github",
-        "Trusted specialist source",
-        "Published this week",
-        "Hacker News score: 599"
-      ]
-    },
-    {
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T10:22:04+00:00",
-      "excerpt": "",
-      "popularity": 403,
-      "category": "Technology",
-      "score": 68,
-      "reasons": [
-        "Matches technology terms: chip, gpu",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 403"
-      ]
-    },
     {
       "title": "Hide your slop PR descriptions behind",
       "url": "https://simonwillison.net/2026/Nov/9/details-summary",
@@ -62,117 +30,146 @@
       ]
     },
     {
-      "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
-      "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-      "source": "Lobsters",
-      "published_at": "2026-11-08T16:36:17+00:00",
-      "excerpt": "Like many of us who value the human side of the web, I am looking for ways to keep slop at bay. It seems like LLM detection technology works reasonably well nowadays, with Pangram as the main provider. It is expensive, though! Assuming pangram scans are trustworthy, and it seems they are, we could create a centralized index of pangram scans of articles. I have already set up a prototype where I publish results of my own pangram scans. I could create more users, each tied to its own API key, so o",
-      "category": "AI Tools",
-      "score": 65,
-      "reasons": [
-        "Matches ai tools terms: ai, llm",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "parse_number() as a SQLite extension: C vs Rust",
-      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
-      "source": "Simon Willison",
-      "published_at": "2026-11-08T22:26:00+00:00",
-      "excerpt": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted : I'm thinking about a SQLite custom function 'parse_number(value)' that strips ',', '$', '\u00a3' and '%', handles a leading '-', and returns '",
-      "category": "AI Tools",
-      "score": 58,
-      "reasons": [
-        "Matches ai tools terms: claude",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "source": "Hacker News",
-      "published_at": "2026-11-08T22:35:35+00:00",
+      "published_at": "2026-11-10T03:20:06+00:00",
       "excerpt": "",
-      "popularity": 363,
-      "category": "Technology",
+      "popularity": 110,
+      "category": "AI Tools",
+      "score": 62,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 110"
+      ]
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T16:00:45+00:00",
+      "excerpt": "",
+      "popularity": 515,
+      "category": "Indie Business",
       "score": 57,
       "reasons": [
-        "Matches technology terms: gpu",
+        "Matches indie business terms: launch",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 363"
+        "Hacker News score: 515"
       ]
     },
     {
-      "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-      "source": "Lobsters",
-      "published_at": "2026-11-08T17:07:51+00:00",
-      "excerpt": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype. What I'd like to do: Coding: autocomplete and agentic workflows with local models Image generation Anything else genuinely useful: transcription, RAG over my notes, etc. Questions: Which models and quantizations fit comfortably in 48GB and are actually usable, not just \"it runs\"? Which run",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T18:01:10+00:00",
+      "excerpt": "",
+      "popularity": 469,
       "category": "AI Tools",
-      "score": 50,
+      "score": 57,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 469"
+      ]
+    },
+    {
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
+      "source": "Simon Willison",
+      "published_at": "2026-11-10T05:34:14+00:00",
+      "excerpt": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic\u2019s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else\u2019s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want the model to improve the structure as it works, say that the code is its own: This codebase is yours: what it's for and how it's built are your call, and you'll k",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, claude",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
-      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund",
+      "title": "llm-anthropic 0.31",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
+      "source": "Simon Willison",
+      "published_at": "2026-11-09T23:58:46+00:00",
+      "excerpt": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! I've added the new models to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: llm, claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. https://homeassistant-ai.github.io/ha-mcp/ Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta . HA-MCP \u2014 Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. \ud83d\ude80 Get Started The recommended way to run ha-mcp is the HA-MCP integration . It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), ru",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, mcp",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "California\u2019s proposed \u2018billionaire tax\u2019 fails to pass",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass",
       "source": "TechCrunch",
-      "published_at": "2026-11-08T17:30:00+00:00",
-      "excerpt": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "published_at": "2026-11-10T05:18:43+00:00",
+      "excerpt": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
       "category": "AI Tools",
       "score": 50,
       "reasons": [
-        "Matches ai tools terms: agent",
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091",
-      "source": "Simon Willison",
-      "published_at": "2026-11-09T04:32:33+00:00",
-      "excerpt": "My comment on The Web Is More Than Enough, by Paul Ford \u2014 Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it had built it, and got this: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (98KB) T",
+      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+      "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-09T16:25:06+00:00",
+      "excerpt": "This article is brought to you by Queen\u2019s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yield with a slight overview of decision making. One of the important components for these agents is to ensure that the logs are managed and historic relevance is not being used to avoid skewing towards same decision making.",
       "category": "AI Tools",
-      "score": 43,
+      "score": 49,
       "reasons": [
-        "Matches ai tools terms: claude",
-        "Trusted specialist source",
+        "Matches ai tools terms: ai, agent",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between command",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+      "source": "TechCrunch",
+      "published_at": "2026-11-09T18:00:00+00:00",
+      "excerpt": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
       "category": "AI Tools",
-      "score": 43,
+      "score": 46,
       "reasons": [
-        "Matches ai tools terms: ai, agent, automation",
-        "Trusted specialist source"
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in Build your own vulnerability harness .",
-      "category": "AI Tools",
-      "score": 43,
+      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis",
+      "source": "TechCrunch",
+      "published_at": "2026-11-09T17:00:00+00:00",
+      "excerpt": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+      "category": "Indie Business",
+      "score": 46,
       "reasons": [
-        "Matches ai tools terms: ai, agent, cloudflare",
-        "Trusted specialist source"
+        "Matches indie business terms: launch, acquisition",
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -189,10 +186,37 @@
       ]
     },
     {
-      "title": "A bit about email",
-      "url": "https://maurycyz.com/misc/email",
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between command",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, automation",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "How Much Energy Does Building Distro Packages Use",
+      "url": "https://www.wezm.net/v2/posts/2026/distro-energy-use",
       "source": "Lobsters",
-      "published_at": "2026-11-08T12:53:34+00:00",
+      "published_at": "2026-11-09T06:44:59+00:00",
+      "excerpt": "Comments",
+      "category": "Technology",
+      "score": 39,
+      "reasons": [
+        "Matches technology terms: energy",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Microsoft are rejecting your mail",
+      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail",
+      "source": "Lobsters",
+      "published_at": "2026-11-09T18:36:47+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -203,28 +227,55 @@
       ]
     },
     {
-      "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
-      "source": "TechCrunch",
-      "published_at": "2026-11-08T21:00:11+00:00",
-      "excerpt": "In a memo to the company, Huang admitted that he had an affair.",
+      "title": "The race to secure record-like information for domains",
+      "url": "https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains",
+      "source": "Lobsters",
+      "published_at": "2026-11-09T23:25:03+00:00",
+      "excerpt": "Comments",
       "category": "AI Tools",
-      "score": 35,
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-09T19:35:33+00:00",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub. It\u2019s also where\u2026",
+      "category": "AI Tools",
+      "score": 38,
       "reasons": [
         "Matches ai tools terms: ai",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Coordinated disturbances haunt grids worldwide. Here\u2019s how researchers solved the mystery.",
-      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery",
-      "source": "TechCrunch",
-      "published_at": "2026-11-08T20:30:00+00:00",
-      "excerpt": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
-      "category": "Technology",
-      "score": 35,
+      "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-09T17:05:43+00:00",
+      "excerpt": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a\u2026",
+      "category": "AI Tools",
+      "score": 38,
       "reasons": [
-        "Matches technology terms: power grid",
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-09T13:15:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: The climate case for AI has not been made \u2014By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours"
       ]
     }

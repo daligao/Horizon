@@ -1,69 +1,87 @@
-# Horizon Daily Radar — 2026-11-09
+# Horizon Daily Radar — 2026-11-10
 
-Collected: 188 · After filtering: 45 · Selected: 15
+Collected: 186 · After filtering: 65 · Selected: 19
 
 Rules-only ranking; no AI summary or external AI service was used.
 
-## AI Tools
+## Indie Business
 
-### [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) — 69/100
-Source: Hacker News · Published: 2026-11-07T20:45:32+00:00
-Reason: Matches ai tools terms: ai, claude, github; Trusted specialist source; Published this week; Hacker News score: 599
+### [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) — 57/100
+Source: Hacker News · Published: 2026-11-09T16:00:45+00:00
+Reason: Matches indie business terms: launch; Trusted specialist source; Published in the last 30 hours; Hacker News score: 515
+
+### [Uber launches parking service following SpotHero acquisition, with an eye on robotaxis](https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis) — 46/100
+Source: TechCrunch · Published: 2026-11-09T17:00:00+00:00
+Reason: Matches indie business terms: launch, acquisition; Published in the last 30 hours
+
+## AI Tools
 
 ### [Hide your slop PR descriptions behind](https://simonwillison.net/2026/Nov/9/details-summary) — 65/100
 Source: Simon Willison · Published: 2026-11-09T04:25:05+00:00
 Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source; Published in the last 30 hours
 
-### [Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?](https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles) — 65/100
-Source: Lobsters · Published: 2026-11-08T16:36:17+00:00
-Reason: Matches ai tools terms: ai, llm; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
+### [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) — 62/100
+Source: Hacker News · Published: 2026-11-10T03:20:06+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 110
 
-### [parse_number() as a SQLite extension: C vs Rust](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust) — 58/100
-Source: Simon Willison · Published: 2026-11-08T22:26:00+00:00
-Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) — 57/100
+Source: Hacker News · Published: 2026-11-09T18:01:10+00:00
+Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours; Hacker News score: 469
 
-### [What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai) — 50/100
-Source: Lobsters · Published: 2026-11-08T17:07:51+00:00
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours
+### [Quoting Prompting Claude Fable 5.2](https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52) — 54/100
+Source: Simon Willison · Published: 2026-11-10T05:34:14+00:00
+Reason: Matches ai tools terms: ai, claude; Trusted specialist source; Published in the last 30 hours
 
-### [He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.](https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund) — 50/100
-Source: TechCrunch · Published: 2026-11-08T17:30:00+00:00
-Reason: Matches ai tools terms: agent; Published in the last 30 hours; Includes concrete operating or outcome data
+### [llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic) — 54/100
+Source: Simon Willison · Published: 2026-11-09T23:58:46+00:00
+Reason: Matches ai tools terms: llm, claude; Trusted specialist source; Published in the last 30 hours
 
-### [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091) — 43/100
-Source: Simon Willison · Published: 2026-11-09T04:32:33+00:00
-Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours
-
-### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — 43/100
+### [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — 52/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, agent, automation; Trusted specialist source
+Reason: Matches ai tools terms: ai, claude, mcp; Trusted specialist source
 
-### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 43/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, agent, cloudflare; Trusted specialist source
+### [California’s proposed ‘billionaire tax’ fails to pass](https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass) — 50/100
+Source: TechCrunch · Published: 2026-11-10T05:18:43+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [AI Agents Are Testing the Limits of Zero-Trust Security](https://spectrum.ieee.org/zero-trust-agentic-ai-architecture) — 49/100
+Source: IEEE Spectrum · Published: 2026-11-09T16:25:06+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
+
+### [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution) — 46/100
+Source: TechCrunch · Published: 2026-11-09T18:00:00+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
 
 ### [anthropics/skills](https://github.com/anthropics/skills) — 43/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, claude, agent; Trusted specialist source
 
-### [A bit about email](https://maurycyz.com/misc/email) — 39/100
-Source: Lobsters · Published: 2026-11-08T12:53:34+00:00
+### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — 43/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, agent, automation; Trusted specialist source
+
+### [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail) — 39/100
+Source: Lobsters · Published: 2026-11-09T18:36:47+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy) — 35/100
-Source: TechCrunch · Published: 2026-11-08T21:00:11+00:00
+### [The race to secure record-like information for domains](https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains) — 39/100
+Source: Lobsters · Published: 2026-11-09T23:25:03+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity) — 38/100
+Source: MIT Technology Review · Published: 2026-11-09T19:35:33+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
+
+### [Nancy Pelosi’s replacement is ready to regulate AI](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai) — 38/100
+Source: MIT Technology Review · Published: 2026-11-09T17:05:43+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
+
+### [The Download: empty AI climate claims, and an Nvidia investigation](https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation) — 38/100
+Source: MIT Technology Review · Published: 2026-11-09T13:15:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
 ## Technology
 
-### [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) — 68/100
-Source: Hacker News · Published: 2026-11-08T10:22:04+00:00
-Reason: Matches technology terms: chip, gpu; Trusted specialist source; Published in the last 30 hours; Hacker News score: 403
-
-### [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app) — 57/100
-Source: Hacker News · Published: 2026-11-08T22:35:35+00:00
-Reason: Matches technology terms: gpu; Trusted specialist source; Published in the last 30 hours; Hacker News score: 363
-
-### [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery) — 35/100
-Source: TechCrunch · Published: 2026-11-08T20:30:00+00:00
-Reason: Matches technology terms: power grid; Published in the last 30 hours
+### [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use) — 39/100
+Source: Lobsters · Published: 2026-11-09T06:44:59+00:00
+Reason: Matches technology terms: energy; Trusted specialist source; Published in the last 30 hours
