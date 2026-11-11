@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T07:18:03.925849+00:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T06:20:41.708278+00:00",
   "total_collected": 186,
-  "after_filtering": 65,
+  "after_filtering": 66,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
@@ -16,66 +16,109 @@
   },
   "items": [
     {
-      "title": "Hide your slop PR descriptions behind",
-      "url": "https://simonwillison.net/2026/Nov/9/details-summary",
+      "title": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
       "source": "Simon Willison",
-      "published_at": "2026-11-09T04:25:05+00:00",
-      "excerpt": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes ",
+      "published_at": "2026-11-10T20:09:44+00:00",
+      "excerpt": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high:",
       "category": "AI Tools",
       "score": 65,
       "reasons": [
-        "Matches ai tools terms: codex, claude, agent",
+        "Matches ai tools terms: ai, llm, claude",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "Hacker News",
-      "published_at": "2026-11-10T03:20:06+00:00",
-      "excerpt": "",
-      "popularity": 110,
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember",
+      "source": "Simon Willison",
+      "published_at": "2026-11-10T07:28:21+00:00",
+      "excerpt": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million ou",
       "category": "AI Tools",
-      "score": 62,
+      "score": 65,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+      "source": "TechCrunch",
+      "published_at": "2026-11-10T15:29:30+00:00",
+      "excerpt": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T05:25:54+00:00",
+      "excerpt": "",
+      "popularity": 22,
+      "category": "Technology",
+      "score": 58,
+      "reasons": [
+        "Matches technology terms: space",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 22"
+      ]
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T18:01:15+00:00",
+      "excerpt": "",
+      "popularity": 327,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 327"
+      ]
+    },
+    {
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T10:25:58+00:00",
+      "excerpt": "",
+      "popularity": 467,
+      "category": "AI Tools",
+      "score": 57,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 110"
+        "Hacker News score: 467"
       ]
     },
     {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T16:00:45+00:00",
-      "excerpt": "",
-      "popularity": 515,
-      "category": "Indie Business",
-      "score": 57,
-      "reasons": [
-        "Matches indie business terms: launch",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 515"
-      ]
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T18:01:10+00:00",
-      "excerpt": "",
-      "popularity": 469,
+      "title": "Git security vulnerabilities announced",
+      "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-10T18:00:00+00:00",
+      "excerpt": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
       "category": "AI Tools",
-      "score": 57,
+      "score": 56,
       "reasons": [
-        "Matches ai tools terms: claude",
+        "Matches ai tools terms: github",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 469"
+        "Includes concrete operating or outcome data"
       ]
     },
     {
@@ -88,20 +131,6 @@
       "score": 54,
       "reasons": [
         "Matches ai tools terms: ai, claude",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "llm-anthropic 0.31",
-      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
-      "source": "Simon Willison",
-      "published_at": "2026-11-09T23:58:46+00:00",
-      "excerpt": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! I've added the new models to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate",
-      "category": "AI Tools",
-      "score": 54,
-      "reasons": [
-        "Matches ai tools terms: llm, claude",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
@@ -120,56 +149,31 @@
       ]
     },
     {
-      "title": "California\u2019s proposed \u2018billionaire tax\u2019 fails to pass",
-      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass",
+      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs",
       "source": "TechCrunch",
-      "published_at": "2026-11-10T05:18:43+00:00",
-      "excerpt": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+      "published_at": "2026-11-10T15:45:27+00:00",
+      "excerpt": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: customers",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews",
+      "source": "TechCrunch",
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "excerpt": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
       "category": "AI Tools",
       "score": 50,
       "reasons": [
         "Matches ai tools terms: ai",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-      "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-09T16:25:06+00:00",
-      "excerpt": "This article is brought to you by Queen\u2019s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yield with a slight overview of decision making. One of the important components for these agents is to ensure that the logs are managed and historic relevance is not being used to avoid skewing towards same decision making.",
-      "category": "AI Tools",
-      "score": 49,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
-      "source": "TechCrunch",
-      "published_at": "2026-11-09T18:00:00+00:00",
-      "excerpt": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "category": "AI Tools",
-      "score": 46,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis",
-      "source": "TechCrunch",
-      "published_at": "2026-11-09T17:00:00+00:00",
-      "excerpt": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-      "category": "Indie Business",
-      "score": 46,
-      "reasons": [
-        "Matches indie business terms: launch, acquisition",
-        "Published in the last 30 hours"
       ]
     },
     {
@@ -199,24 +203,24 @@
       ]
     },
     {
-      "title": "How Much Energy Does Building Distro Packages Use",
-      "url": "https://www.wezm.net/v2/posts/2026/distro-energy-use",
-      "source": "Lobsters",
-      "published_at": "2026-11-09T06:44:59+00:00",
-      "excerpt": "Comments",
-      "category": "Technology",
+      "title": "Software correctness & supply chain security, with Sean Allen",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-11-10T15:00:21+00:00",
+      "excerpt": "A deep conversation on the biggest challenges of developing with AI \u2013 while trying not to mention the phrase \u201cAI\u201d once. Why? To dig up the fundamentals that are as important as ever",
+      "category": "AI Tools",
       "score": 39,
       "reasons": [
-        "Matches technology terms: energy",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Microsoft are rejecting your mail",
-      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f",
       "source": "Lobsters",
-      "published_at": "2026-11-09T18:36:47+00:00",
+      "published_at": "2026-11-10T16:57:25+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -227,16 +231,56 @@
       ]
     },
     {
-      "title": "The race to secure record-like information for domains",
-      "url": "https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains",
+      "title": "Weird licenses and the new open source",
+      "url": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
       "source": "Lobsters",
-      "published_at": "2026-11-09T23:25:03+00:00",
+      "published_at": "2026-11-10T16:49:51+00:00",
       "excerpt": "Comments",
+      "category": "Discoveries",
+      "score": 39,
+      "reasons": [
+        "Matches discoveries terms: open source",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Searching for pedagogical materials on memory models",
+      "url": "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on",
+      "source": "Lobsters",
+      "published_at": "2026-11-10T19:51:19+00:00",
+      "excerpt": "Hi folks, I'm working on some supplementary materials for a course I'm TAing, my university's version of operating systems, that involves students developing an OS targeting a Raspberry Pi 3B+. One of the topics I'm trying to get at is strong and weak memory models (and why ARM has so many weird data/instruction buffer synchronization things students have to do when writing an MMU), so if you have any excellent example articles/passages/blogs on memory models that have helped you, please comment",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-10T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
+      "url": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-10T11:00:02+00:00",
+      "excerpt": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics product development. What you will learn about: Why shock failures found during physical qualification are costly, and how coupled electrical, mechanical, thermal, and packaging effects make them hard to predict. How physical drop testing and traditional simulation each leave gaps in ti",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours"
       ]
     },
@@ -247,36 +291,10 @@
       "published_at": "2026-11-09T19:35:33+00:00",
       "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub. It\u2019s also where\u2026",
       "category": "AI Tools",
-      "score": 38,
+      "score": 28,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-09T17:05:43+00:00",
-      "excerpt": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-09T13:15:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: The climate case for AI has not been made \u2014By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
+        "Published this week"
       ]
     }
   ]

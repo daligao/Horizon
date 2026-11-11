@@ -1,56 +1,52 @@
-# Horizon Daily Radar — 2026-11-10
+# Horizon Daily Radar — 2026-11-11
 
-Collected: 186 · After filtering: 65 · Selected: 19
+Collected: 186 · After filtering: 66 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) — 57/100
-Source: Hacker News · Published: 2026-11-09T16:00:45+00:00
-Reason: Matches indie business terms: launch; Trusted specialist source; Published in the last 30 hours; Hacker News score: 515
-
-### [Uber launches parking service following SpotHero acquisition, with an eye on robotaxis](https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis) — 46/100
-Source: TechCrunch · Published: 2026-11-09T17:00:00+00:00
-Reason: Matches indie business terms: launch, acquisition; Published in the last 30 hours
+### [N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs](https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs) — 50/100
+Source: TechCrunch · Published: 2026-11-10T15:45:27+00:00
+Reason: Matches indie business terms: customers; Published in the last 30 hours; Includes concrete operating or outcome data
 
 ## AI Tools
 
-### [Hide your slop PR descriptions behind](https://simonwillison.net/2026/Nov/9/details-summary) — 65/100
-Source: Simon Willison · Published: 2026-11-09T04:25:05+00:00
-Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source; Published in the last 30 hours
+### [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini) — 65/100
+Source: Simon Willison · Published: 2026-11-10T20:09:44+00:00
+Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source; Published in the last 30 hours
 
-### [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) — 62/100
-Source: Hacker News · Published: 2026-11-10T03:20:06+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 110
+### [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember) — 65/100
+Source: Simon Willison · Published: 2026-11-10T07:28:21+00:00
+Reason: Matches ai tools terms: ai, claude, agent; Trusted specialist source; Published in the last 30 hours
 
-### [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) — 57/100
-Source: Hacker News · Published: 2026-11-09T18:01:10+00:00
-Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours; Hacker News score: 469
+### [Meta’s AI agent Muse lands on Apple Watch and Android Wear OS](https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os) — 61/100
+Source: TechCrunch · Published: 2026-11-10T15:29:30+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) — 57/100
+Source: Hacker News · Published: 2026-11-10T18:01:15+00:00
+Reason: Matches ai tools terms: agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 327
+
+### [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase) — 57/100
+Source: Hacker News · Published: 2026-11-10T10:25:58+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 467
+
+### [Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-7) — 56/100
+Source: GitHub Blog · Published: 2026-11-10T18:00:00+00:00
+Reason: Matches ai tools terms: github; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
 
 ### [Quoting Prompting Claude Fable 5.2](https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52) — 54/100
 Source: Simon Willison · Published: 2026-11-10T05:34:14+00:00
 Reason: Matches ai tools terms: ai, claude; Trusted specialist source; Published in the last 30 hours
 
-### [llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic) — 54/100
-Source: Simon Willison · Published: 2026-11-09T23:58:46+00:00
-Reason: Matches ai tools terms: llm, claude; Trusted specialist source; Published in the last 30 hours
-
 ### [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — 52/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, claude, mcp; Trusted specialist source
 
-### [California’s proposed ‘billionaire tax’ fails to pass](https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass) — 50/100
-Source: TechCrunch · Published: 2026-11-10T05:18:43+00:00
+### [Reddit is turning user conversations into AI-powered product reviews](https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews) — 50/100
+Source: TechCrunch · Published: 2026-11-10T15:00:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [AI Agents Are Testing the Limits of Zero-Trust Security](https://spectrum.ieee.org/zero-trust-agentic-ai-architecture) — 49/100
-Source: IEEE Spectrum · Published: 2026-11-09T16:25:06+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
-
-### [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution) — 46/100
-Source: TechCrunch · Published: 2026-11-09T18:00:00+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
 
 ### [anthropics/skills](https://github.com/anthropics/skills) — 43/100
 Source: GitHub Trending · Published: Unknown
@@ -60,28 +56,38 @@ Reason: Matches ai tools terms: ai, claude, agent; Trusted specialist source
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, agent, automation; Trusted specialist source
 
-### [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail) — 39/100
-Source: Lobsters · Published: 2026-11-09T18:36:47+00:00
+### [Software correctness & supply chain security, with Sean Allen](https://newsletter.pragmaticengineer.com/p/software-correctness) — 39/100
+Source: The Pragmatic Engineer · Published: 2026-11-10T15:00:21+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [The race to secure record-like information for domains](https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains) — 39/100
-Source: Lobsters · Published: 2026-11-09T23:25:03+00:00
+### [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f) — 39/100
+Source: Lobsters · Published: 2026-11-10T16:57:25+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity) — 38/100
+### [Searching for pedagogical materials on memory models](https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on) — 39/100
+Source: Lobsters · Published: 2026-11-10T19:51:19+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [The Download: Pelosi’s successor targets AI and data centers face power woes](https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash) — 38/100
+Source: MIT Technology Review · Published: 2026-11-10T13:10:00+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
+
+### [Catch Electronics Shock and Drop Failures Before Hardware Is Built](https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing) — 38/100
+Source: IEEE Spectrum · Published: 2026-11-10T11:00:02+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
+
+### [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity) — 28/100
 Source: MIT Technology Review · Published: 2026-11-09T19:35:33+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
-
-### [Nancy Pelosi’s replacement is ready to regulate AI](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai) — 38/100
-Source: MIT Technology Review · Published: 2026-11-09T17:05:43+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
-
-### [The Download: empty AI climate claims, and an Nvidia investigation](https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation) — 38/100
-Source: MIT Technology Review · Published: 2026-11-09T13:15:00+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
+Reason: Matches ai tools terms: ai; Published this week
 
 ## Technology
 
-### [How Much Energy Does Building Distro Packages Use](https://www.wezm.net/v2/posts/2026/distro-energy-use) — 39/100
-Source: Lobsters · Published: 2026-11-09T06:44:59+00:00
-Reason: Matches technology terms: energy; Trusted specialist source; Published in the last 30 hours
+### [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux) — 58/100
+Source: Hacker News · Published: 2026-11-11T05:25:54+00:00
+Reason: Matches technology terms: space; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 22
+
+## Discoveries
+
+### [Weird licenses and the new open source](https://dustri.org/b/weird-licenses-and-the-new-open-source.html) — 39/100
+Source: Lobsters · Published: 2026-11-10T16:49:51+00:00
+Reason: Matches discoveries terms: open source; Trusted specialist source; Published in the last 30 hours
