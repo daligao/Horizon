@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T06:20:41.708278+00:00",
-  "total_collected": 186,
-  "after_filtering": 66,
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T07:10:14.274746+00:00",
+  "total_collected": 187,
+  "after_filtering": 58,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (11)",
+    "GitHub Trending": "ok (12)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
@@ -16,121 +16,106 @@
   },
   "items": [
     {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T22:34:23+00:00",
+      "excerpt": "",
+      "popularity": 356,
+      "category": "AI Tools",
+      "score": 72,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 356"
+      ]
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T21:24:35+00:00",
+      "excerpt": "",
+      "popularity": 512,
+      "category": "AI Tools",
+      "score": 68,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 512"
+      ]
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T12:05:22+00:00",
+      "excerpt": "",
+      "popularity": 969,
+      "category": "AI Tools",
+      "score": 68,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 969"
+      ]
+    },
+    {
+      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+      "source": "TechCrunch",
+      "published_at": "2026-11-11T16:14:44+00:00",
+      "excerpt": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
       "title": "llm-gemini 0.36",
       "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
       "source": "Simon Willison",
       "published_at": "2026-11-10T20:09:44+00:00",
       "excerpt": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high:",
       "category": "AI Tools",
-      "score": 65,
+      "score": 55,
       "reasons": [
         "Matches ai tools terms: ai, llm, claude",
         "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published this week"
       ]
     },
     {
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember",
+      "title": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
       "source": "Simon Willison",
-      "published_at": "2026-11-10T07:28:21+00:00",
-      "excerpt": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million ou",
-      "category": "AI Tools",
-      "score": 65,
-      "reasons": [
-        "Matches ai tools terms: ai, claude, agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
-      "source": "TechCrunch",
-      "published_at": "2026-11-10T15:29:30+00:00",
-      "excerpt": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-      "category": "AI Tools",
-      "score": 61,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "url": "https://github.com/gmkurtzer/ginux",
-      "source": "Hacker News",
-      "published_at": "2026-11-11T05:25:54+00:00",
-      "excerpt": "",
-      "popularity": 22,
-      "category": "Technology",
-      "score": 58,
-      "reasons": [
-        "Matches technology terms: space",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 22"
-      ]
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "source": "Hacker News",
-      "published_at": "2026-11-10T18:01:15+00:00",
-      "excerpt": "",
-      "popularity": 327,
-      "category": "AI Tools",
-      "score": 57,
-      "reasons": [
-        "Matches ai tools terms: agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 327"
-      ]
-    },
-    {
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-      "source": "Hacker News",
-      "published_at": "2026-11-10T10:25:58+00:00",
-      "excerpt": "",
-      "popularity": 467,
-      "category": "AI Tools",
-      "score": 57,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 467"
-      ]
-    },
-    {
-      "title": "Git security vulnerabilities announced",
-      "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-10T18:00:00+00:00",
-      "excerpt": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 56,
-      "reasons": [
-        "Matches ai tools terms: github",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Quoting Prompting Claude Fable 5.2",
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52",
-      "source": "Simon Willison",
-      "published_at": "2026-11-10T05:34:14+00:00",
-      "excerpt": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic\u2019s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else\u2019s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want the model to improve the structure as it works, say that the code is its own: This codebase is yours: what it's for and how it's built are your call, and you'll k",
+      "published_at": "2026-11-11T22:03:25+00:00",
+      "excerpt": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. Open",
       "category": "AI Tools",
       "score": 54,
       "reasons": [
-        "Matches ai tools terms: ai, claude",
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+      "source": "Simon Willison",
+      "published_at": "2026-11-11T21:18:30+00:00",
+      "excerpt": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great ",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
@@ -149,11 +134,11 @@
       ]
     },
     {
-      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
       "source": "TechCrunch",
-      "published_at": "2026-11-10T15:45:27+00:00",
-      "excerpt": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+      "published_at": "2026-11-11T19:54:00+00:00",
+      "excerpt": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third-quarter earnings.",
       "category": "Indie Business",
       "score": 50,
       "reasons": [
@@ -163,17 +148,16 @@
       ]
     },
     {
-      "title": "Reddit is turning user conversations into AI-powered product reviews",
-      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews",
+      "title": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
       "source": "TechCrunch",
-      "published_at": "2026-11-10T15:00:00+00:00",
-      "excerpt": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+      "published_at": "2026-11-11T23:17:05+00:00",
+      "excerpt": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
       "category": "AI Tools",
-      "score": 50,
+      "score": 46,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -203,24 +187,10 @@
       ]
     },
     {
-      "title": "Software correctness & supply chain security, with Sean Allen",
-      "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-11-10T15:00:21+00:00",
-      "excerpt": "A deep conversation on the biggest challenges of developing with AI \u2013 while trying not to mention the phrase \u201cAI\u201d once. Why? To dig up the fundamentals that are as important as ever",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f",
+      "title": "How I accidentally became a millionaire",
+      "url": "https://lyra.horse/blog/2026/11/disinformation-machine",
       "source": "Lobsters",
-      "published_at": "2026-11-10T16:57:25+00:00",
+      "published_at": "2026-11-11T21:53:24+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -231,25 +201,25 @@
       ]
     },
     {
-      "title": "Weird licenses and the new open source",
-      "url": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
+      "title": "How do you actually self-host securely?",
+      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
       "source": "Lobsters",
-      "published_at": "2026-11-10T16:49:51+00:00",
-      "excerpt": "Comments",
-      "category": "Discoveries",
+      "published_at": "2026-11-11T12:01:19+00:00",
+      "excerpt": "I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service. For some more context and to give a concrete example as to what I'm interested in, I got my",
+      "category": "SEO",
       "score": 39,
       "reasons": [
-        "Matches discoveries terms: open source",
+        "Matches seo terms: seo",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Searching for pedagogical materials on memory models",
-      "url": "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on",
+      "title": "What are some \"No AI\" apps/companies/resources you know of?",
+      "url": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
       "source": "Lobsters",
-      "published_at": "2026-11-10T19:51:19+00:00",
-      "excerpt": "Hi folks, I'm working on some supplementary materials for a course I'm TAing, my university's version of operating systems, that involves students developing an OS targeting a Raspberry Pi 3B+. One of the topics I'm trying to get at is strong and weak memory models (and why ARM has so many weird data/instruction buffer synchronization things students have to do when writing an MMU), so if you have any excellent example articles/passages/blogs on memory models that have helped you, please comment",
+      "published_at": "2026-11-11T13:13:51+00:00",
+      "excerpt": "Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly \"anti\", but at least explicitly avoid it) that you know of? I'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position. For example, https://www.rebeltechalliance.org would be one of those resources. Thank you!",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
@@ -259,11 +229,11 @@
       ]
     },
     {
-      "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash",
+      "title": "What to know about this year\u2019s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks",
       "source": "MIT Technology Review",
-      "published_at": "2026-11-10T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a\u2026",
+      "published_at": "2026-11-11T17:00:00+00:00",
+      "excerpt": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this\u2026",
       "category": "AI Tools",
       "score": 38,
       "reasons": [
@@ -272,29 +242,29 @@
       ]
     },
     {
-      "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
-      "url": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-11T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we\u2019ve experienced, yet there\u2019s still undeniable continuity: At 30, or 50, or 70, you will still\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
+      "url": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
       "source": "IEEE Spectrum",
-      "published_at": "2026-11-10T11:00:02+00:00",
-      "excerpt": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics product development. What you will learn about: Why shock failures found during physical qualification are costly, and how coupled electrical, mechanical, thermal, and packaging effects make them hard to predict. How physical drop testing and traditional simulation each leave gaps in ti",
+      "published_at": "2026-11-11T11:00:02+00:00",
+      "excerpt": "This article is brought to you by Innomotics . In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in 1866, this groundbreaking principle remains fundamental to modern electrical engineering more than a century and a half later \u2013 and continues to shape the technology portfolio of Innomotics , a globally leading provider of electric motors and large drive systems. What began as a br",
       "category": "AI Tools",
       "score": 38,
       "reasons": [
         "Matches ai tools terms: ai",
         "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-09T19:35:33+00:00",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub. It\u2019s also where\u2026",
-      "category": "AI Tools",
-      "score": 28,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published this week"
       ]
     }
   ]
