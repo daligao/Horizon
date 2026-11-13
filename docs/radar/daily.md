@@ -1,83 +1,91 @@
-# Horizon Daily Radar — 2026-11-12
+# Horizon Daily Radar — 2026-11-13
 
-Collected: 187 · After filtering: 58 · Selected: 18
+Collected: 185 · After filtering: 64 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [CoreWeave turns to customer prepayments, shorter contracts to fund AI growth](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth) — 50/100
-Source: TechCrunch · Published: 2026-11-11T19:54:00+00:00
+### [Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts) — 50/100
+Source: TechCrunch · Published: 2026-11-12T15:02:28+00:00
 Reason: Matches indie business terms: customers; Published in the last 30 hours; Includes concrete operating or outcome data
 
-## SEO
-
-### [How do you actually self-host securely?](https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely) — 39/100
-Source: Lobsters · Published: 2026-11-11T12:01:19+00:00
-Reason: Matches seo terms: seo; Trusted specialist source; Published in the last 30 hours
+### [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini) — 43/100
+Source: Simon Willison · Published: 2026-11-12T22:55:19+00:00
+Reason: Matches indie business terms: launch; Trusted specialist source; Published in the last 30 hours
 
 ## AI Tools
 
-### [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik) — 72/100
-Source: Hacker News · Published: 2026-11-11T22:34:23+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 356
+### [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills) — 63/100
+Source: GitHub Blog · Published: 2026-11-12T22:54:52+00:00
+Reason: Matches ai tools terms: ai, agent, github; Trusted specialist source; Published in the last 30 hours
 
-### [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights) — 68/100
-Source: Hacker News · Published: 2026-11-11T21:24:35+00:00
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 512
+### [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks) — 61/100
+Source: TechCrunch · Published: 2026-11-12T17:17:58+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) — 68/100
-Source: Hacker News · Published: 2026-11-11T12:05:22+00:00
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 969
+### [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing) — 57/100
+Source: Hacker News · Published: 2026-11-12T15:23:10+00:00
+Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours; Hacker News score: 329
 
-### [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time) — 61/100
-Source: TechCrunch · Published: 2026-11-11T16:14:44+00:00
-Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics) — 54/100
+Source: Hacker News · Published: 2026-11-12T21:56:11+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 254
 
-### [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini) — 55/100
-Source: Simon Willison · Published: 2026-11-10T20:09:44+00:00
-Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source; Published this week
-
-### [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api) — 54/100
-Source: Simon Willison · Published: 2026-11-11T22:03:25+00:00
-Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published in the last 30 hours
-
-### [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator) — 54/100
-Source: Simon Willison · Published: 2026-11-11T21:18:30+00:00
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours
+### [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026) — 52/100
+Source: GitHub Blog · Published: 2026-11-13T00:20:16+00:00
+Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published in the last 30 hours
 
 ### [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — 52/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, claude, mcp; Trusted specialist source
 
-### [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec) — 46/100
-Source: TechCrunch · Published: 2026-11-11T23:17:05+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
+### [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) — 51/100
+Source: Hacker News · Published: 2026-11-12T23:06:17+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 187
 
-### [anthropics/skills](https://github.com/anthropics/skills) — 43/100
+### [Microsoft’s Outlook email hit by new outage](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage) — 50/100
+Source: TechCrunch · Published: 2026-11-12T19:03:39+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api) — 44/100
+Source: Simon Willison · Published: 2026-11-11T22:03:25+00:00
+Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published this week
+
+### [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator) — 44/100
+Source: Simon Willison · Published: 2026-11-11T21:18:30+00:00
+Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published this week
+
+### [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — 43/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, claude, agent; Trusted specialist source
+Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source
 
 ### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — 43/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, agent, automation; Trusted specialist source
 
-### [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine) — 39/100
+### [The Pulse: What can we learn from the Railway hack?](https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114) — 39/100
+Source: The Pragmatic Engineer · Published: 2026-11-12T18:53:19+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [The entirety of "Let Over Lambda" is now freely available online](https://letoverlambda.com/) — 39/100
+Source: Lobsters · Published: 2026-11-12T12:44:34+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking) — 38/100
+Source: MIT Technology Review · Published: 2026-11-12T20:16:24+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
+
+### [The Download: COP31’s climate challenge and the quest for immortality](https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality) — 38/100
+Source: MIT Technology Review · Published: 2026-11-12T13:10:00+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
+
+### [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine) — 29/100
 Source: Lobsters · Published: 2026-11-11T21:53:24+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published this week
 
-### [What are some "No AI" apps/companies/resources you know of?](https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies) — 39/100
-Source: Lobsters · Published: 2026-11-11T13:13:51+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+## Technology
 
-### [What to know about this year’s UN climate talks](https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks) — 38/100
-Source: MIT Technology Review · Published: 2026-11-11T17:00:00+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
-
-### [The Download: preserving minds and weighing open AI risks](https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks) — 38/100
-Source: MIT Technology Review · Published: 2026-11-11T13:10:00+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
-
-### [The Dynamo-Electric Principle: 160 Years of Powering Industry](https://spectrum.ieee.org/innomotics-electric-motors-drive-systems) — 38/100
-Source: IEEE Spectrum · Published: 2026-11-11T11:00:02+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
+### [Hello Baochip](https://ratfactor.com/cards/hello-baochip) — 39/100
+Source: Lobsters · Published: 2026-11-12T10:09:16+00:00
+Reason: Matches technology terms: chip; Trusted specialist source; Published in the last 30 hours

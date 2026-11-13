@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T06:45:14.111802+00:00",
+  "total_collected": 185,
+  "after_filtering": 64,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (10)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (30)"
+  },
+  "items": [
+    {
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-12T22:54:52+00:00",
+      "excerpt": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 63,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "source": "TechCrunch",
+      "published_at": "2026-11-12T17:17:58+00:00",
+      "excerpt": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T15:23:10+00:00",
+      "excerpt": "",
+      "popularity": 329,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: llm",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 329"
+      ]
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T21:56:11+00:00",
+      "excerpt": "",
+      "popularity": 254,
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 254"
+      ]
+    },
+    {
+      "title": "GitHub availability report: October 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-13T00:20:16+00:00",
+      "excerpt": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. https://homeassistant-ai.github.io/ha-mcp/ Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta . HA-MCP \u2014 Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. \ud83d\ude80 Get Started The recommended way to run ha-mcp is the HA-MCP integration . It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), ru",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, mcp",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T23:06:17+00:00",
+      "excerpt": "",
+      "popularity": 187,
+      "category": "AI Tools",
+      "score": 51,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 187"
+      ]
+    },
+    {
+      "title": "Microsoft\u2019s Outlook email hit by new outage",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage",
+      "source": "TechCrunch",
+      "published_at": "2026-11-12T19:03:39+00:00",
+      "excerpt": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
+      "source": "TechCrunch",
+      "published_at": "2026-11-12T15:02:28+00:00",
+      "excerpt": "This is Fireworks' second data breach in as many months.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: customers",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
+      "source": "Simon Willison",
+      "published_at": "2026-11-11T22:03:25+00:00",
+      "excerpt": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. Open",
+      "category": "AI Tools",
+      "score": 44,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+      "source": "Simon Willison",
+      "published_at": "2026-11-11T21:18:30+00:00",
+      "excerpt": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great ",
+      "category": "AI Tools",
+      "score": 44,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+      "source": "Simon Willison",
+      "published_at": "2026-11-12T22:55:19+00:00",
+      "excerpt": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20",
+      "category": "Indie Business",
+      "score": 43,
+      "reasons": [
+        "Matches indie business terms: launch",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. https://dsa.zhulinsen.tech \ud83d\udcc8 \u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf \ud83e\udd16 \u57fa\u4e8e AI \u5927\u6a21\u578b\u7684 A\u80a1/\u6e2f\u80a1/\u7f8e\u80a1/\u65e5\u80a1/\u97e9\u80a1/\u53f0\u80a1\u81ea\u9009\u80a1\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff0c\u6bcf\u65e5\u81ea\u52a8\u5206\u6790\u5e76\u63a8\u9001\u300c\u51b3\u7b56\u4eea\u8868\u76d8\u300d\u5230\u4f01\u4e1a\u5fae\u4fe1/\u98de\u4e66/Telegram/Discord/Slack/\u90ae\u7bb1 \u4ea7\u54c1\u9884\u89c8 \u00b7 \u529f\u80fd\u7279\u6027 \u00b7 \u5feb\u901f\u5f00\u59cb \u00b7 \u63a8\u9001\u6548\u679c \u00b7 \u6587\u6863\u4e2d\u5fc3 \u00b7 \u5b8c\u6574\u6307\u5357 \u7b80\u4f53\u4e2d\u6587 | English | \u7e41\u9ad4\u4e2d\u6587 \ud83d\udc96 \u8d5e\u52a9\u5546 (Sponsors) \u611f\u8c22 Modelflare \u8d5e\u52a9\u672c\u9879\u76ee\uff01\u7531\u7f8e\u56fd Havenbyte LLC \u8fd0\u8425\uff0c\u6ee1\u8840\u7a33\u5b9a\u4e0d\u63ba\u6c34\uff0c\u4f4e\u6210\u672c\u63a5\u5165 GPT\u3001Claude\u3001Gemini\u3001",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between command",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, automation",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "The Pulse: What can we learn from the Railway hack?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-11-12T18:53:19+00:00",
+      "excerpt": "Also: native mobile and frontend jobs are disappearing, how trust helps an \u201cAI-native\u201d engineering team to succeed, Carta starts selling a coding harness, and more",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The entirety of \"Let Over Lambda\" is now freely available online",
+      "url": "https://letoverlambda.com/",
+      "source": "Lobsters",
+      "published_at": "2026-11-12T12:44:34+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Hello Baochip",
+      "url": "https://ratfactor.com/cards/hello-baochip",
+      "source": "Lobsters",
+      "published_at": "2026-11-12T10:09:16+00:00",
+      "excerpt": "Comments",
+      "category": "Technology",
+      "score": 39,
+      "reasons": [
+        "Matches technology terms: chip",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-12T20:16:24+00:00",
+      "excerpt": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were \u201cpotentially infeasible.\u201d Foster, a Democrat who serves on the Committee on\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-12T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What to know about this year\u2019s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year\u2019s negotiations\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "How I accidentally became a millionaire",
+      "url": "https://lyra.horse/blog/2026/11/disinformation-machine",
+      "source": "Lobsters",
+      "published_at": "2026-11-11T21:53:24+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 29,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    }
+  ]
+}
