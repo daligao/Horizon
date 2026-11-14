@@ -1,91 +1,91 @@
-# Horizon Daily Radar — 2026-11-13
+# Horizon Daily Radar — 2026-11-14
 
-Collected: 185 · After filtering: 64 · Selected: 20
+Collected: 187 · After filtering: 63 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts) — 50/100
-Source: TechCrunch · Published: 2026-11-12T15:02:28+00:00
-Reason: Matches indie business terms: customers; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini) — 43/100
+### [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini) — 33/100
 Source: Simon Willison · Published: 2026-11-12T22:55:19+00:00
-Reason: Matches indie business terms: launch; Trusted specialist source; Published in the last 30 hours
+Reason: Matches indie business terms: launch; Trusted specialist source; Published this week
 
 ## AI Tools
 
-### [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills) — 63/100
-Source: GitHub Blog · Published: 2026-11-12T22:54:52+00:00
-Reason: Matches ai tools terms: ai, agent, github; Trusted specialist source; Published in the last 30 hours
-
-### [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks) — 61/100
-Source: TechCrunch · Published: 2026-11-12T17:17:58+00:00
+### [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation) — 61/100
+Source: TechCrunch · Published: 2026-11-13T19:37:57+00:00
 Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing) — 57/100
-Source: Hacker News · Published: 2026-11-12T15:23:10+00:00
-Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours; Hacker News score: 329
+### [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you) — 61/100
+Source: TechCrunch · Published: 2026-11-13T16:00:12+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics) — 54/100
-Source: Hacker News · Published: 2026-11-12T21:56:11+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 254
-
-### [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026) — 52/100
-Source: GitHub Blog · Published: 2026-11-13T00:20:16+00:00
-Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published in the last 30 hours
-
-### [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — 52/100
+### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) — 58/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, claude, mcp; Trusted specialist source
+Reason: Matches ai tools terms: ai, agent, github; Trusted specialist source; Includes concrete operating or outcome data
 
-### [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) — 51/100
-Source: Hacker News · Published: 2026-11-12T23:06:17+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 187
+### [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) — 56/100
+Source: Hacker News · Published: 2026-11-14T02:52:59+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 292
 
-### [Microsoft’s Outlook email hit by new outage](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage) — 50/100
-Source: TechCrunch · Published: 2026-11-12T19:03:39+00:00
+### [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) — 54/100
+Source: Hacker News · Published: 2026-11-13T22:04:24+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 246
+
+### [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills) — 53/100
+Source: GitHub Blog · Published: 2026-11-12T22:54:52+00:00
+Reason: Matches ai tools terms: ai, agent, github; Trusted specialist source; Published this week
+
+### [Jonathan Blow – If AI solved coding, why is my software still the same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q) — 52/100
+Source: Hacker News · Published: 2026-11-13T15:08:44+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 210
+
+### [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances) — 50/100
+Source: TechCrunch · Published: 2026-11-13T21:44:38+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api) — 44/100
-Source: Simon Willison · Published: 2026-11-11T22:03:25+00:00
-Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published this week
+### [Silicon Valley claims to know the future. So why did it get the midterms so wrong?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong) — 49/100
+Source: MIT Technology Review · Published: 2026-11-13T10:00:00+00:00
+Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours
 
-### [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator) — 44/100
-Source: Simon Willison · Published: 2026-11-11T21:18:30+00:00
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published this week
-
-### [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — 43/100
+### [ashhart/TensorFold](https://github.com/ashhart/TensorFold) — 47/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source
+Reason: Matches ai tools terms: llm, agent; Trusted specialist source; Includes concrete operating or outcome data
 
-### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — 43/100
+### [openai/codex-security](https://github.com/openai/codex-security) — 43/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, agent, automation; Trusted specialist source
+Reason: Matches ai tools terms: ai, codex, openai; Trusted specialist source
 
-### [The Pulse: What can we learn from the Railway hack?](https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114) — 39/100
-Source: The Pragmatic Engineer · Published: 2026-11-12T18:53:19+00:00
+### [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026) — 42/100
+Source: GitHub Blog · Published: 2026-11-13T00:20:16+00:00
+Reason: Matches ai tools terms: ai, github; Trusted specialist source; Published this week
+
+### [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables) — 39/100
+Source: Lobsters · Published: 2026-11-13T16:48:01+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [The entirety of "Let Over Lambda" is now freely available online](https://letoverlambda.com/) — 39/100
-Source: Lobsters · Published: 2026-11-12T12:44:34+00:00
+### [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) — 39/100
+Source: Lobsters · Published: 2026-11-14T04:51:14+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking) — 38/100
-Source: MIT Technology Review · Published: 2026-11-12T20:16:24+00:00
+### [The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan](https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking) — 38/100
+Source: MIT Technology Review · Published: 2026-11-13T13:10:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [The Download: COP31’s climate challenge and the quest for immortality](https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality) — 38/100
-Source: MIT Technology Review · Published: 2026-11-12T13:10:00+00:00
+### [More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials) — 38/100
+Source: MIT Technology Review · Published: 2026-11-13T10:00:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [How I accidentally became a millionaire](https://lyra.horse/blog/2026/11/disinformation-machine) — 29/100
-Source: Lobsters · Published: 2026-11-11T21:53:24+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published this week
+### [How Microcredentials Help Engineers Build Trustworthy AI](https://spectrum.ieee.org/microcredentials-trustworthy-ai) — 38/100
+Source: IEEE Spectrum · Published: 2026-11-13T19:00:03+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-## Technology
+### [Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain](https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain) — 38/100
+Source: IEEE Spectrum · Published: 2026-11-13T11:00:02+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [Hello Baochip](https://ratfactor.com/cards/hello-baochip) — 39/100
-Source: Lobsters · Published: 2026-11-12T10:09:16+00:00
-Reason: Matches technology terms: chip; Trusted specialist source; Published in the last 30 hours
+## Discoveries
+
+### [datasette-cluster-map 0.19](https://simonwillison.net/2026/Nov/13/datasette-cluster-map) — 43/100
+Source: Simon Willison · Published: 2026-11-13T23:02:45+00:00
+Reason: Matches discoveries terms: design; Trusted specialist source; Published in the last 30 hours

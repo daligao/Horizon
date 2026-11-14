@@ -1,40 +1,26 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T06:45:14.111802+00:00",
-  "total_collected": 185,
-  "after_filtering": 64,
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T06:23:04.183290+00:00",
+  "total_collected": 187,
+  "after_filtering": 63,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (10)",
+    "GitHub Trending": "ok (13)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (30)"
+    "Hacker News": "ok (29)"
   },
   "items": [
     {
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-12T22:54:52+00:00",
-      "excerpt": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 63,
-      "reasons": [
-        "Matches ai tools terms: ai, agent, github",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
       "source": "TechCrunch",
-      "published_at": "2026-11-12T17:17:58+00:00",
-      "excerpt": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "published_at": "2026-11-13T19:37:57+00:00",
+      "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
       "category": "AI Tools",
       "score": 61,
       "reasons": [
@@ -44,35 +30,161 @@
       ]
     },
     {
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing",
-      "source": "Hacker News",
-      "published_at": "2026-11-12T15:23:10+00:00",
-      "excerpt": "",
-      "popularity": 329,
+      "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "source": "TechCrunch",
+      "published_at": "2026-11-13T16:00:12+00:00",
+      "excerpt": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
       "category": "AI Tools",
-      "score": 57,
+      "score": 61,
       "reasons": [
-        "Matches ai tools terms: llm",
-        "Trusted specialist source",
+        "Matches ai tools terms: ai, agent",
         "Published in the last 30 hours",
-        "Hacker News score: 329"
+        "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "An open-source AI coding agent that lives in your terminal. https://qwenlm.github.io/qwen-code-docs/en/users/overview The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. \u4e2d\u6587 | Deutsch | fran\u00e7ais | \u65e5\u672c\u8a9e | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 | Portugu\u00eas (Brasil) | \ud55c\uad6d\uc5b4 Qwen Code 1.0 Preview Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code in an open-source release. Try Qwen Code 1.0 Preview \u00b7 Documentation \u00b7 \u4e2d\u6587\u6587\u6863 . Why Qwen Code? Agentic out of the bo",
+      "category": "AI Tools",
+      "score": 58,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, github",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News",
-      "published_at": "2026-11-12T21:56:11+00:00",
+      "published_at": "2026-11-14T02:52:59+00:00",
       "excerpt": "",
-      "popularity": 254,
+      "popularity": 292,
+      "category": "AI Tools",
+      "score": 56,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 292"
+      ]
+    },
+    {
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T22:04:24+00:00",
+      "excerpt": "",
+      "popularity": 246,
       "category": "AI Tools",
       "score": 54,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 254"
+        "Hacker News score: 246"
+      ]
+    },
+    {
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-12T22:54:52+00:00",
+      "excerpt": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 53,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, github",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T15:08:44+00:00",
+      "excerpt": "",
+      "popularity": 210,
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 210"
+      ]
+    },
+    {
+      "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances",
+      "source": "TechCrunch",
+      "published_at": "2026-11-13T21:44:38+00:00",
+      "excerpt": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "category": "AI Tools",
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-13T10:00:00+00:00",
+      "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned\u2026",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "LLM Inference Engine for Metal, CUDA and Vulkan. https://tensorfold.dev TensorFold TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation. Building with a coding agent? Have it load the contributor skill before it writes any code. Contributing with agents Please use Agent Traffic Control before editing TensorFold so contributors and ",
+      "category": "AI Tools",
+      "score": 47,
+      "reasons": [
+        "Matches ai tools terms: llm, agent",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+      "source": "Simon Willison",
+      "published_at": "2026-11-13T23:02:45+00:00",
+      "excerpt": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , openstreetmap",
+      "category": "Discoveries",
+      "score": 43,
+      "reasons": [
+        "Matches discoveries terms: design",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security https://developers.openai.com/codex/security Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK. In Codex: choose a security workflow . In a terminal: install the CLI and scan yo",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, openai",
+        "Trusted specialist source"
       ]
     },
     {
@@ -82,96 +194,91 @@
       "published_at": "2026-11-13T00:20:16+00:00",
       "excerpt": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
       "category": "AI Tools",
-      "score": 52,
+      "score": 42,
       "reasons": [
         "Matches ai tools terms: ai, github",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+      "url": "https://alistair.sh/thenables",
+      "source": "Lobsters",
+      "published_at": "2026-11-13T16:48:01+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. https://homeassistant-ai.github.io/ha-mcp/ Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta . HA-MCP \u2014 Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. \ud83d\ude80 Get Started The recommended way to run ha-mcp is the HA-MCP integration . It installs into Home Assistant through HACS (the built-in Marketplace on Home Assistant 2026.11+), ru",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "source": "Lobsters",
+      "published_at": "2026-11-14T04:51:14+00:00",
+      "excerpt": "Comments",
       "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, claude, mcp",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "source": "Hacker News",
-      "published_at": "2026-11-12T23:06:17+00:00",
-      "excerpt": "",
-      "popularity": 187,
-      "category": "AI Tools",
-      "score": 51,
+      "score": 39,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 187"
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Microsoft\u2019s Outlook email hit by new outage",
-      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage",
-      "source": "TechCrunch",
-      "published_at": "2026-11-12T19:03:39+00:00",
-      "excerpt": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-13T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries\u2026",
       "category": "AI Tools",
-      "score": 50,
+      "score": 38,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
-      "source": "TechCrunch",
-      "published_at": "2026-11-12T15:02:28+00:00",
-      "excerpt": "This is Fireworks' second data breach in as many months.",
-      "category": "Indie Business",
-      "score": 50,
-      "reasons": [
-        "Matches indie business terms: customers",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Gemini Decisions API",
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
-      "source": "Simon Willison",
-      "published_at": "2026-11-11T22:03:25+00:00",
-      "excerpt": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. Open",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-13T10:00:00+00:00",
+      "excerpt": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to \u201cspeak.\u201d The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their\u2026",
       "category": "AI Tools",
-      "score": 44,
+      "score": 38,
       "reasons": [
-        "Matches ai tools terms: ai, openai",
-        "Trusted specialist source",
-        "Published this week"
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "aws-emulator",
-      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
-      "source": "Simon Willison",
-      "published_at": "2026-11-11T21:18:30+00:00",
-      "excerpt": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great ",
+      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+      "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-13T19:00:03+00:00",
+      "excerpt": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry\u2019s toughest challenges. \u201cAI ethics\u201d refers to the principles developers use to govern and operate workflows. \u201cGovernance\u201d refers to the rules and procedures an organization establishes for AI workflows and how they inte",
       "category": "AI Tools",
-      "score": 44,
+      "score": 38,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Trusted specialist source",
-        "Published this week"
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
+      "url": "https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-13T11:00:02+00:00",
+      "excerpt": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their shape in the wind. Why a moderate wind on a heavily iced line can govern design, and how galloping and vegetation contact create outages. How a messenger-supported spacer cable separates the electrical",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -181,117 +288,9 @@
       "published_at": "2026-11-12T22:55:19+00:00",
       "excerpt": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20",
       "category": "Indie Business",
-      "score": 43,
+      "score": 33,
       "reasons": [
         "Matches indie business terms: launch",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. https://dsa.zhulinsen.tech \ud83d\udcc8 \u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf \ud83e\udd16 \u57fa\u4e8e AI \u5927\u6a21\u578b\u7684 A\u80a1/\u6e2f\u80a1/\u7f8e\u80a1/\u65e5\u80a1/\u97e9\u80a1/\u53f0\u80a1\u81ea\u9009\u80a1\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff0c\u6bcf\u65e5\u81ea\u52a8\u5206\u6790\u5e76\u63a8\u9001\u300c\u51b3\u7b56\u4eea\u8868\u76d8\u300d\u5230\u4f01\u4e1a\u5fae\u4fe1/\u98de\u4e66/Telegram/Discord/Slack/\u90ae\u7bb1 \u4ea7\u54c1\u9884\u89c8 \u00b7 \u529f\u80fd\u7279\u6027 \u00b7 \u5feb\u901f\u5f00\u59cb \u00b7 \u63a8\u9001\u6548\u679c \u00b7 \u6587\u6863\u4e2d\u5fc3 \u00b7 \u5b8c\u6574\u6307\u5357 \u7b80\u4f53\u4e2d\u6587 | English | \u7e41\u9ad4\u4e2d\u6587 \ud83d\udc96 \u8d5e\u52a9\u5546 (Sponsors) \u611f\u8c22 Modelflare \u8d5e\u52a9\u672c\u9879\u76ee\uff01\u7531\u7f8e\u56fd Havenbyte LLC \u8fd0\u8425\uff0c\u6ee1\u8840\u7a33\u5b9a\u4e0d\u63ba\u6c34\uff0c\u4f4e\u6210\u672c\u63a5\u5165 GPT\u3001Claude\u3001Gemini\u3001",
-      "category": "AI Tools",
-      "score": 43,
-      "reasons": [
-        "Matches ai tools terms: ai, llm, claude",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on a ref, reads the page again to check the result, and repeats. The browser stays open between command",
-      "category": "AI Tools",
-      "score": 43,
-      "reasons": [
-        "Matches ai tools terms: ai, agent, automation",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "The Pulse: What can we learn from the Railway hack?",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-11-12T18:53:19+00:00",
-      "excerpt": "Also: native mobile and frontend jobs are disappearing, how trust helps an \u201cAI-native\u201d engineering team to succeed, Carta starts selling a coding harness, and more",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "The entirety of \"Let Over Lambda\" is now freely available online",
-      "url": "https://letoverlambda.com/",
-      "source": "Lobsters",
-      "published_at": "2026-11-12T12:44:34+00:00",
-      "excerpt": "Comments",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Hello Baochip",
-      "url": "https://ratfactor.com/cards/hello-baochip",
-      "source": "Lobsters",
-      "published_at": "2026-11-12T10:09:16+00:00",
-      "excerpt": "Comments",
-      "category": "Technology",
-      "score": 39,
-      "reasons": [
-        "Matches technology terms: chip",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-12T20:16:24+00:00",
-      "excerpt": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were \u201cpotentially infeasible.\u201d Foster, a Democrat who serves on the Committee on\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-12T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What to know about this year\u2019s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year\u2019s negotiations\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "How I accidentally became a millionaire",
-      "url": "https://lyra.horse/blog/2026/11/disinformation-machine",
-      "source": "Lobsters",
-      "published_at": "2026-11-11T21:53:24+00:00",
-      "excerpt": "Comments",
-      "category": "AI Tools",
-      "score": 29,
-      "reasons": [
-        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published this week"
       ]
