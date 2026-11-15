@@ -1,20 +1,108 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T06:23:04.183290+00:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T06:31:53.209800+00:00",
   "total_collected": 187,
-  "after_filtering": 63,
+  "after_filtering": 43,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (13)",
+    "GitHub Trending": "ok (12)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (29)"
+    "Hacker News": "ok (30)"
   },
   "items": [
+    {
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "source": "Simon Willison",
+      "published_at": "2026-11-14T23:59:28+00:00",
+      "excerpt": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.",
+      "category": "AI Tools",
+      "score": 65,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T21:22:24+00:00",
+      "excerpt": "",
+      "popularity": 1021,
+      "category": "Technology",
+      "score": 57,
+      "reasons": [
+        "Matches technology terms: space",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 1021"
+      ]
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T17:43:10+00:00",
+      "excerpt": "",
+      "popularity": 750,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 750"
+      ]
+    },
+    {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T22:26:30+00:00",
+      "excerpt": "",
+      "popularity": 401,
+      "category": "Technology",
+      "score": 57,
+      "reasons": [
+        "Matches technology terms: gpu",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 401"
+      ]
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. https://open-codereview.ai OpenCodeReview English | \u7b80\u4f53\u4e2d\u6587 | \u65e5\u672c\u8a9e | \ud55c\uad6d\uc5b4 | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 What is Open Code Review? Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assis",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, openai",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Chrome DevTools for coding agents https://developer.chrome.com/docs/devtools/agents Chrome DevTools for agents Chrome DevTools for agents ( chrome-devtools-mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI . Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. T",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source"
+      ]
+    },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
@@ -22,154 +110,36 @@
       "published_at": "2026-11-13T19:37:57+00:00",
       "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
       "category": "AI Tools",
-      "score": 61,
+      "score": 51,
       "reasons": [
         "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours",
+        "Published this week",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
       "source": "TechCrunch",
-      "published_at": "2026-11-13T16:00:12+00:00",
-      "excerpt": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "category": "AI Tools",
-      "score": 61,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "An open-source AI coding agent that lives in your terminal. https://qwenlm.github.io/qwen-code-docs/en/users/overview The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. \u4e2d\u6587 | Deutsch | fran\u00e7ais | \u65e5\u672c\u8a9e | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 | Portugu\u00eas (Brasil) | \ud55c\uad6d\uc5b4 Qwen Code 1.0 Preview Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code in an open-source release. Try Qwen Code 1.0 Preview \u00b7 Documentation \u00b7 \u4e2d\u6587\u6587\u6863 . Why Qwen Code? Agentic out of the bo",
-      "category": "AI Tools",
-      "score": 58,
-      "reasons": [
-        "Matches ai tools terms: ai, agent, github",
-        "Trusted specialist source",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T02:52:59+00:00",
-      "excerpt": "",
-      "popularity": 292,
-      "category": "AI Tools",
-      "score": 56,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 292"
-      ]
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T22:04:24+00:00",
-      "excerpt": "",
-      "popularity": 246,
-      "category": "AI Tools",
-      "score": 54,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 246"
-      ]
-    },
-    {
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-12T22:54:52+00:00",
-      "excerpt": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 53,
-      "reasons": [
-        "Matches ai tools terms: ai, agent, github",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "Hacker News",
-      "published_at": "2026-11-13T15:08:44+00:00",
-      "excerpt": "",
-      "popularity": 210,
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 210"
-      ]
-    },
-    {
-      "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances",
-      "source": "TechCrunch",
-      "published_at": "2026-11-13T21:44:38+00:00",
-      "excerpt": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "category": "AI Tools",
-      "score": 50,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-13T10:00:00+00:00",
-      "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned\u2026",
-      "category": "AI Tools",
-      "score": 49,
+      "score": 46,
       "reasons": [
         "Matches ai tools terms: ai, openai",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "ashhart/TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "LLM Inference Engine for Metal, CUDA and Vulkan. https://tensorfold.dev TensorFold TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation. Building with a coding agent? Have it load the contributor skill before it writes any code. Contributing with agents Please use Agent Traffic Control before editing TensorFold so contributors and ",
-      "category": "AI Tools",
-      "score": 47,
-      "reasons": [
-        "Matches ai tools terms: llm, agent",
-        "Trusted specialist source",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "datasette-cluster-map 0.19",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega",
       "source": "Simon Willison",
-      "published_at": "2026-11-13T23:02:45+00:00",
-      "excerpt": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , openstreetmap",
-      "category": "Discoveries",
+      "published_at": "2026-11-14T17:09:09+00:00",
+      "excerpt": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.) Since it works with Datasette Lite, the live de",
+      "category": "AI Tools",
       "score": 43,
       "reasons": [
-        "Matches discoveries terms: design",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
@@ -188,29 +158,43 @@
       ]
     },
     {
-      "title": "GitHub availability report: October 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-13T00:20:16+00:00",
-      "excerpt": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+      "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances",
+      "source": "TechCrunch",
+      "published_at": "2026-11-13T21:44:38+00:00",
+      "excerpt": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
       "category": "AI Tools",
-      "score": 42,
+      "score": 40,
       "reasons": [
-        "Matches ai tools terms: ai, github",
-        "Trusted specialist source",
-        "Published this week"
+        "Matches ai tools terms: ai",
+        "Published this week",
+        "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Fixing a WebKit bug to see if promises are made of train tracks",
-      "url": "https://alistair.sh/thenables",
+      "title": "Periodic-Oriented Programming for FIRST Robotics",
+      "url": "https://bvisness.me/periodic-oriented-programming",
       "source": "Lobsters",
-      "published_at": "2026-11-13T16:48:01+00:00",
+      "published_at": "2026-11-15T03:16:42+00:00",
       "excerpt": "Comments",
-      "category": "AI Tools",
+      "category": "Technology",
       "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches technology terms: robot",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Reintroducing Spaces",
+      "url": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
+      "source": "Lobsters",
+      "published_at": "2026-11-15T02:34:44+00:00",
+      "excerpt": "Comments",
+      "category": "Technology",
+      "score": 39,
+      "reasons": [
+        "Matches technology terms: space",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
@@ -230,29 +214,17 @@
       ]
     },
     {
-      "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-13T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries\u2026",
-      "category": "AI Tools",
-      "score": 38,
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
+      "source": "Simon Willison",
+      "published_at": "2026-11-13T23:02:45+00:00",
+      "excerpt": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , openstreetmap",
+      "category": "Discoveries",
+      "score": 33,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-13T10:00:00+00:00",
-      "excerpt": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to \u201cspeak.\u201d The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
+        "Matches discoveries terms: design",
+        "Trusted specialist source",
+        "Published this week"
       ]
     },
     {
@@ -262,36 +234,9 @@
       "published_at": "2026-11-13T19:00:03+00:00",
       "excerpt": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry\u2019s toughest challenges. \u201cAI ethics\u201d refers to the principles developers use to govern and operate workflows. \u201cGovernance\u201d refers to the rules and procedures an organization establishes for AI workflows and how they inte",
       "category": "AI Tools",
-      "score": 38,
+      "score": 28,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
-      "url": "https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-13T11:00:02+00:00",
-      "excerpt": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their shape in the wind. Why a moderate wind on a heavily iced line can govern design, and how galloping and vegetation contact create outages. How a messenger-supported spacer cable separates the electrical",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "llm-gemini 0.37",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
-      "source": "Simon Willison",
-      "published_at": "2026-11-12T22:55:19+00:00",
-      "excerpt": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20",
-      "category": "Indie Business",
-      "score": 33,
-      "reasons": [
-        "Matches indie business terms: launch",
-        "Trusted specialist source",
         "Published this week"
       ]
     }
