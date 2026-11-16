@@ -1,93 +1,89 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T06:31:53.209800+00:00",
-  "total_collected": 187,
-  "after_filtering": 43,
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T06:29:28.365223+00:00",
+  "total_collected": 189,
+  "after_filtering": 53,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (12)",
+    "GitHub Trending": "ok (15)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (30)"
+    "Hacker News": "ok (29)"
   },
   "items": [
     {
-      "title": "datasette-llm 0.1a11",
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "title": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette",
       "source": "Simon Willison",
-      "published_at": "2026-11-14T23:59:28+00:00",
-      "excerpt": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.",
+      "published_at": "2026-11-15T23:20:27+00:00",
+      "excerpt": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method. There are a couple of security fixes, one of which I deemed deserving of a GitHub ",
+      "category": "AI Tools",
+      "score": 69,
+      "reasons": [
+        "Matches ai tools terms: claude, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. https://docs.caveman.so/caveman New: Caveman Code. Free. The most efficient coding agent. Same model, same work, smaller bill. 21% cheaper than Codex Terminal-Bench 4, per solved task 14% cheaper than Claude Code Terminal-Bench 4, 97 vs 83 solved 76% cheaper than Claude Code full workday, 4 connected apps Same model on both sides: GPT-6.1 Sol against Codex, Opus ",
+      "category": "AI Tools",
+      "score": 67,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "datasette-apps 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+      "source": "Simon Willison",
+      "published_at": "2026-11-15T04:02:45+00:00",
+      "excerpt": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other. This means you can have e.g. an app that shows details about a specif",
       "category": "AI Tools",
       "score": 65,
       "reasons": [
-        "Matches ai tools terms: ai, llm, openai",
+        "Matches ai tools terms: ai, claude, agent",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T21:22:24+00:00",
-      "excerpt": "",
-      "popularity": 1021,
-      "category": "Technology",
-      "score": 57,
-      "reasons": [
-        "Matches technology terms: space",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 1021"
-      ]
-    },
-    {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T17:43:10+00:00",
-      "excerpt": "",
-      "popularity": 750,
+      "title": "datasette-agent 0.6a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent",
+      "source": "Simon Willison",
+      "published_at": "2026-11-15T03:49:47+00:00",
+      "excerpt": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai",
       "category": "AI Tools",
-      "score": 57,
+      "score": 65,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: ai, llm, agent",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 750"
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "source": "Hacker News",
-      "published_at": "2026-11-14T22:26:30+00:00",
-      "excerpt": "",
-      "popularity": 401,
-      "category": "Technology",
-      "score": 57,
-      "reasons": [
-        "Matches technology terms: gpu",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 401"
-      ]
-    },
-    {
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
       "source": "GitHub Trending",
       "published_at": null,
-      "excerpt": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. https://open-codereview.ai OpenCodeReview English | \u7b80\u4f53\u4e2d\u6587 | \u65e5\u672c\u8a9e | \ud55c\uad6d\uc5b4 | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 What is Open Code Review? Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assis",
+      "excerpt": "An open-source AI coding agent that lives in your terminal. https://qwenlm.github.io/qwen-code-docs/en/users/overview The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. \u4e2d\u6587 | Deutsch | fran\u00e7ais | \u65e5\u672c\u8a9e | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 | Portugu\u00eas (Brasil) | \ud55c\uad6d\uc5b4 Qwen Code 1.0 Preview Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code in an open-source release. Try Qwen Code 1.0 Preview \u00b7 Documentation \u00b7 \u4e2d\u6587\u6587\u6863 . Why Qwen Code? Agentic out of the bo",
       "category": "AI Tools",
-      "score": 52,
+      "score": 58,
       "reasons": [
-        "Matches ai tools terms: ai, llm, openai",
-        "Trusted specialist source"
+        "Matches ai tools terms: ai, agent, github",
+        "Trusted specialist source",
+        "Includes concrete operating or outcome data"
       ]
     },
     {
@@ -104,106 +100,58 @@
       ]
     },
     {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
-      "source": "TechCrunch",
-      "published_at": "2026-11-13T19:37:57+00:00",
-      "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T18:23:21+00:00",
+      "excerpt": "",
+      "popularity": 216,
       "category": "AI Tools",
-      "score": 51,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published this week",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-      "source": "TechCrunch",
-      "published_at": "2026-11-14T17:30:00+00:00",
-      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "category": "AI Tools",
-      "score": 46,
-      "reasons": [
-        "Matches ai tools terms: ai, openai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "datasette-vega 0.7",
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega",
-      "source": "Simon Willison",
-      "published_at": "2026-11-14T17:09:09+00:00",
-      "excerpt": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.) Since it works with Datasette Lite, the live de",
-      "category": "AI Tools",
-      "score": 43,
+      "score": 52,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published in the last 30 hours",
+        "Hacker News score: 216"
       ]
     },
     {
-      "title": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security https://developers.openai.com/codex/security Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK. In Codex: choose a security workflow . In a terminal: install the CLI and scan yo",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T00:21:54+00:00",
+      "excerpt": "",
+      "popularity": 110,
       "category": "AI Tools",
-      "score": 43,
-      "reasons": [
-        "Matches ai tools terms: ai, codex, openai",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances",
-      "source": "TechCrunch",
-      "published_at": "2026-11-13T21:44:38+00:00",
-      "excerpt": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "category": "AI Tools",
-      "score": 40,
+      "score": 47,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published this week",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Periodic-Oriented Programming for FIRST Robotics",
-      "url": "https://bvisness.me/periodic-oriented-programming",
-      "source": "Lobsters",
-      "published_at": "2026-11-15T03:16:42+00:00",
-      "excerpt": "Comments",
-      "category": "Technology",
-      "score": 39,
-      "reasons": [
-        "Matches technology terms: robot",
         "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published in the last 30 hours",
+        "Hacker News score: 110"
       ]
     },
     {
-      "title": "Reintroducing Spaces",
-      "url": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
-      "source": "Lobsters",
-      "published_at": "2026-11-15T02:34:44+00:00",
-      "excerpt": "Comments",
-      "category": "Technology",
-      "score": 39,
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T20:20:05+00:00",
+      "excerpt": "",
+      "popularity": 117,
+      "category": "AI Tools",
+      "score": 47,
       "reasons": [
-        "Matches technology terms: space",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published in the last 30 hours",
+        "Hacker News score: 117"
       ]
     },
     {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "source": "Lobsters",
-      "published_at": "2026-11-14T04:51:14+00:00",
+      "published_at": "2026-11-15T16:04:01+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -214,30 +162,70 @@
       ]
     },
     {
-      "title": "datasette-cluster-map 0.19",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map",
-      "source": "Simon Willison",
-      "published_at": "2026-11-13T23:02:45+00:00",
-      "excerpt": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , openstreetmap",
+      "title": "Paint in the memory of other programs",
+      "url": "https://citrons.xyz/journal/2026-04-13",
+      "source": "Lobsters",
+      "published_at": "2026-11-16T03:37:36+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Please Implement A Quorum Database",
+      "url": "https://transactional.blog/talk/please-implement-a-quorum-database",
+      "source": "Lobsters",
+      "published_at": "2026-11-15T22:44:13+00:00",
+      "excerpt": "Comments",
       "category": "Discoveries",
-      "score": 33,
+      "score": 39,
       "reasons": [
-        "Matches discoveries terms: design",
+        "Matches discoveries terms: database",
         "Trusted specialist source",
-        "Published this week"
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
-      "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-13T19:00:03+00:00",
-      "excerpt": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry\u2019s toughest challenges. \u201cAI ethics\u201d refers to the principles developers use to govern and operate workflows. \u201cGovernance\u201d refers to the rules and procedures an organization establishes for AI workflows and how they inte",
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "source": "TechCrunch",
+      "published_at": "2026-11-16T01:30:00+00:00",
+      "excerpt": "Apple's new app for a study will answer everyday medical questions",
+      "category": "Indie Business",
+      "score": 35,
+      "reasons": [
+        "Matches indie business terms: launch",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+      "source": "TechCrunch",
+      "published_at": "2026-11-15T23:30:00+00:00",
+      "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
       "category": "AI Tools",
-      "score": 28,
+      "score": 35,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published this week"
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+      "source": "TechCrunch",
+      "published_at": "2026-11-15T21:56:35+00:00",
+      "excerpt": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "category": "AI Tools",
+      "score": 35,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
       ]
     }
   ]
