@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T06:29:28.365223+00:00",
-  "total_collected": 189,
-  "after_filtering": 53,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T07:54:46.757101+00:00",
+  "total_collected": 186,
+  "after_filtering": 66,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (15)",
+    "GitHub Trending": "ok (12)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
@@ -16,74 +16,89 @@
   },
   "items": [
     {
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T22:58:20+00:00",
+      "excerpt": "",
+      "popularity": 529,
+      "category": "AI Tools",
+      "score": 68,
+      "reasons": [
+        "Matches ai tools terms: agent, developer tool",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 529"
+      ]
+    },
+    {
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-16T16:04:28+00:00",
+      "excerpt": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn\u2019t. No rule had told the agents to do\u2026",
+      "category": "AI Tools",
+      "score": 60,
+      "reasons": [
+        "Matches ai tools terms: ai, openai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
       "title": "datasette 1.0a43",
       "url": "https://simonwillison.net/2026/Nov/15/datasette",
       "source": "Simon Willison",
       "published_at": "2026-11-15T23:20:27+00:00",
       "excerpt": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method. There are a couple of security fixes, one of which I deemed deserving of a GitHub ",
       "category": "AI Tools",
-      "score": 69,
+      "score": 59,
       "reasons": [
         "Matches ai tools terms: claude, github",
         "Trusted specialist source",
+        "Published this week",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+      "source": "TechCrunch",
+      "published_at": "2026-11-16T20:07:13+00:00",
+      "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai, openai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T13:18:22+00:00",
+      "excerpt": "",
+      "popularity": 301,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
         "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Hacker News score: 301"
       ]
     },
     {
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub Trending",
       "published_at": null,
-      "excerpt": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. https://docs.caveman.so/caveman New: Caveman Code. Free. The most efficient coding agent. Same model, same work, smaller bill. 21% cheaper than Codex Terminal-Bench 4, per solved task 14% cheaper than Claude Code Terminal-Bench 4, 97 vs 83 solved 76% cheaper than Claude Code full workday, 4 connected apps Same model on both sides: GPT-6.1 Sol against Codex, Opus ",
+      "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. https://stitch.withgoogle.com/docs/mcp/setup Stitch Design Skills A collection of agent skills and plugins for Google Stitch , following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual instal",
       "category": "AI Tools",
-      "score": 67,
+      "score": 52,
       "reasons": [
-        "Matches ai tools terms: ai, codex, claude",
-        "Trusted specialist source",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "datasette-apps 0.4a0",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
-      "source": "Simon Willison",
-      "published_at": "2026-11-15T04:02:45+00:00",
-      "excerpt": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other. This means you can have e.g. an app that shows details about a specif",
-      "category": "AI Tools",
-      "score": 65,
-      "reasons": [
-        "Matches ai tools terms: ai, claude, agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "datasette-agent 0.6a0",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent",
-      "source": "Simon Willison",
-      "published_at": "2026-11-15T03:49:47+00:00",
-      "excerpt": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai",
-      "category": "AI Tools",
-      "score": 65,
-      "reasons": [
-        "Matches ai tools terms: ai, llm, agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "An open-source AI coding agent that lives in your terminal. https://qwenlm.github.io/qwen-code-docs/en/users/overview The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. \u4e2d\u6587 | Deutsch | fran\u00e7ais | \u65e5\u672c\u8a9e | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 | Portugu\u00eas (Brasil) | \ud55c\uad6d\uc5b4 Qwen Code 1.0 Preview Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code in an open-source release. Try Qwen Code 1.0 Preview \u00b7 Documentation \u00b7 \u4e2d\u6587\u6587\u6863 . Why Qwen Code? Agentic out of the bo",
-      "category": "AI Tools",
-      "score": 58,
-      "reasons": [
-        "Matches ai tools terms: ai, agent, github",
-        "Trusted specialist source",
-        "Includes concrete operating or outcome data"
+        "Matches ai tools terms: codex, claude, agent",
+        "Trusted specialist source"
       ]
     },
     {
@@ -100,58 +115,134 @@
       ]
     },
     {
-      "title": "A short explainer on how El Ni\u00f1o works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "source": "Hacker News",
-      "published_at": "2026-11-15T18:23:21+00:00",
-      "excerpt": "",
-      "popularity": 216,
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. https://open-codereview.ai OpenCodeReview English | \u7b80\u4f53\u4e2d\u6587 | \u65e5\u672c\u8a9e | \ud55c\uad6d\uc5b4 | \u0420\u0443\u0441\u0441\u043a\u0438\u0439 What is Open Code Review? Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assis",
       "category": "AI Tools",
       "score": 52,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 216"
+        "Matches ai tools terms: ai, llm, openai",
+        "Trusted specialist source"
       ]
     },
     {
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "source": "Hacker News",
-      "published_at": "2026-11-16T00:21:54+00:00",
-      "excerpt": "",
-      "popularity": 110,
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
+      "source": "TechCrunch",
+      "published_at": "2026-11-16T15:52:19+00:00",
+      "excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
       "category": "AI Tools",
-      "score": 47,
+      "score": 50,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-16T13:00:00+00:00",
+      "excerpt": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,\u2026",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+      "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-16T11:00:03+00:00",
+      "excerpt": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This webinar shows how in-line inspection and offline characterization combine into one workflow, from tool monitoring to root-cause analysis. In the first half, Dr. Bitan Chakraborty from Intel, explains how",
+      "category": "Technology",
+      "score": 49,
+      "reasons": [
+        "Matches technology terms: semiconductor, manufacturing",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T17:27:46+00:00",
+      "excerpt": "",
+      "popularity": 259,
+      "category": "Indie Business",
+      "score": 48,
+      "reasons": [
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 259"
+      ]
+    },
+    {
+      "title": "Cyber giant Infoblox confirms security incident after hackers access \u2018company information\u2019",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information",
+      "source": "TechCrunch",
+      "published_at": "2026-11-16T22:12:31+00:00",
+      "excerpt": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "category": "AI Tools",
+      "score": 46,
+      "reasons": [
+        "Matches ai tools terms: ai, automation",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+      "source": "Simon Willison",
+      "published_at": "2026-11-15T23:58:36+00:00",
+      "excerpt": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and o",
+      "category": "AI Tools",
+      "score": 44,
+      "reasons": [
+        "Matches ai tools terms: claude, github",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "Software engineering after code becomes cheap with Satya Nadella",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-11-16T13:33:48+00:00",
+      "excerpt": "Microsoft CEO Satya Nadella on AI\u2019s impact on software engineering, code verification, and engineers\u2019 careers.",
+      "category": "AI Tools",
+      "score": 39,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 110"
+        "Published in the last 30 hours"
       ]
     },
     {
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "url": "https://baron.by.dai.studio/",
-      "source": "Hacker News",
-      "published_at": "2026-11-15T20:20:05+00:00",
-      "excerpt": "",
-      "popularity": 117,
-      "category": "AI Tools",
-      "score": 47,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 117"
-      ]
-    },
-    {
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "title": "Migrating from GitHub to Codeberg",
+      "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg",
       "source": "Lobsters",
-      "published_at": "2026-11-15T16:04:01+00:00",
+      "published_at": "2026-11-16T05:10:34+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+      "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1",
+      "source": "Lobsters",
+      "published_at": "2026-11-16T16:25:38+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -176,53 +267,26 @@
       ]
     },
     {
-      "title": "Please Implement A Quorum Database",
-      "url": "https://transactional.blog/talk/please-implement-a-quorum-database",
-      "source": "Lobsters",
-      "published_at": "2026-11-15T22:44:13+00:00",
-      "excerpt": "Comments",
-      "category": "Discoveries",
-      "score": 39,
-      "reasons": [
-        "Matches discoveries terms: database",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Apple launches new app to study how people use AI for health",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
-      "source": "TechCrunch",
-      "published_at": "2026-11-16T01:30:00+00:00",
-      "excerpt": "Apple's new app for a study will answer everyday medical questions",
-      "category": "Indie Business",
-      "score": 35,
-      "reasons": [
-        "Matches indie business terms: launch",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
-      "source": "TechCrunch",
-      "published_at": "2026-11-15T23:30:00+00:00",
-      "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-16T18:38:47+00:00",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia\u2026",
       "category": "AI Tools",
-      "score": 35,
+      "score": 38,
       "reasons": [
         "Matches ai tools terms: ai",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
-      "source": "TechCrunch",
-      "published_at": "2026-11-15T21:56:35+00:00",
-      "excerpt": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+      "url": "https://spectrum.ieee.org/telesurgery-stroke",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-16T14:00:02+00:00",
+      "excerpt": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient\u2019s blood vessels. I head for what I believe to be the brain, tracking my progress on the live X-ray feed. As I imagine finding a blood clot, David Bell , the surgeon seated to my right, helpfully reminds me that every minute a stroke goes untreated, millions of brain ",
       "category": "AI Tools",
-      "score": 35,
+      "score": 38,
       "reasons": [
         "Matches ai tools terms: ai",
         "Published in the last 30 hours"
