@@ -1,71 +1,91 @@
-# Horizon Daily Radar — 2026-11-16
+# Horizon Daily Radar — 2026-11-17
 
-Collected: 189 · After filtering: 53 · Selected: 15
+Collected: 186 · After filtering: 66 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [Apple launches new app to study how people use AI for health](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health) — 35/100
-Source: TechCrunch · Published: 2026-11-16T01:30:00+00:00
-Reason: Matches indie business terms: launch; Published in the last 30 hours
+### [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) — 48/100
+Source: Hacker News · Published: 2026-11-16T17:27:46+00:00
+Reason: Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 259
 
 ## AI Tools
 
-### [datasette 1.0a43](https://simonwillison.net/2026/Nov/15/datasette) — 69/100
+### [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry) — 68/100
+Source: Hacker News · Published: 2026-11-16T22:58:20+00:00
+Reason: Matches ai tools terms: agent, developer tool; Trusted specialist source; Published in the last 30 hours; Hacker News score: 529
+
+### [Building trustworthy AI by fencing it in, not predicting it](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it) — 60/100
+Source: MIT Technology Review · Published: 2026-11-16T16:04:28+00:00
+Reason: Matches ai tools terms: ai, openai, agent; Published in the last 30 hours
+
+### [datasette 1.0a43](https://simonwillison.net/2026/Nov/15/datasette) — 59/100
 Source: Simon Willison · Published: 2026-11-15T23:20:27+00:00
-Reason: Matches ai tools terms: claude, github; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
+Reason: Matches ai tools terms: claude, github; Trusted specialist source; Published this week; Includes concrete operating or outcome data
 
-### [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 67/100
+### [California state AG sues OpenAI over rogue agent incidents](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents) — 57/100
+Source: TechCrunch · Published: 2026-11-16T20:07:13+00:00
+Reason: Matches ai tools terms: ai, openai, agent; Published in the last 30 hours
+
+### [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) — 57/100
+Source: Hacker News · Published: 2026-11-16T13:18:22+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 301
+
+### [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 52/100
 Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source; Includes concrete operating or outcome data
-
-### [datasette-apps 0.4a0](https://simonwillison.net/2026/Nov/15/datasette-apps) — 65/100
-Source: Simon Willison · Published: 2026-11-15T04:02:45+00:00
-Reason: Matches ai tools terms: ai, claude, agent; Trusted specialist source; Published in the last 30 hours
-
-### [datasette-agent 0.6a0](https://simonwillison.net/2026/Nov/15/datasette-agent) — 65/100
-Source: Simon Willison · Published: 2026-11-15T03:49:47+00:00
-Reason: Matches ai tools terms: ai, llm, agent; Trusted specialist source; Published in the last 30 hours
-
-### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) — 58/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, agent, github; Trusted specialist source; Includes concrete operating or outcome data
+Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source
 
 ### [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — 52/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, claude, agent; Trusted specialist source
 
-### [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) — 52/100
-Source: Hacker News · Published: 2026-11-15T18:23:21+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 216
+### [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — 52/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: ai, llm, openai; Trusted specialist source
 
-### [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) — 47/100
-Source: Hacker News · Published: 2026-11-16T00:21:54+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 110
+### [Audible turns to AI to help users discover audiobooks](https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks) — 50/100
+Source: TechCrunch · Published: 2026-11-16T15:52:19+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/) — 47/100
-Source: Hacker News · Published: 2026-11-15T20:20:05+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 117
+### [Building AI that can work across the enterprise](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise) — 49/100
+Source: MIT Technology Review · Published: 2026-11-16T13:00:00+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
 
-### [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source) — 39/100
-Source: Lobsters · Published: 2026-11-15T16:04:01+00:00
+### [Cyber giant Infoblox confirms security incident after hackers access ‘company information’](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information) — 46/100
+Source: TechCrunch · Published: 2026-11-16T22:12:31+00:00
+Reason: Matches ai tools terms: ai, automation; Published in the last 30 hours
+
+### [datasette-maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre) — 44/100
+Source: Simon Willison · Published: 2026-11-15T23:58:36+00:00
+Reason: Matches ai tools terms: claude, github; Trusted specialist source; Published this week
+
+### [Software engineering after code becomes cheap with Satya Nadella](https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes) — 39/100
+Source: The Pragmatic Engineer · Published: 2026-11-16T13:33:48+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg) — 39/100
+Source: Lobsters · Published: 2026-11-16T05:10:34+00:00
+Reason: Matches ai tools terms: github; Trusted specialist source; Published in the last 30 hours
+
+### [Quality IMAP, Part 1: Your Mailbox Is A Database](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1) — 39/100
+Source: Lobsters · Published: 2026-11-16T16:25:38+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
 ### [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13) — 39/100
 Source: Lobsters · Published: 2026-11-16T03:37:36+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market) — 35/100
-Source: TechCrunch · Published: 2026-11-15T23:30:00+00:00
+### [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back) — 38/100
+Source: MIT Technology Review · Published: 2026-11-16T18:38:47+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry) — 35/100
-Source: TechCrunch · Published: 2026-11-15T21:56:35+00:00
+### [Can Robots Bring Stroke Surgery to Remote Hospitals?](https://spectrum.ieee.org/telesurgery-stroke) — 38/100
+Source: IEEE Spectrum · Published: 2026-11-16T14:00:02+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-## Discoveries
+## Technology
 
-### [Please Implement A Quorum Database](https://transactional.blog/talk/please-implement-a-quorum-database) — 39/100
-Source: Lobsters · Published: 2026-11-15T22:44:13+00:00
-Reason: Matches discoveries terms: database; Trusted specialist source; Published in the last 30 hours
+### [Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement](https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8) — 49/100
+Source: IEEE Spectrum · Published: 2026-11-16T11:00:03+00:00
+Reason: Matches technology terms: semiconductor, manufacturing; Published in the last 30 hours
