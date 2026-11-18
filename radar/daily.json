@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T07:54:46.757101+00:00",
-  "total_collected": 186,
-  "after_filtering": 66,
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T07:28:11.572807+00:00",
+  "total_collected": 189,
+  "after_filtering": 70,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
-    "GitHub Trending": "ok (12)",
+    "GitHub Trending": "ok (15)",
     "The Pragmatic Engineer": "ok (20)",
     "Lobsters": "ok (25)",
     "MIT Technology Review": "ok (10)",
@@ -16,76 +16,138 @@
   },
   "items": [
     {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
-      "source": "Hacker News",
-      "published_at": "2026-11-16T22:58:20+00:00",
-      "excerpt": "",
-      "popularity": 529,
+      "title": "GPT\u20116.2 Astra and GPT\u20116.2 Sol",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol",
+      "source": "Simon Willison",
+      "published_at": "2026-11-17T22:38:52+00:00",
+      "excerpt": "GPT\u20116.2 Astra and GPT\u20116.2 Sol OpenAI: We\u2019re introducing GPT\u20116.2 Astra, our new frontier model for your hardest projects, and GPT\u20116.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as Claude Fable 5.2 (which was also 80% of its predecessor). 6 Astra and Fable 5 were both $10/$50. The",
       "category": "AI Tools",
-      "score": 68,
+      "score": 89,
       "reasons": [
-        "Matches ai tools terms: agent, developer tool",
+        "Matches ai tools terms: ai, llm, claude",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 529"
-      ]
-    },
-    {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-16T16:04:28+00:00",
-      "excerpt": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn\u2019t. No rule had told the agents to do\u2026",
-      "category": "AI Tools",
-      "score": 60,
-      "reasons": [
-        "Matches ai tools terms: ai, openai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "datasette 1.0a43",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette",
-      "source": "Simon Willison",
-      "published_at": "2026-11-15T23:20:27+00:00",
-      "excerpt": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method. There are a couple of security fixes, one of which I deemed deserving of a GitHub ",
-      "category": "AI Tools",
-      "score": 59,
-      "reasons": [
-        "Matches ai tools terms: claude, github",
-        "Trusted specialist source",
-        "Published this week",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
-      "source": "TechCrunch",
-      "published_at": "2026-11-16T20:07:13+00:00",
-      "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "category": "AI Tools",
-      "score": 57,
-      "reasons": [
-        "Matches ai tools terms: ai, openai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026",
       "source": "Hacker News",
-      "published_at": "2026-11-16T13:18:22+00:00",
+      "published_at": "2026-11-18T00:17:58+00:00",
       "excerpt": "",
       "popularity": 301,
       "category": "AI Tools",
-      "score": 57,
+      "score": 72,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
         "Hacker News score: 301"
+      ]
+    },
+    {
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "source": "Hacker News",
+      "published_at": "2026-11-17T17:12:06+00:00",
+      "excerpt": "",
+      "popularity": 501,
+      "category": "Indie Business",
+      "score": 72,
+      "reasons": [
+        "Matches indie business terms: revenue",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 501"
+      ]
+    },
+    {
+      "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
+      "source": "TechCrunch",
+      "published_at": "2026-11-17T17:32:25+00:00",
+      "excerpt": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, claude",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
+      "source": "Hacker News",
+      "published_at": "2026-11-17T21:16:12+00:00",
+      "excerpt": "",
+      "popularity": 154,
+      "category": "AI Tools",
+      "score": 60,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 154"
+      ]
+    },
+    {
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
+      "source": "Simon Willison",
+      "published_at": "2026-11-17T22:52:29+00:00",
+      "excerpt": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs ",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-17T17:52:10+00:00",
+      "excerpt": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an\u2026",
+      "category": "Technology",
+      "score": 53,
+      "reasons": [
+        "Matches technology terms: energy",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Maintainers don\u2019t need more AI bug reports. They need fixes.",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-17T18:29:29+00:00",
+      "excerpt": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don\u2019t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-17T18:20:40+00:00",
+      "excerpt": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: agent, github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -98,19 +160,6 @@
       "score": 52,
       "reasons": [
         "Matches ai tools terms: codex, claude, agent",
-        "Trusted specialist source"
-      ]
-    },
-    {
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "Chrome DevTools for coding agents https://developer.chrome.com/docs/devtools/agents Chrome DevTools for agents Chrome DevTools for agents ( chrome-devtools-mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI . Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. T",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, claude, agent",
         "Trusted specialist source"
       ]
     },
@@ -128,25 +177,66 @@
       ]
     },
     {
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
-      "source": "TechCrunch",
-      "published_at": "2026-11-16T15:52:19+00:00",
-      "excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Chrome DevTools for coding agents https://developer.chrome.com/docs/devtools/agents Chrome DevTools for agents Chrome DevTools for agents ( chrome-devtools-mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI . Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. T",
       "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Inference engineering for software engineers",
+      "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-11-17T16:11:23+00:00",
+      "excerpt": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive",
+      "category": "Technology",
       "score": 50,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches technology terms: gpu, inference",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Github Redesign (2019)",
+      "url": "https://tonsky.me/blog/github-redesign",
+      "source": "Lobsters",
+      "published_at": "2026-11-17T09:28:18+00:00",
+      "excerpt": "I suggest the conversation steer away from the controversial last point where he flattens the UI quite a bit to make it less \"dated\", as the rest was quite good up until that point, and that deserves being discussed. Comments",
+      "category": "Discoveries",
+      "score": 50,
+      "reasons": [
+        "Matches discoveries terms: github, design",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now",
+      "source": "TechCrunch",
+      "published_at": "2026-11-18T00:16:50+00:00",
+      "excerpt": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "category": "Indie Business",
+      "score": 50,
+      "reasons": [
+        "Matches indie business terms: revenue",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-16T13:00:00+00:00",
-      "excerpt": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,\u2026",
+      "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+      "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-17T19:00:03+00:00",
+      "excerpt": "Policymakers, technologists, and members of the public have raised concerns about the harm AI\u2019s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents. Those issues are relatively new to many people, but the IEEE Standards Association has been working for the past decade on ways to prioritize the responsible development of AI systems. In 2016 IEEE SA launched the IEEE Global Initiative for Ethi",
       "category": "AI Tools",
       "score": 49,
       "reasons": [
@@ -155,94 +245,37 @@
       ]
     },
     {
-      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-      "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-16T11:00:03+00:00",
-      "excerpt": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This webinar shows how in-line inspection and offline characterization combine into one workflow, from tool monitoring to root-cause analysis. In the first half, Dr. Bitan Chakraborty from Intel, explains how",
-      "category": "Technology",
-      "score": 49,
-      "reasons": [
-        "Matches technology terms: semiconductor, manufacturing",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Grazing sheep in fields with solar arrays",
-      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-      "source": "Hacker News",
-      "published_at": "2026-11-16T17:27:46+00:00",
-      "excerpt": "",
-      "popularity": 259,
-      "category": "Indie Business",
-      "score": 48,
-      "reasons": [
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 259"
-      ]
-    },
-    {
-      "title": "Cyber giant Infoblox confirms security incident after hackers access \u2018company information\u2019",
-      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
       "source": "TechCrunch",
-      "published_at": "2026-11-16T22:12:31+00:00",
-      "excerpt": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "published_at": "2026-11-17T19:32:11+00:00",
+      "excerpt": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
       "category": "AI Tools",
       "score": 46,
       "reasons": [
-        "Matches ai tools terms: ai, automation",
+        "Matches ai tools terms: ai, agent",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "datasette-maplibre 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
       "source": "Simon Willison",
-      "published_at": "2026-11-15T23:58:36+00:00",
-      "excerpt": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and o",
-      "category": "AI Tools",
-      "score": 44,
+      "published_at": "2026-11-17T16:48:33+00:00",
+      "excerpt": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to ",
+      "category": "Discoveries",
+      "score": 43,
       "reasons": [
-        "Matches ai tools terms: claude, github",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "Software engineering after code becomes cheap with Satya Nadella",
-      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-11-16T13:33:48+00:00",
-      "excerpt": "Microsoft CEO Satya Nadella on AI\u2019s impact on software engineering, code verification, and engineers\u2019 careers.",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches discoveries terms: database",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Migrating from GitHub to Codeberg",
-      "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg",
+      "title": "Stacked diffs with Maiao",
+      "url": "https://entropicthoughts.com/stacked-diffs-with-maiao",
       "source": "Lobsters",
-      "published_at": "2026-11-16T05:10:34+00:00",
-      "excerpt": "Comments",
-      "category": "AI Tools",
-      "score": 39,
-      "reasons": [
-        "Matches ai tools terms: github",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
-      "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1",
-      "source": "Lobsters",
-      "published_at": "2026-11-16T16:25:38+00:00",
+      "published_at": "2026-11-18T06:43:30+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -253,42 +286,16 @@
       ]
     },
     {
-      "title": "Paint in the memory of other programs",
-      "url": "https://citrons.xyz/journal/2026-04-13",
+      "title": "C\u2019s designated initializers give us named arguments",
+      "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c",
       "source": "Lobsters",
-      "published_at": "2026-11-16T03:37:36+00:00",
+      "published_at": "2026-11-17T15:58:44+00:00",
       "excerpt": "Comments",
-      "category": "AI Tools",
+      "category": "Discoveries",
       "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches discoveries terms: design",
         "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-16T18:38:47+00:00",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
-      "url": "https://spectrum.ieee.org/telesurgery-stroke",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-16T14:00:02+00:00",
-      "excerpt": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient\u2019s blood vessels. I head for what I believe to be the brain, tracking my progress on the live X-ray feed. As I imagine finding a blood clot, David Bell , the surgeon seated to my right, helpfully reminds me that every minute a stroke goes untreated, millions of brain ",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
         "Published in the last 30 hours"
       ]
     }
