@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T07:28:11.572807+00:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T07:25:43.605274+00:00",
   "total_collected": 189,
   "after_filtering": 70,
   "source_status": {
@@ -22,145 +22,146 @@
       "published_at": "2026-11-17T22:38:52+00:00",
       "excerpt": "GPT\u20116.2 Astra and GPT\u20116.2 Sol OpenAI: We\u2019re introducing GPT\u20116.2 Astra, our new frontier model for your hardest projects, and GPT\u20116.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as Claude Fable 5.2 (which was also 80% of its predecessor). 6 Astra and Fable 5 were both $10/$50. The",
       "category": "AI Tools",
-      "score": 89,
+      "score": 79,
       "reasons": [
         "Matches ai tools terms: ai, llm, claude",
+        "Trusted specialist source",
+        "Published this week",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser",
+      "source": "Simon Willison",
+      "published_at": "2026-11-18T14:44:48+00:00",
+      "excerpt": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports community events (including running PyCon US every year), and employs a small and excellent staff team to",
+      "category": "Indie Business",
+      "score": 69,
+      "reasons": [
+        "Matches indie business terms: profit, launch",
         "Trusted specialist source",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "source": "Hacker News",
-      "published_at": "2026-11-18T00:17:58+00:00",
+      "published_at": "2026-11-18T15:49:34+00:00",
       "excerpt": "",
-      "popularity": 301,
+      "popularity": 441,
       "category": "AI Tools",
-      "score": 72,
+      "score": 68,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 441"
+      ]
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "Hacker News",
+      "published_at": "2026-11-18T17:45:47+00:00",
+      "excerpt": "",
+      "popularity": 199,
+      "category": "AI Tools",
+      "score": 62,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 199"
+      ]
+    },
+    {
+      "title": "Morty \u2014 Continue your AI agent from any browser",
+      "url": "https://morty.build/",
+      "source": "Lobsters",
+      "published_at": "2026-11-19T06:44:03+00:00",
+      "excerpt": "I built a small open-source tool to solve a specific annoyance: being able to keep using the AI agent running on my machine when I\u2019m not sitting in front of it. Previously I used Tailscale + Moshi. It worked, but the experience was laggy and I had to run my own relay to make it tolerable. Other tools that appeared later were either heavyweight or closed-source \u2014 I wasn\u2019t comfortable handing my machine to something I couldn\u2019t inspect. Morty is intentionally narrow. It lets you continue a Claude C",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, claude, agent",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "source": "TechCrunch",
+      "published_at": "2026-11-18T22:58:11+00:00",
+      "excerpt": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
+      "source": "TechCrunch",
+      "published_at": "2026-11-18T17:32:10+00:00",
+      "excerpt": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "category": "AI Tools",
+      "score": 61,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Security advisories: multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string",
+      "source": "Lobsters",
+      "published_at": "2026-11-19T01:26:37+00:00",
+      "excerpt": "Comments",
+      "category": "Indie Business",
+      "score": 54,
+      "reasons": [
+        "Matches indie business terms: conversion",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-18T14:42:44+00:00",
+      "excerpt": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone\u2019s rooms. Go to the supermarket, and\u2026",
+      "category": "Indie Business",
+      "score": 53,
+      "reasons": [
+        "Matches indie business terms: revenue",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
+      "source": "Hacker News",
+      "published_at": "2026-11-18T18:49:51+00:00",
+      "excerpt": "",
+      "popularity": 234,
+      "category": "AI Tools",
+      "score": 53,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 301"
-      ]
-    },
-    {
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "source": "Hacker News",
-      "published_at": "2026-11-17T17:12:06+00:00",
-      "excerpt": "",
-      "popularity": 501,
-      "category": "Indie Business",
-      "score": 72,
-      "reasons": [
-        "Matches indie business terms: revenue",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 501"
-      ]
-    },
-    {
-      "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
-      "source": "TechCrunch",
-      "published_at": "2026-11-17T17:32:25+00:00",
-      "excerpt": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "category": "AI Tools",
-      "score": 61,
-      "reasons": [
-        "Matches ai tools terms: ai, claude",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
-      "source": "Hacker News",
-      "published_at": "2026-11-17T21:16:12+00:00",
-      "excerpt": "",
-      "popularity": 154,
-      "category": "AI Tools",
-      "score": 60,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 154"
-      ]
-    },
-    {
-      "title": "External sandboxes for coding agents",
-      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
-      "source": "Simon Willison",
-      "published_at": "2026-11-17T22:52:29+00:00",
-      "excerpt": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs ",
-      "category": "AI Tools",
-      "score": 54,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-17T17:52:10+00:00",
-      "excerpt": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand. But an\u2026",
-      "category": "Technology",
-      "score": 53,
-      "reasons": [
-        "Matches technology terms: energy",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Maintainers don\u2019t need more AI bug reports. They need fixes.",
-      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-17T18:29:29+00:00",
-      "excerpt": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don\u2019t need more AI bug reports. They need fixes. appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, github",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Building the Agent Host Protocol for sessions that continue across devices",
-      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-17T18:20:40+00:00",
-      "excerpt": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: agent, github",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "source": "GitHub Trending",
-      "published_at": null,
-      "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. https://stitch.withgoogle.com/docs/mcp/setup Stitch Design Skills A collection of agent skills and plugins for Google Stitch , following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual instal",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: codex, claude, agent",
-        "Trusted specialist source"
+        "Hacker News score: 234"
       ]
     },
     {
@@ -177,106 +178,65 @@
       ]
     },
     {
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "title": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
       "source": "GitHub Trending",
       "published_at": null,
-      "excerpt": "Chrome DevTools for coding agents https://developer.chrome.com/docs/devtools/agents Chrome DevTools for agents Chrome DevTools for agents ( chrome-devtools-mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a CLI . Both give your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis. T",
+      "excerpt": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. https://loopforge.cn English \u00b7 \u7b80\u4f53\u4e2d\u6587 Two ways to work \u00b7 Quick start \u00b7 SOPs \u00b7 Features \u00b7 Local \u00b7 FAQ \u00b7 Docs https://github.com/user-attachments/assets/8af401d9-1aae-427c-b4bc-455c12d17beb 80-second product tour (1080p, with sound). LoopForge is a self-hosted workspace where your team ships software with coding agents. D",
       "category": "AI Tools",
       "score": 52,
       "reasons": [
-        "Matches ai tools terms: ai, claude, agent",
+        "Matches ai tools terms: codex, claude, agent",
         "Trusted specialist source"
       ]
     },
     {
-      "title": "Inference engineering for software engineers",
-      "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-11-17T16:11:23+00:00",
-      "excerpt": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive",
-      "category": "Technology",
-      "score": 50,
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. https://stitch.withgoogle.com/docs/mcp/setup Stitch Design Skills A collection of agent skills and plugins for Google Stitch , following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual instal",
+      "category": "AI Tools",
+      "score": 52,
       "reasons": [
-        "Matches technology terms: gpu, inference",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Matches ai tools terms: codex, claude, agent",
+        "Trusted specialist source"
       ]
     },
     {
-      "title": "Github Redesign (2019)",
-      "url": "https://tonsky.me/blog/github-redesign",
-      "source": "Lobsters",
-      "published_at": "2026-11-17T09:28:18+00:00",
-      "excerpt": "I suggest the conversation steer away from the controversial last point where he flattens the UI quite a bit to make it less \"dated\", as the rest was quite good up until that point, and that deserves being discussed. Comments",
-      "category": "Discoveries",
-      "score": 50,
-      "reasons": [
-        "Matches discoveries terms: github, design",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now",
+      "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
       "source": "TechCrunch",
-      "published_at": "2026-11-18T00:16:50+00:00",
-      "excerpt": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "category": "Indie Business",
+      "published_at": "2026-11-18T18:04:05+00:00",
+      "excerpt": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "category": "AI Tools",
       "score": 50,
       "reasons": [
-        "Matches indie business terms: revenue",
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
-      "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
-      "source": "IEEE Spectrum",
-      "published_at": "2026-11-17T19:00:03+00:00",
-      "excerpt": "Policymakers, technologists, and members of the public have raised concerns about the harm AI\u2019s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents. Those issues are relatively new to many people, but the IEEE Standards Association has been working for the past decade on ways to prioritize the responsible development of AI systems. In 2016 IEEE SA launched the IEEE Global Initiative for Ethi",
-      "category": "AI Tools",
-      "score": 49,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
-      "source": "TechCrunch",
-      "published_at": "2026-11-17T19:32:11+00:00",
-      "excerpt": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-      "category": "AI Tools",
-      "score": 46,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
       "source": "Simon Willison",
-      "published_at": "2026-11-17T16:48:33+00:00",
-      "excerpt": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to ",
-      "category": "Discoveries",
-      "score": 43,
+      "published_at": "2026-11-17T22:52:29+00:00",
+      "excerpt": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs ",
+      "category": "AI Tools",
+      "score": 44,
       "reasons": [
-        "Matches discoveries terms: database",
+        "Matches ai tools terms: ai, agent",
         "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Published this week"
       ]
     },
     {
-      "title": "Stacked diffs with Maiao",
-      "url": "https://entropicthoughts.com/stacked-diffs-with-maiao",
-      "source": "Lobsters",
-      "published_at": "2026-11-18T06:43:30+00:00",
-      "excerpt": "Comments",
+      "title": "Software factories and code reviews with Harjot Gill",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-11-18T18:08:52+00:00",
+      "excerpt": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
@@ -286,16 +246,42 @@
       ]
     },
     {
-      "title": "C\u2019s designated initializers give us named arguments",
-      "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c",
+      "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+      "url": "https://social.anoxinon.de/@Codeberg/117636454915265360",
       "source": "Lobsters",
-      "published_at": "2026-11-17T15:58:44+00:00",
-      "excerpt": "Comments",
-      "category": "Discoveries",
+      "published_at": "2026-11-18T08:51:09+00:00",
+      "excerpt": "Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to /etc/hosts : 217.197.84.140 codeberg.org Update: it's now up again, and the above workaround is not necessary. Comments",
+      "category": "AI Tools",
       "score": 39,
       "reasons": [
-        "Matches discoveries terms: design",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-18T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. This smell startup says its AI nose is as good as a human\u2019s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes\u2014\u201cnutty,\u201d \u201cpeachy,\u201d\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human\u2019s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-18T10:20:30+00:00",
+      "excerpt": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes\u2014\u201cnutty,\u201d \u201cpeachy,\u201d \u201cmarine\u201d\u2014are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world\u2019s first foundation\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours"
       ]
     }
