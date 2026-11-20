@@ -1,85 +1,93 @@
-# Horizon Daily Radar — 2026-11-19
+# Horizon Daily Radar — 2026-11-20
 
-Collected: 189 · After filtering: 70 · Selected: 19
+Collected: 194 · After filtering: 65 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [The PSF end-of-year fundraiser](https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser) — 69/100
-Source: Simon Willison · Published: 2026-11-18T14:44:48+00:00
-Reason: Matches indie business terms: profit, launch; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [Security advisories: multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string) — 54/100
-Source: Lobsters · Published: 2026-11-19T01:26:37+00:00
-Reason: Matches indie business terms: conversion; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [The AI Hype Index: AI is everywhere](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere) — 53/100
-Source: MIT Technology Review · Published: 2026-11-18T14:42:44+00:00
-Reason: Matches indie business terms: revenue; Published in the last 30 hours; Includes concrete operating or outcome data
+### [Anthropic rival says companies can (mostly) skip the pricey models](https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models) — 50/100
+Source: TechCrunch · Published: 2026-11-20T00:26:03+00:00
+Reason: Matches indie business terms: customers; Published in the last 30 hours; Includes concrete operating or outcome data
 
 ## AI Tools
 
-### [GPT‑6.2 Astra and GPT‑6.2 Sol](https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol) — 79/100
-Source: Simon Willison · Published: 2026-11-17T22:38:52+00:00
-Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source; Published this week; Includes concrete operating or outcome data
+### [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) — 69/100
+Source: Hacker News · Published: 2026-11-19T18:35:17+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 253
 
-### [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg) — 68/100
-Source: Hacker News · Published: 2026-11-18T15:49:34+00:00
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 441
+### [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac) — 66/100
+Source: TechCrunch · Published: 2026-11-20T00:56:01+00:00
+Reason: Matches ai tools terms: ai, claude, openai; Published in the last 30 hours
 
-### [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models) — 62/100
-Source: Hacker News · Published: 2026-11-18T17:45:47+00:00
-Reason: Matches ai tools terms: ai, openai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 199
-
-### [Morty — Continue your AI agent from any browser](https://morty.build/) — 61/100
-Source: Lobsters · Published: 2026-11-19T06:44:03+00:00
-Reason: Matches ai tools terms: ai, claude, agent; Trusted specialist source; Published in the last 30 hours
-
-### [Satya Nadella predicts AI agents will reshuffle the economics of the web](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web) — 61/100
-Source: TechCrunch · Published: 2026-11-18T22:58:11+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [More banks say customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked) — 61/100
-Source: TechCrunch · Published: 2026-11-18T17:32:10+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
-
-### [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie) — 53/100
-Source: Hacker News · Published: 2026-11-18T18:49:51+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 234
-
-### [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — 52/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: ai, llm, openai; Trusted specialist source
-
-### [Tencent/LoopForge](https://github.com/Tencent/LoopForge) — 52/100
-Source: GitHub Trending · Published: Unknown
-Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source
+### [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) — 57/100
+Source: Hacker News · Published: 2026-11-19T17:30:44+00:00
+Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours; Hacker News score: 461
 
 ### [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 52/100
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source
 
-### [Google’s AI feature in Search gets its own incognito mode](https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode) — 50/100
-Source: TechCrunch · Published: 2026-11-18T18:04:05+00:00
+### [obra/superpowers](https://github.com/obra/superpowers) — 52/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source
+
+### [affaan-m/ECC](https://github.com/affaan-m/ECC) — 52/100
+Source: GitHub Trending · Published: Unknown
+Reason: Matches ai tools terms: codex, claude, agent; Trusted specialist source
+
+### [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084) — 52/100
+Source: Hacker News · Published: 2026-11-20T05:21:02+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 219
+
+### [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price) — 50/100
+Source: TechCrunch · Published: 2026-11-19T16:59:23+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [External sandboxes for coding agents](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents) — 44/100
-Source: Simon Willison · Published: 2026-11-17T22:52:29+00:00
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published this week
+### [Why a Computer Scientist Thinks Superintelligence Won’t Happen](https://spectrum.ieee.org/ai-superintelligence-debate) — 49/100
+Source: IEEE Spectrum · Published: 2026-11-19T12:00:03+00:00
+Reason: Matches ai tools terms: ai, openai; Published in the last 30 hours
 
-### [Software factories and code reviews with Harjot Gill](https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews) — 39/100
-Source: The Pragmatic Engineer · Published: 2026-11-18T18:08:52+00:00
+### [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad) — 43/100
+Source: Simon Willison · Published: 2026-11-20T02:49:57+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360) — 39/100
-Source: Lobsters · Published: 2026-11-18T08:51:09+00:00
+### [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19) — 43/100
+Source: Simon Willison · Published: 2026-11-19T20:43:57+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [The Download: AI learns to smell and hydropower struggles](https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles) — 38/100
-Source: MIT Technology Review · Published: 2026-11-18T13:10:00+00:00
+### [The Pulse: Is Amazon’s writing culture collapsing because of AI?](https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture) — 39/100
+Source: The Pragmatic Engineer · Published: 2026-11-19T17:08:59+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [Hiring a Systems Programmer for Boxem](https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem) — 39/100
+Source: Lobsters · Published: 2026-11-19T16:45:34+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [The Download: a living liver, a billion-dollar battery deal, and AI hype](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype) — 38/100
+Source: MIT Technology Review · Published: 2026-11-19T13:10:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [This smell startup says its AI nose is as good as a human’s](https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans) — 38/100
-Source: MIT Technology Review · Published: 2026-11-18T10:20:30+00:00
+### [A human liver has been kept alive outside the body for a record seven weeks](https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record) — 38/100
+Source: MIT Technology Review · Published: 2026-11-19T12:00:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
+
+## Technology
+
+### [Type inference and narrowing with reverse arrows](https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows) — 54/100
+Source: Lobsters · Published: 2026-11-19T13:34:58+00:00
+Reason: Matches technology terms: inference; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [What a billion-dollar deal says about the US battery market](https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal) — 49/100
+Source: MIT Technology Review · Published: 2026-11-19T11:00:00+00:00
+Reason: Matches technology terms: energy, battery; Published in the last 30 hours
+
+## Discoveries
+
+### [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together) — 52/100
+Source: GitHub Blog · Published: 2026-11-19T16:00:00+00:00
+Reason: Matches discoveries terms: open source, github; Trusted specialist source; Published in the last 30 hours
+
+### [Design for Understandability](https://jschuster.org/blog/2026/11/19/design-for-understandability) — 39/100
+Source: Lobsters · Published: 2026-11-19T13:07:34+00:00
+Reason: Matches discoveries terms: design; Trusted specialist source; Published in the last 30 hours
