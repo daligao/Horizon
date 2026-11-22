@@ -1,32 +1,20 @@
-# Horizon Daily Radar — 2026-11-21
+# Horizon Daily Radar — 2026-11-22
 
-Collected: 190 · After filtering: 57 · Selected: 16
+Collected: 189 · After filtering: 44 · Selected: 13
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [Anthropic rival says companies can (mostly) skip the pricey models](https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models) — 40/100
-Source: TechCrunch · Published: 2026-11-20T00:26:03+00:00
-Reason: Matches indie business terms: customers; Published this week; Includes concrete operating or outcome data
-
-### [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update) — 38/100
-Source: MIT Technology Review · Published: 2026-11-20T18:15:15+00:00
-Reason: Matches indie business terms: profit; Published in the last 30 hours
+### [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet) — 33/100
+Source: Lobsters · Published: 2026-11-21T15:03:28+00:00
+Reason: Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data
 
 ## AI Tools
 
-### [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac) — 56/100
-Source: TechCrunch · Published: 2026-11-20T00:56:01+00:00
-Reason: Matches ai tools terms: ai, claude, openai; Published this week
-
-### [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off) — 54/100
-Source: Hacker News · Published: 2026-11-20T13:29:59+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 251
-
-### [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS) — 53/100
-Source: Hacker News · Published: 2026-11-21T05:38:01+00:00
-Reason: Matches ai tools terms: ai, agent; Trusted specialist source; Published in the last 30 hours; Hacker News score: 14
+### [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io/) — 67/100
+Source: Hacker News · Published: 2026-11-21T20:47:41+00:00
+Reason: Matches ai tools terms: ai, agent, mcp; Trusted specialist source; Published in the last 30 hours; Hacker News score: 63
 
 ### [obra/superpowers](https://github.com/obra/superpowers) — 52/100
 Source: GitHub Trending · Published: Unknown
@@ -40,36 +28,38 @@ Reason: Matches ai tools terms: ai, llm, agent; Trusted specialist source
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil) — 43/100
+### [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance) — 50/100
+Source: TechCrunch · Published: 2026-11-21T21:37:10+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) — 47/100
+Source: Hacker News · Published: 2026-11-20T21:03:12+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published this week; Hacker News score: 868
+
+### [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages) — 46/100
+Source: TechCrunch · Published: 2026-11-21T17:00:00+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
+
+### [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate) — 39/100
+Source: Lobsters · Published: 2026-11-22T02:03:46+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil) — 39/100
+Source: Lobsters · Published: 2026-11-21T13:57:53+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil) — 33/100
 Source: Simon Willison · Published: 2026-11-20T19:21:49+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
-
-### [Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge) — 43/100
-Source: Simon Willison · Published: 2026-11-20T16:30:48+00:00
-Reason: Matches ai tools terms: claude; Trusted specialist source; Published in the last 30 hours
-
-### [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad) — 43/100
-Source: Simon Willison · Published: 2026-11-20T02:49:57+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
-
-### [Levent Alpoge Claims Proof of Riemann Hypothesis](https://alpo.ge/remark.pdf) — 39/100
-Source: Lobsters · Published: 2026-11-20T14:46:49+00:00
-Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
-
-### [The Download: inside the quest to make our minds immortal](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal) — 38/100
-Source: MIT Technology Review · Published: 2026-11-20T13:10:00+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
-
-### [I Don’t Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes) — 38/100
-Source: IEEE Spectrum · Published: 2026-11-20T14:00:03+00:00
-Reason: Matches ai tools terms: ai; Published in the last 30 hours
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published this week
 
 ## Technology
 
-### [Vibecoding an inference chip](https://ankitg.me/blog/vibecoding-inference-chip) — 59/100
-Source: Hacker News · Published: 2026-11-20T18:15:16+00:00
-Reason: Matches technology terms: chip, inference; Trusted specialist source; Published in the last 30 hours; Hacker News score: 137
+### [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers) — 46/100
+Source: Hacker News · Published: 2026-11-22T02:14:14+00:00
+Reason: Matches technology terms: inference; Trusted specialist source; Published in the last 30 hours; Hacker News score: 96
 
-### [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing) — 46/100
-Source: TechCrunch · Published: 2026-11-20T17:40:01+00:00
-Reason: Matches technology terms: chip, space; Published in the last 30 hours
+## Discoveries
+
+### [Trump says reported FBI database hack is ‘not good’](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good) — 35/100
+Source: TechCrunch · Published: 2026-11-21T18:44:53+00:00
+Reason: Matches discoveries terms: database; Published in the last 30 hours
