@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T06:47:33.101205+00:00",
-  "total_collected": 189,
-  "after_filtering": 44,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T07:37:52.431867+00:00",
+  "total_collected": 190,
+  "after_filtering": 48,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
@@ -12,23 +12,56 @@
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (28)"
+    "Hacker News": "ok (29)"
   },
   "items": [
     {
-      "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io/",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
       "source": "Hacker News",
-      "published_at": "2026-11-21T20:47:41+00:00",
+      "published_at": "2026-11-22T13:56:58+00:00",
       "excerpt": "",
-      "popularity": 63,
+      "popularity": 309,
       "category": "AI Tools",
-      "score": 67,
+      "score": 68,
       "reasons": [
-        "Matches ai tools terms: ai, agent, mcp",
+        "Matches ai tools terms: llm, agent",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 63"
+        "Hacker News score: 309"
+      ]
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "source": "Hacker News",
+      "published_at": "2026-11-23T03:49:24+00:00",
+      "excerpt": "",
+      "popularity": 183,
+      "category": "Technology",
+      "score": 66,
+      "reasons": [
+        "Matches technology terms: space",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 183"
+      ]
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T21:01:16+00:00",
+      "excerpt": "",
+      "popularity": 429,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 429"
       ]
     },
     {
@@ -71,62 +104,58 @@
       ]
     },
     {
+      "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+      "source": "TechCrunch",
+      "published_at": "2026-11-22T21:14:07+00:00",
+      "excerpt": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "category": "AI Tools",
+      "score": 46,
+      "reasons": [
+        "Matches ai tools terms: ai, openai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling",
+      "source": "Simon Willison",
+      "published_at": "2026-11-22T19:45:06+00:00",
+      "excerpt": "Tool: Select Styling Specimens I got frustrated at how HTML boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance : none ; color",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
       "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
       "source": "TechCrunch",
       "published_at": "2026-11-21T21:37:10+00:00",
       "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
       "category": "AI Tools",
-      "score": 50,
+      "score": 40,
       "reasons": [
         "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
+        "Published this week",
         "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "source": "Hacker News",
-      "published_at": "2026-11-20T21:03:12+00:00",
-      "excerpt": "",
-      "popularity": 868,
+      "title": "GitHub Actions accepts invalid YAML",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml",
+      "source": "Lobsters",
+      "published_at": "2026-11-22T21:49:18+00:00",
+      "excerpt": "Comments",
       "category": "AI Tools",
-      "score": 47,
+      "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai",
+        "Matches ai tools terms: github",
         "Trusted specialist source",
-        "Published this week",
-        "Hacker News score: 868"
-      ]
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "source": "TechCrunch",
-      "published_at": "2026-11-21T17:00:00+00:00",
-      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "category": "AI Tools",
-      "score": 46,
-      "reasons": [
-        "Matches ai tools terms: ai, agent",
         "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-      "source": "Hacker News",
-      "published_at": "2026-11-22T02:14:14+00:00",
-      "excerpt": "",
-      "popularity": 96,
-      "category": "Technology",
-      "score": 46,
-      "reasons": [
-        "Matches technology terms: inference",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 96"
       ]
     },
     {
@@ -144,11 +173,11 @@
       ]
     },
     {
-      "title": "C++26 is done (again)! \u2014 Trip report: November 2026 ISO C++ standards meeting (B\u00fazios, Brazil)",
-      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil",
+      "title": "Calculate radio link placement and node amount for your city's mesh network",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
       "source": "Lobsters",
-      "published_at": "2026-11-21T13:57:53+00:00",
-      "excerpt": "Comments",
+      "published_at": "2026-11-22T18:17:44+00:00",
+      "excerpt": "FSPL + Delta-Bullington based local-first WASM radio mesh network calculator with the end goal of making calls over mesh networks possible without pissing off anybody in the process (yes, I'm talking about you, Meshtastic maintainers). Feel free to tell me how this idea does or doesn't make sense and I'll continue vibing away in the meantime. Peace! source code Comments",
       "category": "AI Tools",
       "score": 39,
       "reasons": [
@@ -158,44 +187,16 @@
       ]
     },
     {
-      "title": "Trump says reported FBI database hack is \u2018not good\u2019",
-      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
       "source": "TechCrunch",
-      "published_at": "2026-11-21T18:44:53+00:00",
-      "excerpt": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "category": "Discoveries",
+      "published_at": "2026-11-23T01:25:53+00:00",
+      "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "category": "AI Tools",
       "score": 35,
       "reasons": [
-        "Matches discoveries terms: database",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Quoting Ravi Vakil",
-      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil",
-      "source": "Simon Willison",
-      "published_at": "2026-11-20T19:21:49+00:00",
-      "excerpt": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. \u2014 Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags:",
-      "category": "AI Tools",
-      "score": 33,
-      "reasons": [
         "Matches ai tools terms: ai",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet",
-      "source": "Lobsters",
-      "published_at": "2026-11-21T15:03:28+00:00",
-      "excerpt": "Comments",
-      "category": "Indie Business",
-      "score": 33,
-      "reasons": [
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Published in the last 30 hours"
       ]
     }
   ]
