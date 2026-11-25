@@ -1,32 +1,44 @@
-# Horizon Daily Radar — 2026-11-24
+# Horizon Daily Radar — 2026-11-25
 
-Collected: 191 · After filtering: 56 · Selected: 16
+Collected: 189 · After filtering: 65 · Selected: 20
 
 Rules-only ranking; no AI summary or external AI service was used.
 
 ## Indie Business
 
-### [The Download: AI’s judgment problem and carbon removal’s crop threat](https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat) — 38/100
-Source: MIT Technology Review · Published: 2026-11-23T13:10:00+00:00
-Reason: Matches indie business terms: profit; Published in the last 30 hours
-
-### [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement) — 36/100
-Source: Hacker News · Published: 2026-11-23T22:32:29+00:00
-Reason: Trusted specialist source; Published in the last 30 hours; Hacker News score: 465
+### [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas) — 60/100
+Source: Hacker News · Published: 2026-11-25T03:28:06+00:00
+Reason: Matches indie business terms: profit; Trusted specialist source; Published in the last 30 hours; Includes concrete operating or outcome data; Hacker News score: 60
 
 ## AI Tools
 
-### [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes) — 66/100
-Source: TechCrunch · Published: 2026-11-23T22:05:50+00:00
-Reason: Matches ai tools terms: ai, claude, agent; Published in the last 30 hours
+### [Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points) — 74/100
+Source: Simon Willison · Published: 2026-11-24T23:02:07+00:00
+Reason: Matches ai tools terms: ai, llm, claude; Trusted specialist source; Published in the last 30 hours
 
 ### [datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts) — 65/100
 Source: Simon Willison · Published: 2026-11-24T04:24:29+00:00
 Reason: Matches ai tools terms: ai, agent, github; Trusted specialist source; Published in the last 30 hours
 
-### [CrowdStrike to acquire Zscaler for $44 billion](https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion) — 61/100
-Source: TechCrunch · Published: 2026-11-23T16:20:11+00:00
+### [Raising the stakes for enterprise networks with AI modernization](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization) — 64/100
+Source: MIT Technology Review · Published: 2026-11-24T15:15:16+00:00
 Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse) — 61/100
+Source: TechCrunch · Published: 2026-11-24T21:32:38+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms) — 61/100
+Source: TechCrunch · Published: 2026-11-24T17:00:00+00:00
+Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours; Includes concrete operating or outcome data
+
+### [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) — 57/100
+Source: Hacker News · Published: 2026-11-24T20:08:03+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 437
+
+### [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) — 56/100
+Source: Hacker News · Published: 2026-11-24T16:32:17+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours; Hacker News score: 282
 
 ### [obra/superpowers](https://github.com/obra/superpowers) — 52/100
 Source: GitHub Trending · Published: Unknown
@@ -40,36 +52,40 @@ Reason: Matches ai tools terms: ai, llm, agent; Trusted specialist source
 Source: GitHub Trending · Published: Unknown
 Reason: Matches ai tools terms: ai, codex, claude; Trusted specialist source
 
-### [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios) — 46/100
-Source: TechCrunch · Published: 2026-11-23T22:02:05+00:00
-Reason: Matches ai tools terms: ai, agent; Published in the last 30 hours
+### [Maple raises $5.3M to build AI products that protect your data, even from itself](https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself) — 50/100
+Source: TechCrunch · Published: 2026-11-24T21:19:52+00:00
+Reason: Matches ai tools terms: ai; Published in the last 30 hours; Includes concrete operating or outcome data
 
-### [datasette-charts 0.1a0](https://simonwillison.net/2026/Nov/23/datasette-charts) — 44/100
-Source: Simon Willison · Published: 2026-11-23T00:37:20+00:00
-Reason: Matches ai tools terms: ai, claude; Trusted specialist source; Published this week
-
-### [Latent Introspection: LLMs Can Detect Prior Concept Injections](https://arxiv.org/abs/2602.20031) — 44/100
-Source: Hacker News · Published: 2026-11-23T22:29:48+00:00
-Reason: Matches ai tools terms: llm; Trusted specialist source; Published in the last 30 hours; Hacker News score: 59
-
-### [datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent) — 43/100
-Source: Simon Willison · Published: 2026-11-24T03:45:57+00:00
-Reason: Matches ai tools terms: agent; Trusted specialist source; Published in the last 30 hours
-
-### [Quality IMAP, Part 2: Mailbox Concurrency](https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2) — 39/100
-Source: Lobsters · Published: 2026-11-23T11:05:08+00:00
+### [GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery) — 43/100
+Source: Simon Willison · Published: 2026-11-24T16:53:59+00:00
 Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
 
-### [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument) — 38/100
-Source: MIT Technology Review · Published: 2026-11-23T17:36:08+00:00
+### [These are the gifts developers will actually want](https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want) — 41/100
+Source: GitHub Blog · Published: 2026-11-24T16:00:00+00:00
+Reason: Matches ai tools terms: github; Trusted specialist source; Published in the last 30 hours
+
+### [The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge) — 39/100
+Source: The Pragmatic Engineer · Published: 2026-11-24T19:16:38+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [Marginalia Search, Money, C++, Rust, AI, stuff](https://www.marginalia.nu/log/a_141_marginalia_update) — 39/100
+Source: Lobsters · Published: 2026-11-25T06:20:29+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [Dutch data protection authority advises against purchasing AI camera glasses](https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders) — 39/100
+Source: Lobsters · Published: 2026-11-25T00:02:36+00:00
+Reason: Matches ai tools terms: ai; Trusted specialist source; Published in the last 30 hours
+
+### [The Download: AI’s gas power boom and a consciousness reality check](https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness) — 38/100
+Source: MIT Technology Review · Published: 2026-11-24T13:10:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-### [Why using rocks for carbon removal could eventually reduce crop growth](https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth) — 38/100
-Source: MIT Technology Review · Published: 2026-11-23T11:00:00+00:00
+### [Data centers are getting their own natural gas power plants](https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas) — 38/100
+Source: MIT Technology Review · Published: 2026-11-24T11:00:00+00:00
 Reason: Matches ai tools terms: ai; Published in the last 30 hours
 
-## Technology
+## Discoveries
 
-### [GPUI is getting its own repository](https://github.com/zed-industries/gpui) — 54/100
-Source: Hacker News · Published: 2026-11-23T20:52:54+00:00
-Reason: Matches technology terms: gpu; Trusted specialist source; Published in the last 30 hours; Hacker News score: 252
+### [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem) — 39/100
+Source: Lobsters · Published: 2026-11-24T17:45:29+00:00
+Reason: Matches discoveries terms: open source; Trusted specialist source; Published in the last 30 hours

@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T09:54:00.429117+00:00",
-  "total_collected": 191,
-  "after_filtering": 56,
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T08:33:56.691372+00:00",
+  "total_collected": 189,
+  "after_filtering": 65,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
@@ -12,19 +12,20 @@
     "MIT Technology Review": "ok (10)",
     "IEEE Spectrum": "ok (30)",
     "TechCrunch": "ok (20)",
-    "Hacker News": "ok (30)"
+    "Hacker News": "ok (28)"
   },
   "items": [
     {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "source": "TechCrunch",
-      "published_at": "2026-11-23T22:05:50+00:00",
-      "excerpt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "title": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+      "source": "Simon Willison",
+      "published_at": "2026-11-24T23:02:07+00:00",
+      "excerpt": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today, November 24th 2026, is the one year anniversary of the release of Claude Opus 4.5 . With hindsight, this w",
       "category": "AI Tools",
-      "score": 66,
+      "score": 74,
       "reasons": [
-        "Matches ai tools terms: ai, claude, agent",
+        "Matches ai tools terms: ai, llm, claude",
+        "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
@@ -43,11 +44,25 @@
       ]
     },
     {
-      "title": "CrowdStrike to acquire Zscaler for $44 billion",
-      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-24T15:15:16+00:00",
+      "excerpt": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As\u2026",
+      "category": "AI Tools",
+      "score": 64,
+      "reasons": [
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
       "source": "TechCrunch",
-      "published_at": "2026-11-23T16:20:11+00:00",
-      "excerpt": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "published_at": "2026-11-24T21:32:38+00:00",
+      "excerpt": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
       "category": "AI Tools",
       "score": 61,
       "reasons": [
@@ -57,19 +72,66 @@
       ]
     },
     {
-      "title": "GPUI is getting its own repository",
-      "url": "https://github.com/zed-industries/gpui",
-      "source": "Hacker News",
-      "published_at": "2026-11-23T20:52:54+00:00",
-      "excerpt": "",
-      "popularity": 252,
-      "category": "Technology",
-      "score": 54,
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "source": "TechCrunch",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "excerpt": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "category": "AI Tools",
+      "score": 61,
       "reasons": [
-        "Matches technology terms: gpu",
+        "Matches ai tools terms: ai, agent",
+        "Published in the last 30 hours",
+        "Includes concrete operating or outcome data"
+      ]
+    },
+    {
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T03:28:06+00:00",
+      "excerpt": "",
+      "popularity": 60,
+      "category": "Indie Business",
+      "score": 60,
+      "reasons": [
+        "Matches indie business terms: profit",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 252"
+        "Includes concrete operating or outcome data",
+        "Hacker News score: 60"
+      ]
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T20:08:03+00:00",
+      "excerpt": "",
+      "popularity": 437,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 437"
+      ]
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T16:32:17+00:00",
+      "excerpt": "",
+      "popularity": 282,
+      "category": "AI Tools",
+      "score": 56,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 282"
       ]
     },
     {
@@ -112,67 +174,66 @@
       ]
     },
     {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
       "source": "TechCrunch",
-      "published_at": "2026-11-23T22:02:05+00:00",
-      "excerpt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "published_at": "2026-11-24T21:19:52+00:00",
+      "excerpt": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
       "category": "AI Tools",
-      "score": 46,
+      "score": 50,
       "reasons": [
-        "Matches ai tools terms: ai, agent",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "datasette-charts 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts",
-      "source": "Simon Willison",
-      "published_at": "2026-11-23T00:37:20+00:00",
-      "excerpt": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It looks like this: The new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several different chart types (using vendored D3 , Observable Plot , and topojson-client ), each with a set of ",
-      "category": "AI Tools",
-      "score": 44,
-      "reasons": [
-        "Matches ai tools terms: ai, claude",
-        "Trusted specialist source",
-        "Published this week"
-      ]
-    },
-    {
-      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "url": "https://arxiv.org/abs/2602.20031",
-      "source": "Hacker News",
-      "published_at": "2026-11-23T22:29:48+00:00",
-      "excerpt": "",
-      "popularity": 59,
-      "category": "AI Tools",
-      "score": 44,
-      "reasons": [
-        "Matches ai tools terms: llm",
-        "Trusted specialist source",
+        "Matches ai tools terms: ai",
         "Published in the last 30 hours",
-        "Hacker News score: 59"
+        "Includes concrete operating or outcome data"
       ]
     },
     {
-      "title": "datasette-agent 0.7a1",
-      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
       "source": "Simon Willison",
-      "published_at": "2026-11-24T03:45:57+00:00",
-      "excerpt": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release . Tags: datasette-agent , data",
+      "published_at": "2026-11-24T16:53:59+00:00",
+      "excerpt": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale\u2019s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. To do so, it discovered a little known source in a paper archive, predicted t",
       "category": "AI Tools",
       "score": 43,
       "reasons": [
-        "Matches ai tools terms: agent",
+        "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "Quality IMAP, Part 2: Mailbox Concurrency",
-      "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2",
+      "title": "These are the gifts developers will actually want",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-24T16:00:00+00:00",
+      "excerpt": "The developer you're shopping for hasn\u2019t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
+      "category": "AI Tools",
+      "score": 41,
+      "reasons": [
+        "Matches ai tools terms: github",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+      "source": "The Pragmatic Engineer",
+      "published_at": "2026-11-24T19:16:38+00:00",
+      "excerpt": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update",
       "source": "Lobsters",
-      "published_at": "2026-11-23T11:05:08+00:00",
+      "published_at": "2026-11-25T06:20:29+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -183,57 +244,57 @@
       ]
     },
     {
-      "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-23T17:36:08+00:00",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given \u201cthe way we approach model sentience and moral\u2026",
-      "category": "AI Tools",
-      "score": 38,
+      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+      "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem",
+      "source": "Lobsters",
+      "published_at": "2026-11-24T17:45:29+00:00",
+      "excerpt": "Comments",
+      "category": "Discoveries",
+      "score": 39,
       "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "The Download: AI\u2019s judgment problem and carbon removal\u2019s crop threat",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-23T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially\u2014but models aren\u2019t as good\u2026",
-      "category": "Indie Business",
-      "score": 38,
-      "reasons": [
-        "Matches indie business terms: profit",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-23T11:00:00+00:00",
-      "excerpt": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models\u2026",
-      "category": "AI Tools",
-      "score": 38,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement",
-      "source": "Hacker News",
-      "published_at": "2026-11-23T22:32:29+00:00",
-      "excerpt": "",
-      "popularity": 465,
-      "category": "Indie Business",
-      "score": 36,
-      "reasons": [
+        "Matches discoveries terms: open source",
         "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Hacker News score: 465"
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Dutch data protection authority advises against purchasing AI camera glasses",
+      "url": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
+      "source": "Lobsters",
+      "published_at": "2026-11-25T00:02:36+00:00",
+      "excerpt": "related: Nearby Glasses (smart glasses detector android app) Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: AI\u2019s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-24T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-24T11:00:00+00:00",
+      "excerpt": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid\u2014a wait that could last as long as a decade. Some developers aren\u2019t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI\u2019s\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
       ]
     }
   ]
