@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T08:33:05.997383+00:00",
+  "total_collected": 190,
+  "after_filtering": 58,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (16)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (29)"
+  },
+  "items": [
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T09:44:23+00:00",
+      "excerpt": "",
+      "popularity": 322,
+      "category": "AI Tools",
+      "score": 79,
+      "reasons": [
+        "Matches ai tools terms: ai, agent, mcp",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 322"
+      ]
+    },
+    {
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T19:04:50+00:00",
+      "excerpt": "",
+      "popularity": 72,
+      "category": "AI Tools",
+      "score": 56,
+      "reasons": [
+        "Matches ai tools terms: ai, machine learning",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 72"
+      ]
+    },
+    {
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "source": "Simon Willison",
+      "published_at": "2026-11-26T15:09:31+00:00",
+      "excerpt": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude . \u2014 Jack Despain Zhou , Spitting in the Face of Glaude Tags: ai-mis",
+      "category": "AI Tools",
+      "score": 54,
+      "reasons": [
+        "Matches ai tools terms: ai, claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T05:37:51+00:00",
+      "excerpt": "",
+      "popularity": 237,
+      "category": "AI Tools",
+      "score": 53,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 237"
+      ]
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor Devin CLI Factory Droid Gemini CLI GitHub Copilot CLI Grok Build CLI Kimi Code OpenCode Pi Qwen Code H",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: codex, claude, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "\ud83e\udde0 \u4e24\u5c0f\u65f6\u4ece 0 \u8bad\u51fa\u4f60\u7684 64M \u5927\u6a21\u578b\u3002Train your own 64M LLM from scratch in 2 hours. https://jingyaogong.github.io/minimind \"\u5927\u9053\u81f3\u7b80\" \u4e2d\u6587 | English \u6b64\u5f00\u6e90\u9879\u76ee\u65e8\u5728\u5b8c\u5168\u4ece 0 \u5f00\u59cb\uff0c\u4ec5\u7528 3 \u5757\u94b1\u6210\u672c\u4e0e 2 \u5c0f\u65f6\u8bad\u7ec3\u65f6\u95f4\uff0c\u5373\u53ef\u8bad\u7ec3\u51fa\u89c4\u6a21\u7ea6\u4e3a 64M \u7684\u8d85\u5c0f\u8bed\u8a00\u6a21\u578b MiniMind\u3002 MiniMind \u7cfb\u5217\u6781\u5176\u8f7b\u91cf\uff0c\u4e3b\u7ebf\u6700\u5c0f\u7248\u672c\u4f53\u79ef\u7ea6\u4e3a GPT-3 \u7684 $\\frac{1}{2700}$\uff0c\u529b\u6c42\u8ba9\u666e\u901a\u4e2a\u4eba GPU \u4e5f\u80fd\u5feb\u901f\u5b8c\u6210\u8bad\u7ec3\u4e0e\u590d\u73b0\u3002 \u9879\u76ee\u540c\u65f6\u5f00\u6e90\u4e86\u5927\u6a21\u578b\u7684\u6781\u7b80\u7ed3\u6784\u4e0e\u5b8c\u6574\u8bad\u7ec3\u94fe\u8def\uff0c\u8986\u76d6 MoE\u3001\u6570\u636e\u6e05\u6d17\u3001\u9884\u8bad\u7ec3\uff08Pretrain\uff09\u3001\u76d1\u7763\u5fae\u8c03\uff08SFT\uff09\u3001LoRA\u3001RLHF\uff08DPO\uff09\u3001RLAIF\uff08PPO / GRPO / CISPO\uff09\u3001Tool Use\u3001Agentic RL\u3001\u81ea\u9002\u5e94\u601d\u8003\u4e0e\u6a21\u578b\u84b8\u998f\u7b49\u5168\u8fc7\u7a0b\u4ee3\u7801\u3002 MiniMind \u540c\u65f6\u62d3\u5c55\u4e86\u89c6\u89c9\u6a21\u6001\u6a21\u578b MiniMind-V \u3001\u591a\u6a21\u6001 Omni \u6a21\u578b MiniMind-O \u3001\u6269\u6563\u8bed\u8a00\u6a21\u578b\uff08MiniMind-dLM\uff09\u3001\u7ebf\u6027\u6a21\u578b\uff08MiniM",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. https://diagramdesign.dev An agent skill that draws diagrams as one self-contained HTML + SVG file, in your brand. 52 diagram types. No shadows. No Mermaid slop. Website \u00b7 Gallery \u00b7 Changelog Install \u00b7 What it makes \u00b7 Quickstart \u00b7 Match your brand \u00b7 Import \u00b7 Export \u00b7 Contributing npx skills add cathrynlavery/diagram-desig",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "source": "TechCrunch",
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "category": "Technology",
+      "score": 46,
+      "reasons": [
+        "Matches technology terms: chip, manufacturing",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+      "source": "Simon Willison",
+      "published_at": "2026-11-26T06:08:25+00:00",
+      "excerpt": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the backup API or VACUUM INTO . In both cases you need enough disk space to create a duplicate copy of your",
+      "category": "Technology",
+      "score": 43,
+      "reasons": [
+        "Matches technology terms: space",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
+      "source": "Simon Willison",
+      "published_at": "2026-11-26T05:08:46+00:00",
+      "excerpt": "My comment on The New York Times warns photographers not to update Photoshop over AI features \u2014 Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that. He did spend a bunch of time trying to find the best possible",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Taking Email Back",
+      "url": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
+      "source": "Lobsters",
+      "published_at": "2026-11-26T19:51:21+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language",
+      "source": "Lobsters",
+      "published_at": "2026-11-26T20:06:50+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Lobsters",
+      "published_at": "2026-11-27T01:50:42+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: Better bionic hands and AI\u2019s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-26T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The next generation of bionic hands is here\u2014and they can feel Avi Davidson lost his left hand as a teenager. Since then, he\u2019s cycled through a few prosthetics. But his latest\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not",
+      "source": "TechCrunch",
+      "published_at": "2026-11-26T20:00:00+00:00",
+      "excerpt": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "category": "AI Tools",
+      "score": 35,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone",
+      "source": "TechCrunch",
+      "published_at": "2026-11-26T17:00:00+00:00",
+      "excerpt": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "category": "AI Tools",
+      "score": 35,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    }
+  ]
+}
