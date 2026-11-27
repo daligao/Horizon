@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T08:16:58.204283+00:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T08:33:05.997383+00:00",
   "total_collected": 190,
-  "after_filtering": 60,
+  "after_filtering": 58,
   "source_status": {
     "Simon Willison": "ok (30)",
     "GitHub Blog": "ok (10)",
@@ -16,123 +16,65 @@
   },
   "items": [
     {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
       "source": "Hacker News",
-      "published_at": "2026-11-26T03:36:58+00:00",
+      "published_at": "2026-11-26T09:44:23+00:00",
       "excerpt": "",
-      "popularity": 190,
+      "popularity": 322,
       "category": "AI Tools",
-      "score": 77,
+      "score": 79,
       "reasons": [
-        "Matches ai tools terms: ai, openai",
+        "Matches ai tools terms: ai, agent, mcp",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 190"
+        "Hacker News score: 322"
       ]
     },
     {
-      "title": "Three LLM inflection points in twelve months",
-      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
-      "source": "Simon Willison",
-      "published_at": "2026-11-24T23:02:07+00:00",
-      "excerpt": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today, November 24th 2026, is the one year anniversary of the release of Claude Opus 4.5 . With hindsight, this w",
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T19:04:50+00:00",
+      "excerpt": "",
+      "popularity": 72,
       "category": "AI Tools",
-      "score": 64,
+      "score": 56,
       "reasons": [
-        "Matches ai tools terms: ai, llm, claude",
+        "Matches ai tools terms: ai, machine learning",
         "Trusted specialist source",
-        "Published this week"
+        "Published in the last 30 hours",
+        "Hacker News score: 72"
       ]
     },
     {
-      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
-      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
-      "source": "The Pragmatic Engineer",
-      "published_at": "2026-11-25T17:31:32+00:00",
-      "excerpt": "Katelyn Lesse explains how Anthropic rewrote Claude\u2019s API in Rust and how AI agents are changing engineering at the company.",
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "source": "Simon Willison",
+      "published_at": "2026-11-26T15:09:31+00:00",
+      "excerpt": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude . \u2014 Jack Despain Zhou , Spitting in the Face of Glaude Tags: ai-mis",
       "category": "AI Tools",
-      "score": 61,
+      "score": 54,
       "reasons": [
-        "Matches ai tools terms: ai, claude, agent",
+        "Matches ai tools terms: ai, claude",
         "Trusted specialist source",
         "Published in the last 30 hours"
       ]
     },
     {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
-      "source": "TechCrunch",
-      "published_at": "2026-11-25T20:03:27+00:00",
-      "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "category": "AI Tools",
-      "score": 61,
-      "reasons": [
-        "Matches ai tools terms: ai, openai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit",
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
       "source": "Hacker News",
-      "published_at": "2026-11-25T22:12:25+00:00",
+      "published_at": "2026-11-26T05:37:51+00:00",
       "excerpt": "",
-      "popularity": 91,
-      "category": "Indie Business",
-      "score": 61,
-      "reasons": [
-        "Matches indie business terms: profit",
-        "Trusted specialist source",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data",
-        "Hacker News score: 91"
-      ]
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "Hacker News",
-      "published_at": "2026-11-25T21:18:02+00:00",
-      "excerpt": "",
-      "popularity": 342,
+      "popularity": 237,
       "category": "AI Tools",
-      "score": 57,
+      "score": 53,
       "reasons": [
         "Matches ai tools terms: ai",
         "Trusted specialist source",
         "Published in the last 30 hours",
-        "Hacker News score: 342"
-      ]
-    },
-    {
-      "title": "Art of play in the age of AI",
-      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-25T16:00:00+00:00",
-      "excerpt": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: ai, github",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "How to choose the next safe step in application modernization",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-25T15:00:00+00:00",
-      "excerpt": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
-      "category": "AI Tools",
-      "score": 52,
-      "reasons": [
-        "Matches ai tools terms: agent, github",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
+        "Hacker News score: 237"
       ]
     },
     {
@@ -175,31 +117,16 @@
       ]
     },
     {
-      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
       "source": "TechCrunch",
-      "published_at": "2026-11-25T18:49:52+00:00",
-      "excerpt": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
-      "category": "Indie Business",
-      "score": 50,
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "category": "Technology",
+      "score": 46,
       "reasons": [
-        "Matches indie business terms: customers",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
-      ]
-    },
-    {
-      "title": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-      "source": "TechCrunch",
-      "published_at": "2026-11-25T17:35:58+00:00",
-      "excerpt": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-      "category": "AI Tools",
-      "score": 50,
-      "reasons": [
-        "Matches ai tools terms: ai",
-        "Published in the last 30 hours",
-        "Includes concrete operating or outcome data"
+        "Matches technology terms: chip, manufacturing",
+        "Published in the last 30 hours"
       ]
     },
     {
@@ -217,11 +144,11 @@
       ]
     },
     {
-      "title": "Quoting Scott Aaronson",
-      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
       "source": "Simon Willison",
-      "published_at": "2026-11-25T23:26:32+00:00",
-      "excerpt": "It\u2019s now obvious that we\u2019ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we\u2019d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoretic universe, and the whole universe of mathematical truth beyond it, has now improved. \u2014 Scott Aarons",
+      "published_at": "2026-11-26T05:08:46+00:00",
+      "excerpt": "My comment on The New York Times warns photographers not to update Photoshop over AI features \u2014 Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that. He did spend a bunch of time trying to find the best possible",
       "category": "AI Tools",
       "score": 43,
       "reasons": [
@@ -231,10 +158,10 @@
       ]
     },
     {
-      "title": "Scott Aaronson on recent complexity theory AI achievements",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "title": "Taking Email Back",
+      "url": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
       "source": "Lobsters",
-      "published_at": "2026-11-25T21:52:52+00:00",
+      "published_at": "2026-11-26T19:51:21+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -245,24 +172,10 @@
       ]
     },
     {
-      "title": "Entering the Geminispace",
-      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language",
       "source": "Lobsters",
-      "published_at": "2026-11-25T22:43:05+00:00",
-      "excerpt": "Comments",
-      "category": "Technology",
-      "score": 39,
-      "reasons": [
-        "Matches technology terms: space",
-        "Trusted specialist source",
-        "Published in the last 30 hours"
-      ]
-    },
-    {
-      "title": "Optimizing Rustc's next trait solver",
-      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
-      "source": "Lobsters",
-      "published_at": "2026-11-25T13:09:22+00:00",
+      "published_at": "2026-11-26T20:06:50+00:00",
       "excerpt": "Comments",
       "category": "AI Tools",
       "score": 39,
@@ -273,11 +186,25 @@
       ]
     },
     {
-      "title": "How data centers are driving a US natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Lobsters",
+      "published_at": "2026-11-27T01:50:42+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: Better bionic hands and AI\u2019s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom",
       "source": "MIT Technology Review",
-      "published_at": "2026-11-25T17:00:00+00:00",
-      "excerpt": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I\u2019ve lost count of how many times he\u2019s already been proved right. Sure, it\u2019s technically possible to meet the world\u2019s rising electricity demand with other power sources, including renewables like\u2026",
+      "published_at": "2026-11-26T13:10:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The next generation of bionic hands is here\u2014and they can feel Avi Davidson lost his left hand as a teenager. Since then, he\u2019s cycled through a few prosthetics. But his latest\u2026",
       "category": "AI Tools",
       "score": 38,
       "reasons": [
@@ -286,13 +213,26 @@
       ]
     },
     {
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-25T13:10:00+00:00",
-      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI is straining America\u2019s open records systems AI has intensified investors\u2019 interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data\u2026",
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not",
+      "source": "TechCrunch",
+      "published_at": "2026-11-26T20:00:00+00:00",
+      "excerpt": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
       "category": "AI Tools",
-      "score": 38,
+      "score": 35,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone",
+      "source": "TechCrunch",
+      "published_at": "2026-11-26T17:00:00+00:00",
+      "excerpt": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "category": "AI Tools",
+      "score": 35,
       "reasons": [
         "Matches ai tools terms: ai",
         "Published in the last 30 hours"
