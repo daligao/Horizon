@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T07:49:06.124827+00:00",
+  "total_collected": 191,
+  "after_filtering": 48,
+  "source_status": {
+    "Simon Willison": "ok (30)",
+    "GitHub Blog": "ok (10)",
+    "GitHub Trending": "ok (16)",
+    "The Pragmatic Engineer": "ok (20)",
+    "Lobsters": "ok (25)",
+    "MIT Technology Review": "ok (10)",
+    "IEEE Spectrum": "ok (30)",
+    "TechCrunch": "ok (20)",
+    "Hacker News": "ok (30)"
+  },
+  "items": [
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T19:42:25+00:00",
+      "excerpt": "",
+      "popularity": 363,
+      "category": "Technology",
+      "score": 57,
+      "reasons": [
+        "Matches technology terms: space",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 363"
+      ]
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T08:28:08+00:00",
+      "excerpt": "",
+      "popularity": 676,
+      "category": "AI Tools",
+      "score": 57,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 676"
+      ]
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor Devin CLI Factory Droid Gemini CLI GitHub Copilot CLI Grok Build CLI Kimi Code OpenCode Pi Qwen Code H",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: codex, claude, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "\ud83e\udde0 \u4e24\u5c0f\u65f6\u4ece 0 \u8bad\u51fa\u4f60\u7684 64M \u5927\u6a21\u578b\u3002Train your own 64M LLM from scratch in 2 hours. https://jingyaogong.github.io/minimind \"\u5927\u9053\u81f3\u7b80\" \u4e2d\u6587 | English \u6b64\u5f00\u6e90\u9879\u76ee\u65e8\u5728\u5b8c\u5168\u4ece 0 \u5f00\u59cb\uff0c\u4ec5\u7528 3 \u5757\u94b1\u6210\u672c\u4e0e 2 \u5c0f\u65f6\u8bad\u7ec3\u65f6\u95f4\uff0c\u5373\u53ef\u8bad\u7ec3\u51fa\u89c4\u6a21\u7ea6\u4e3a 64M \u7684\u8d85\u5c0f\u8bed\u8a00\u6a21\u578b MiniMind\u3002 MiniMind \u7cfb\u5217\u6781\u5176\u8f7b\u91cf\uff0c\u4e3b\u7ebf\u6700\u5c0f\u7248\u672c\u4f53\u79ef\u7ea6\u4e3a GPT-3 \u7684 $\\frac{1}{2700}$\uff0c\u529b\u6c42\u8ba9\u666e\u901a\u4e2a\u4eba GPU \u4e5f\u80fd\u5feb\u901f\u5b8c\u6210\u8bad\u7ec3\u4e0e\u590d\u73b0\u3002 \u9879\u76ee\u540c\u65f6\u5f00\u6e90\u4e86\u5927\u6a21\u578b\u7684\u6781\u7b80\u7ed3\u6784\u4e0e\u5b8c\u6574\u8bad\u7ec3\u94fe\u8def\uff0c\u8986\u76d6 MoE\u3001\u6570\u636e\u6e05\u6d17\u3001\u9884\u8bad\u7ec3\uff08Pretrain\uff09\u3001\u76d1\u7763\u5fae\u8c03\uff08SFT\uff09\u3001LoRA\u3001RLHF\uff08DPO\uff09\u3001RLAIF\uff08PPO / GRPO / CISPO\uff09\u3001Tool Use\u3001Agentic RL\u3001\u81ea\u9002\u5e94\u601d\u8003\u4e0e\u6a21\u578b\u84b8\u998f\u7b49\u5168\u8fc7\u7a0b\u4ee3\u7801\u3002 MiniMind \u540c\u65f6\u62d3\u5c55\u4e86\u89c6\u89c9\u6a21\u6001\u6a21\u578b MiniMind-V \u3001\u591a\u6a21\u6001 Omni \u6a21\u578b MiniMind-O \u3001\u6269\u6563\u8bed\u8a00\u6a21\u578b\uff08MiniMind-dLM\uff09\u3001\u7ebf\u6027\u6a21\u578b\uff08MiniM",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, llm, agent",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending",
+      "published_at": null,
+      "excerpt": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. https://diagramdesign.dev An agent skill that draws diagrams as one self-contained HTML + SVG file, in your brand. 52 diagram types. No shadows. No Mermaid slop. Website \u00b7 Gallery \u00b7 Changelog Install \u00b7 What it makes \u00b7 Quickstart \u00b7 Match your brand \u00b7 Import \u00b7 Export \u00b7 Contributing npx skills add cathrynlavery/diagram-desig",
+      "category": "AI Tools",
+      "score": 52,
+      "reasons": [
+        "Matches ai tools terms: ai, codex, claude",
+        "Trusted specialist source"
+      ]
+    },
+    {
+      "title": "This ER Doctor Became a Hospital\u2019s First Clinical AI Engineer",
+      "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "source": "IEEE Spectrum",
+      "published_at": "2026-11-27T14:00:01+00:00",
+      "excerpt": "When Boston Children\u2019s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn\u2019t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the best answers from large language models (LLMs) by carefully wording instructions, supplying examples, and giving the systems personas or other context. Dinesh Rai Employer: Boston Children\u2019s Hospital Occ",
+      "category": "AI Tools",
+      "score": 49,
+      "reasons": [
+        "Matches ai tools terms: ai, llm",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T20:23:14+00:00",
+      "excerpt": "",
+      "popularity": 56,
+      "category": "AI Tools",
+      "score": 44,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours",
+        "Hacker News score: 56"
+      ]
+    },
+    {
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+      "source": "Simon Willison",
+      "published_at": "2026-11-27T23:57:17+00:00",
+      "excerpt": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart plugins a whole lot more ergonomic. I've also added a website for the plugin, at charts.datasette.io ",
+      "category": "AI Tools",
+      "score": 43,
+      "reasons": [
+        "Matches ai tools terms: claude",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+      "url": "https://roboticoverlords.org/tinyhat",
+      "source": "Lobsters",
+      "published_at": "2026-11-27T09:11:13+00:00",
+      "excerpt": "Tiny Hat uses only around 100MB of RAM after booting, and can be booted from a >= 1GB memory stick. It comes with a few small games, an easy way to install and run more games and several example programs for getting into retro game development. It also uses a modern stack of libraries, with dwl / Wayland, SDL3 and GTK4. One possible use is to buy a cheap x86 machine for younger members of a family, to completely brain wash inspire them into getting into graphics programming and appreciating retr",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Build your own Paint",
+      "url": "https://www.buildyourownpaint.com/en",
+      "source": "Lobsters",
+      "published_at": "2026-11-27T16:22:36+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Curb impacts of AI on programming to maintain EU sovereignty",
+      "url": "https://www.draketo.de/software/curb-ai-impact",
+      "source": "Lobsters",
+      "published_at": "2026-11-27T07:00:03+00:00",
+      "excerpt": "Comments",
+      "category": "AI Tools",
+      "score": 39,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Trusted specialist source",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-27T13:00:00+00:00",
+      "excerpt": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world\u2019s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-27T10:00:00+00:00",
+      "excerpt": "Over the last few weeks, I\u2019ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He\u2019s also taking\u2026",
+      "category": "AI Tools",
+      "score": 38,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published in the last 30 hours"
+      ]
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "source": "TechCrunch",
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "category": "Technology",
+      "score": 36,
+      "reasons": [
+        "Matches technology terms: chip, manufacturing",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "datasette-mcp 0.4",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp",
+      "source": "Simon Willison",
+      "published_at": "2026-11-27T00:26:17+00:00",
+      "excerpt": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+      "category": "AI Tools",
+      "score": 33,
+      "reasons": [
+        "Matches ai tools terms: mcp",
+        "Trusted specialist source",
+        "Published this week"
+      ]
+    },
+    {
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not",
+      "source": "TechCrunch",
+      "published_at": "2026-11-26T20:00:00+00:00",
+      "excerpt": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "category": "AI Tools",
+      "score": 25,
+      "reasons": [
+        "Matches ai tools terms: ai",
+        "Published this week"
+      ]
+    }
+  ]
+}
